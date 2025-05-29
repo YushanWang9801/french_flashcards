@@ -1,52 +1,41 @@
 <template>
   <div class="app-container">
-
     <header class="app-header">
-      <div class="username">YushanWang9801</div>
-      <!-- <div class="toggle-switch" @click="toggleDarkMode" :class="{ 'dark': isDark }">
-        <div class="toggle-knob"></div>
-      </div> -->
+      <div class="username" href="yushanwang9801.github.io">YushanWang9801</div>
     </header>
 
-    <button @click="goBack" class="back-button">← 返回课程</button>
-
-    <!-- 面包屑导航 -->
-    <nav class="breadcrumb">
-      <span class="course">course N</span>
-      <span class="separator"> &gt; </span>
-      <span class="lesson">lesson M</span>
-    </nav>
+    <div style="display: flex; gap: 20px;">
+      <nav class="breadcrumb">
+        <span class="course">{{ courseName }}</span>
+        <span class="separator"> &gt; </span>
+        <span class="lesson">{{ lesson }}</span>
+      </nav>
+    </div>
 
     <!-- Flashcard 查看区域 -->
-    <section
-    class="flashcard-viewer"
-    @touchstart="handleTouchStart"
-    @touchend="handleTouchEnd"
-  >
-    <!-- 点击翻转 -->
-    <div class="flashcard" @click="toggleFlip">
-      <div class="card-content" :class="{ flipped: isFlipped }">
-        <div class="face front" v-if="!isFlipped">
-          <!-- 显示法语单词 -->
-          {{ currentCard.word }}
-        </div>
-        <div class="face back" v-else>
-          <!-- 显示英语翻译 -->
-          {{ currentCard.translation }}
+    <section class="flashcard-viewer" @touchstart="handleTouchStart" @touchend="handleTouchEnd">
+      <!-- 点击翻转 -->
+      <div class="flashcard" @click="toggleFlip">
+        <div class="card-content" :class="{ flipped: isFlipped }">
+          <div class="face front" v-if="!isFlipped">
+            {{ currentCard.word }}
+          </div>
+          <div class="face back" v-else>
+            {{ currentCard.translation }}
+          </div>
         </div>
       </div>
-    </div>
 
-    <div class="card-index">
-      {{ currentIndex + 1 }} / {{ lessonCards.length }}
-    </div>
+      <div class="card-index">
+        {{ currentIndex + 1 }} / {{ lessonCards.length }}
+      </div>
 
-    <!-- 左右切换按钮 -->
-    <div class="navigation-buttons">
-      <button @click.stop="prevCard"> Prev </button>
-      <button @click.stop="nextCard"> Next </button>
-    </div>
-  </section>
+      <!-- 左右切换按钮 -->
+      <div class="navigation-buttons">
+        <button @click.stop="prevCard"> Prev </button>
+        <button @click.stop="nextCard"> Next </button>
+      </div>
+    </section>
 
     <!-- Lesson 单词列表 -->
     <section class="card-list">
@@ -68,44 +57,81 @@
         </li>
       </ul>
     </section>
+
     <Footer />
   </div>
 </template>
 
 <script setup>
-import { ref, computed, watch, onMounted} from 'vue'
-import lessonCardsData from '../data/l1.json'
-import Footer from './Footer.vue'
-import { useRoute } from 'vue-router'
+import { ref, computed, watch } from 'vue'
+import { useRoute, useRouter } from 'vue-router'
 
 const route = useRoute()
-const cards = ref([])
+const router = useRouter()
 
-onMounted(async () => {
-  const lesson = route.params.id
-  try {
-    const module = await import(`../data/${lesson}.json`)
-    cards.value = module.default || module
-  } catch (e) {
-    console.error('加载 flashcard 数据失败:', e)
-  }
-})
+const courseName = ref('')  // 从 index.json 获取的课程名称
+const course = ref('')
+const lesson = ref('')
 
-const lessonCards = ref(lessonCardsData)
+const lessonCards = ref([])
 const currentIndex = ref(0)
 const isFlipped = ref(false)
 
-// 获取当前的 flashcard
-const currentCard = computed(() => lessonCards.value[currentIndex.value])
+const currentCard = computed(() => lessonCards.value[currentIndex.value] || {})
 
-// 翻转卡片
+watch(
+  () => route.params.slug,
+  async (slug) => {
+    if (!slug) return
+
+    try {
+      const [rawCourse, rawLesson] = slug.split('-')
+      course.value = rawCourse
+      lesson.value = rawLesson
+
+      // 获取课程数据
+      const response = await fetch(`/data/${rawCourse}.json`)
+      const courseData = await response.json()
+      lessonCards.value = courseData[rawLesson] || []
+      currentIndex.value = 0
+      isFlipped.value = false
+
+      // 获取 index.json 以获取 course 显示名
+      const indexRes = await fetch('/data/index.json')
+      const indexData = await indexRes.json()
+      courseName.value = indexData[rawCourse]
+    } catch (e) {
+      console.error('加载数据失败:', e)
+      lessonCards.value = []
+      courseName.value = ''
+    }
+  },
+  { immediate: true }
+)
+
 const toggleFlip = () => {
   isFlipped.value = !isFlipped.value
 }
 
-// 用于滑动切换卡片，记录触摸起始位置
-let touchStartX = 0
+function prevCard() {
+  if (currentIndex.value > 0) {
+    currentIndex.value--
+  } else {
+    currentIndex.value = lessonCards.value.length - 1
+  }
+  isFlipped.value = false
+}
 
+function nextCard() {
+  if (currentIndex.value < lessonCards.value.length - 1) {
+    currentIndex.value++
+  } else {
+    currentIndex.value = 0
+  }
+  isFlipped.value = false
+}
+
+let touchStartX = 0
 const handleTouchStart = (event) => {
   touchStartX = event.changedTouches[0].clientX
 }
@@ -113,56 +139,16 @@ const handleTouchStart = (event) => {
 const handleTouchEnd = (event) => {
   const touchEndX = event.changedTouches[0].clientX
   const deltaX = touchEndX - touchStartX
-
-  // 简单判定阈值，50px 内忽略
   const swipeThreshold = 50
-
   if (deltaX > swipeThreshold) {
-    // 往右滑，上一张卡片
-    if (currentIndex.value > 0) {
-      currentIndex.value--
-      isFlipped.value = false
-    }
+    prevCard()
   } else if (deltaX < -swipeThreshold) {
-    // 往左滑，下一张卡片
-    if (currentIndex.value < lessonCards.value.length - 1) {
-      currentIndex.value++
-      isFlipped.value = false
-    }
+    nextCard()
   }
 }
 
-
-function prevCard() {
-  if (currentIndex.value > 0) {
-    currentIndex.value--
-  } else {
-    currentIndex.value = lessonCards.value.length - 1 // 循环到最后一张
-  }
-  isFlipped.value = false
-}
-
-// 切换到下一张
-function nextCard() {
-  if (currentIndex.value < lessonCards.value.length - 1) {
-    currentIndex.value++
-  } else {
-    currentIndex.value = 0 // 循环回第一张
-  }
-  isFlipped.value = false
-}
-
-const isDark = ref(false)
-watch(isDark, (newVal) => {
-  if (newVal) {
-    document.body.classList.add('dark-mode')
-  } else {
-    document.body.classList.remove('dark-mode')
-  }
-})
-
-const toggleDarkMode = () => {
-  isDark.value = !isDark.value
+function goBack() {
+  router.push('/')
 }
 </script>
 
@@ -211,6 +197,7 @@ const toggleDarkMode = () => {
   left: 2px;
   transition: left 0.3s;
 }
+
 .toggle-switch.dark .toggle-knob {
   left: 20px;
 }
@@ -247,6 +234,7 @@ body.dark-mode {
   font-size: 1.2em;
   color: #555;
 }
+
 .separator {
   margin: 0 5px;
 }
@@ -259,6 +247,7 @@ body.dark-mode {
   margin-bottom: 30px;
   user-select: none;
 }
+
 .flashcard {
   width: 300px;
   height: 180px;
@@ -267,6 +256,7 @@ body.dark-mode {
   margin-bottom: 10px;
   color: black;
 }
+
 .card-content {
   width: 100%;
   height: 100%;
@@ -277,9 +267,11 @@ body.dark-mode {
   transition: transform 0.6s;
   transform-style: preserve-3d;
 }
+
 .card-content.flipped {
   transform: rotateY(180deg);
 }
+
 .face {
   position: absolute;
   width: 100%;
@@ -289,9 +281,11 @@ body.dark-mode {
   border-radius: 8px;
   background-color: #f9f9f9;
 }
+
 .back {
   transform: rotateY(180deg);
 }
+
 .card-index {
   font-size: 1em;
   color: #888;
@@ -301,24 +295,30 @@ body.dark-mode {
 .card-list {
   margin-top: 20px;
 }
+
 .card-list h2 {
   margin-bottom: 10px;
 }
+
 .card-row {
   border-bottom: 1px solid #ddd;
   padding: 10px 0;
 }
+
 .word-pair {
   display: flex;
   justify-content: space-between;
   font-weight: bold;
 }
+
 .examples {
   margin-top: 5px;
   font-size: 0.9em;
   color: #555;
 }
-.french-example, .english-example {
+
+.french-example,
+.english-example {
   margin: 2px 0;
 }
 
@@ -381,13 +381,11 @@ body.dark-mode {
   border: 1px solid #666;
   background: #fff;
   cursor: pointer;
-    color: black;
+  color: black;
 }
 
 .navigation-buttons button:hover {
   background: #ddd;
   color: black;
 }
-
 </style>
-

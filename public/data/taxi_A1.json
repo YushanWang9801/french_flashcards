@@ -1,0 +1,3296 @@
+{
+    "Lesson 1": [
+        {
+            "word": "appeler",
+            "translation": "to call",
+            "frenchExample": "Il faut appeler un médecin immédiatement si vous avez de la fièvre.",
+            "englishExample": "You need to call a doctor immediately if you have a fever."
+        },
+        {
+            "word": "bienvenue",
+            "translation": "welcome",
+            "frenchExample": "Je vous souhaite la bienvenue dans notre nouvelle maison.",
+            "englishExample": "I welcome you to our new home."
+        },
+        {
+            "word": "bonjour",
+            "translation": "hello",
+            "frenchExample": "Bonjour, comment ça va aujourd'hui ?",
+            "englishExample": "Hello, how are you today?"
+        },
+        {
+            "word": "ce",
+            "translation": "this",
+            "frenchExample": "Ce livre est très intéressant, je le recommande à tout le monde.",
+            "englishExample": "This book is very interesting, I recommend it to everyone."
+        },
+        {
+            "word": "elle",
+            "translation": "she",
+            "frenchExample": "Elle est une excellente professeure et tous les étudiants l'apprécient.",
+            "englishExample": "She is an excellent teacher and all the students appreciate her."
+        },
+        {
+            "word": "et",
+            "translation": "and",
+            "frenchExample": "Il aime les pommes et les oranges, mais il n'aime pas les bananes.",
+            "englishExample": "He likes apples and oranges, but he doesn't like bananas."
+        },
+        {
+            "word": "être",
+            "translation": "to be",
+            "frenchExample": "Être en bonne santé est la chose la plus importante dans la vie.",
+            "englishExample": "Being in good health is the most important thing in life."
+        },
+        {
+            "word": "étudiant",
+            "translation": "student",
+            "frenchExample": "L'étudiant a travaillé dur pour réussir ses examens.",
+            "englishExample": "The student worked hard to pass his exams."
+        },
+        {
+            "word": "femme",
+            "translation": "woman",
+            "frenchExample": "La femme est une médecin réputée dans cette ville.",
+            "englishExample": "The woman is a well-known doctor in this city."
+        },
+        {
+            "word": "français",
+            "translation": "French",
+            "frenchExample": "Il parle français couramment et il a étudié en France.",
+            "englishExample": "He speaks French fluently and he studied in France."
+        },
+        {
+            "word": "il",
+            "translation": "he",
+            "frenchExample": "Il est en retard parce qu'il a manqué le bus.",
+            "englishExample": "He is late because he missed the bus."
+        },
+        {
+            "word": "italien",
+            "translation": "Italian",
+            "frenchExample": "Elle adore la cuisine italienne et elle cuisine souvent des pâtes.",
+            "englishExample": "She loves Italian cuisine and often cooks pasta."
+        },
+        {
+            "word": "ma",
+            "translation": "my",
+            "frenchExample": "Ma sœur est médecin et elle travaille dans un hôpital.",
+            "englishExample": "My sister is a doctor and she works in a hospital."
+        },
+        {
+            "word": "madame",
+            "translation": "madam",
+            "frenchExample": "Bonjour madame, comment puis-je vous aider aujourd'hui ?",
+            "englishExample": "Hello madam, how can I help you today?"
+        },
+        {
+            "word": "mari",
+            "translation": "husband",
+            "frenchExample": "Son mari est un homme très gentil et attentionné.",
+            "englishExample": "Her husband is a very kind and caring man."
+        },
+        {
+            "word": "mon",
+            "translation": "my",
+            "frenchExample": "Mon ami m'a offert un cadeau pour mon anniversaire.",
+            "englishExample": "My friend gave me a gift for my birthday."
+        },
+        {
+            "word": "monsieur",
+            "translation": "sir",
+            "frenchExample": "Bonjour monsieur, bienvenue dans notre magasin.",
+            "englishExample": "Hello sir, welcome to our store."
+        },
+        {
+            "word": "nationalité",
+            "translation": "nationality",
+            "frenchExample": "Sa nationalité est française, mais il vit aux États-Unis.",
+            "englishExample": "His nationality is French, but he lives in the United States."
+        },
+        {
+            "word": "nom",
+            "translation": "name",
+            "frenchExample": "Quel est votre nom ? - Mon nom est Pierre.",
+            "englishExample": "What is your name? - My name is Pierre."
+        },
+        {
+            "word": "non",
+            "translation": "no",
+            "frenchExample": "Je ne veux pas de café, merci. - Non, je préfère du thé.",
+            "englishExample": "I don't want coffee, thank you. - No, I prefer tea."
+        },
+        {
+            "word": "oui",
+            "translation": "yes",
+            "frenchExample": "Voulez-vous venir avec nous ? - Oui, avec plaisir.",
+            "englishExample": "Do you want to come with us? - Yes, with pleasure."
+        },
+        {
+            "word": "prénom",
+            "translation": "first name",
+            "frenchExample": "Son prénom est Marie et son nom de famille est Dubois.",
+            "englishExample": "Her first name is Marie and her last name is Dubois."
+        },
+        {
+            "word": "qui",
+            "translation": "who",
+            "frenchExample": "Qui est cette femme qui parle avec mon père ?",
+            "englishExample": "Who is that woman talking to my father?"
+        },
+        {
+            "word": "tu",
+            "translation": "you",
+            "frenchExample": "Tu es mon meilleur ami et je te fais confiance.",
+            "englishExample": "You are my best friend and I trust you."
+        },
+        {
+            "word": "voici",
+            "translation": "here is",
+            "frenchExample": "Voici mon numéro de téléphone, appelle-moi quand tu veux.",
+            "englishExample": "Here is my phone number, call me whenever you want."
+        },
+        {
+            "word": "vous",
+            "translation": "you",
+            "frenchExample": "Vous êtes les bienvenus chez nous à tout moment.",
+            "englishExample": "You are welcome in our home anytime."
+        }
+    ],
+    "Lesson 2": [
+        {
+            "word": "à",
+            "translation": "to",
+            "frenchExample": "Elle va à l'école tous les matins.",
+            "englishExample": "She goes to school every morning."
+        },
+        {
+            "word": "assistante",
+            "translation": "assistant",
+            "frenchExample": "L'assistante a préparé les documents pour la réunion.",
+            "englishExample": "The assistant prepared the documents for the meeting."
+        },
+        {
+            "word": "belge",
+            "translation": "Belgian",
+            "frenchExample": "Le chocolat belge est très célèbre.",
+            "englishExample": "Belgian chocolate is very famous."
+        },
+        {
+            "word": "café",
+            "translation": "coffee",
+            "frenchExample": "Il prend un café tous les matins avec son croissant.",
+            "englishExample": "He has coffee every morning with his croissant."
+        },
+        {
+            "word": "chinois",
+            "translation": "Chinese",
+            "frenchExample": "Le chinois est une langue difficile à apprendre.",
+            "englishExample": "Chinese is a difficult language to learn."
+        },
+        {
+            "word": "cours",
+            "translation": "class",
+            "frenchExample": "Elle a un cours de français à 10 heures du matin.",
+            "englishExample": "She has a French class at 10 a.m."
+        },
+        {
+            "word": "dans",
+            "translation": "in",
+            "frenchExample": "Il vit dans une grande maison avec sa famille.",
+            "englishExample": "He lives in a big house with his family."
+        },
+        {
+            "word": "directeur",
+            "translation": "director",
+            "frenchExample": "Le directeur a organisé une réunion pour discuter du projet.",
+            "englishExample": "The director organized a meeting to discuss the project."
+        },
+        {
+            "word": "en",
+            "translation": "in",
+            "frenchExample": "Elle parle couramment en français et en anglais.",
+            "englishExample": "She speaks fluently in French and English."
+        },
+        {
+            "word": "espagnol",
+            "translation": "Spanish",
+            "frenchExample": "Il étudie l'espagnol depuis trois ans.",
+            "englishExample": "He has been studying Spanish for three years."
+        },
+        {
+            "word": "France",
+            "translation": "France",
+            "frenchExample": "La France est un pays européen très connu.",
+            "englishExample": "France is a very well-known European country."
+        },
+        {
+            "word": "français",
+            "translation": "French",
+            "frenchExample": "Le français est la langue officielle de la France.",
+            "englishExample": "French is the official language of France."
+        },
+        {
+            "word": "Genève",
+            "translation": "Geneva",
+            "frenchExample": "Genève est une ville suisse très belle.",
+            "englishExample": "Geneva is a very beautiful Swiss city."
+        },
+        {
+            "word": "habiter",
+            "translation": "to live",
+            "frenchExample": "Ils habitent dans une petite ville près de la mer.",
+            "englishExample": "They live in a small town near the sea."
+        },
+        {
+            "word": "japon",
+            "translation": "Japan",
+            "frenchExample": "Le Japon est un pays asiatique avec une culture riche.",
+            "englishExample": "Japan is an Asian country with a rich culture."
+        },
+        {
+            "word": "japonais",
+            "translation": "Japanese",
+            "frenchExample": "Le japonais est une langue complexe avec de nombreux caractères.",
+            "englishExample": "Japanese is a complex language with many characters."
+        },
+        {
+            "word": "ou",
+            "translation": "or",
+            "frenchExample": "Voulez-vous du thé ou du café ?",
+            "englishExample": "Do you want tea or coffee?"
+        },
+        {
+            "word": "professeur",
+            "translation": "professor",
+            "frenchExample": "Le professeur a expliqué le sujet en détail.",
+            "englishExample": "The professor explained the subject in detail."
+        },
+        {
+            "word": "rendez-vous",
+            "translation": "appointment",
+            "frenchExample": "J'ai un rendez-vous avec le médecin à 3 heures.",
+            "englishExample": "I have an appointment with the doctor at 3 o'clock."
+        },
+        {
+            "word": "secrétaire",
+            "translation": "secretary",
+            "frenchExample": "La secrétaire a organisé la réunion pour demain.",
+            "englishExample": "The secretary organized the meeting for tomorrow."
+        },
+        {
+            "word": "s'il vous plaît",
+            "translation": "please",
+            "frenchExample": "Pouvez-vous m'aider, s'il vous plaît ?",
+            "englishExample": "Can you help me, please?"
+        },
+        {
+            "word": "suisse",
+            "translation": "Swiss",
+            "frenchExample": "Le chocolat suisse est très réputé.",
+            "englishExample": "Swiss chocolate is very famous."
+        },
+        {
+            "word": "sympa",
+            "translation": "nice",
+            "frenchExample": "C'est une fille très sympa et gentille.",
+            "englishExample": "She is a very nice and kind girl."
+        },
+        {
+            "word": "téléphone",
+            "translation": "telephone",
+            "frenchExample": "Il a appelé son ami au téléphone hier soir.",
+            "englishExample": "He called his friend on the phone last night."
+        },
+        {
+            "word": "thé",
+            "translation": "tea",
+            "frenchExample": "Elle boit du thé vert tous les après-midis.",
+            "englishExample": "She drinks green tea every afternoon."
+        }
+    ],
+    "Lesson 3": [
+        {
+            "word": "adresse",
+            "translation": "address",
+            "frenchExample": "Veuillez me donner votre adresse pour que je puisse vous envoyer le colis.",
+            "englishExample": "Please give me your address so that I can send you the package."
+        },
+        {
+            "word": "âge",
+            "translation": "age",
+            "frenchExample": "Quel est ton âge ? - J'ai vingt-cinq ans.",
+            "englishExample": "How old are you? - I am twenty-five years old."
+        },
+        {
+            "word": "aller",
+            "translation": "to go",
+            "frenchExample": "Il faut que j'aille à la bibliothèque pour étudier.",
+            "englishExample": "I need to go to the library to study."
+        },
+        {
+            "word": "alors",
+            "translation": "then",
+            "frenchExample": "Alors, qu'est-ce que tu veux faire ce soir ?",
+            "englishExample": "So, what do you want to do tonight?"
+        },
+        {
+            "word": "ami",
+            "translation": "friend",
+            "frenchExample": "Mon ami est un garçon très gentil et loyal.",
+            "englishExample": "My friend is a very kind and loyal boy."
+        },
+        {
+            "word": "avec",
+            "translation": "with",
+            "frenchExample": "Elle est allée au restaurant avec ses amis.",
+            "englishExample": "She went to the restaurant with her friends."
+        },
+        {
+            "word": "avoir",
+            "translation": "to have",
+            "frenchExample": "Il faut avoir de la patience pour apprendre une nouvelle langue.",
+            "englishExample": "You need to have patience to learn a new language."
+        },
+        {
+            "word": "bébé",
+            "translation": "baby",
+            "frenchExample": "Le bébé dort dans son berceau.",
+            "englishExample": "The baby is sleeping in his crib."
+        },
+        {
+            "word": "bien",
+            "translation": "well",
+            "frenchExample": "Il parle français très bien.",
+            "englishExample": "He speaks French very well."
+        },
+        {
+            "word": "ça",
+            "translation": "that",
+            "frenchExample": "Ça me fait plaisir de vous rencontrer.",
+            "englishExample": "I'm happy to meet you."
+        },
+        {
+            "word": "Canada",
+            "translation": "Canada",
+            "frenchExample": "Le Canada est un grand pays avec de nombreuses provinces.",
+            "englishExample": "Canada is a large country with many provinces."
+        },
+        {
+            "word": "comment",
+            "translation": "how",
+            "frenchExample": "Comment vas-tu ? - Je vais bien, merci.",
+            "englishExample": "How are you? - I'm fine, thank you."
+        },
+        {
+            "word": "e-mail",
+            "translation": "email",
+            "frenchExample": "Elle m'a envoyé un e-mail pour me donner des nouvelles.",
+            "englishExample": "She sent me an email to give me some news."
+        },
+        {
+            "word": "fille",
+            "translation": "girl",
+            "frenchExample": "Sa fille est une étudiante très intelligente.",
+            "englishExample": "His daughter is a very intelligent student."
+        },
+        {
+            "word": "fils",
+            "translation": "son",
+            "frenchExample": "Son fils est un bon musicien.",
+            "englishExample": "His son is a good musician."
+        },
+        {
+            "word": "garçon",
+            "translation": "boy",
+            "frenchExample": "Le garçon joue au football avec ses amis.",
+            "englishExample": "The boy is playing soccer with his friends."
+        },
+        {
+            "word": "journée",
+            "translation": "day",
+            "frenchExample": "La journée a été très productive.",
+            "englishExample": "The day has been very productive."
+        },
+        {
+            "word": "maintenant",
+            "translation": "now",
+            "frenchExample": "Il est tard, il faut partir maintenant.",
+            "englishExample": "It's late, we need to leave now."
+        },
+        {
+            "word": "merci",
+            "translation": "thank you",
+            "frenchExample": "Merci beaucoup pour votre aide.",
+            "englishExample": "Thank you very much for your help."
+        },
+        {
+            "word": "Montréal",
+            "translation": "Montreal",
+            "frenchExample": "Montréal est une ville multiculturelle au Canada.",
+            "englishExample": "Montreal is a multicultural city in Canada."
+        },
+        {
+            "word": "Notre-Dame",
+            "translation": "Notre-Dame",
+            "frenchExample": "La cathédrale Notre-Dame est un monument historique à Paris.",
+            "englishExample": "Notre-Dame Cathedral is a historical monument in Paris."
+        },
+        {
+            "word": "Paris",
+            "translation": "Paris",
+            "frenchExample": "Paris est la capitale de la France.",
+            "englishExample": "Paris is the capital of France."
+        },
+        {
+            "word": "parler",
+            "translation": "to speak",
+            "frenchExample": "Elle parle plusieurs langues étrangères.",
+            "englishExample": "She speaks several foreign languages."
+        },
+        {
+            "word": "quel",
+            "translation": "which",
+            "frenchExample": "Quel livre préfères-tu ?",
+            "englishExample": "Which book do you prefer?"
+        },
+        {
+            "word": "quelle",
+            "translation": "which",
+            "frenchExample": "Quelle est la meilleure option pour toi ?",
+            "englishExample": "Which is the best option for you?"
+        },
+        {
+            "word": "rue",
+            "translation": "street",
+            "frenchExample": "La rue est très animée le soir.",
+            "englishExample": "The street is very lively in the evening."
+        },
+        {
+            "word": "salut",
+            "translation": "hi",
+            "frenchExample": "Salut, comment ça va ?",
+            "englishExample": "Hi, how's it going?"
+        },
+        {
+            "word": "son",
+            "translation": "his/her",
+            "frenchExample": "C'est son livre préféré.",
+            "englishExample": "It's his/her favorite book."
+        },
+        {
+            "word": "toi",
+            "translation": "you",
+            "frenchExample": "Comment ça va, toi ?",
+            "englishExample": "How are you doing?"
+        },
+        {
+            "word": "ton",
+            "translation": "your",
+            "frenchExample": "C'est ton sac ?",
+            "englishExample": "Is this your bag?"
+        },
+        {
+            "word": "un",
+            "translation": "a",
+            "frenchExample": "Il a acheté un nouveau téléphone.",
+            "englishExample": "He bought a new phone."
+        },
+        {
+            "word": "votre",
+            "translation": "your",
+            "frenchExample": "Pouvez-vous me donner votre numéro de téléphone, s'il vous plaît ?",
+            "englishExample": "Can you give me your phone number, please?"
+        },
+        {
+            "word": "vous",
+            "translation": "you",
+            "frenchExample": "Comment allez-vous ?",
+            "englishExample": "How are you?"
+        }
+    ],
+    "Lesson 4": [
+        {
+            "word": "aimer",
+            "translation": "to love",
+            "frenchExample": "Elle aime voyager et découvrir de nouvelles cultures.",
+            "englishExample": "She loves traveling and discovering new cultures."
+        },
+        {
+            "word": "an",
+            "translation": "year",
+            "frenchExample": "Il y a un an, nous étions encore étudiants.",
+            "englishExample": "A year ago, we were still students."
+        },
+        {
+            "word": "aussi",
+            "translation": "also",
+            "frenchExample": "Elle aime le chocolat, et moi aussi.",
+            "englishExample": "She loves chocolate, and I do too."
+        },
+        {
+            "word": "beaucoup",
+            "translation": "a lot",
+            "frenchExample": "Il a beaucoup travaillé pour réussir son projet.",
+            "englishExample": "He worked a lot to succeed in his project."
+        },
+        {
+            "word": "Belgique",
+            "translation": "Belgium",
+            "frenchExample": "La Belgique est connue pour ses chocolats et ses bières.",
+            "englishExample": "Belgium is known for its chocolates and beers."
+        },
+        {
+            "word": "boulanger",
+            "translation": "baker",
+            "frenchExample": "Le boulanger prépare des pains frais tous les matins.",
+            "englishExample": "The baker prepares fresh bread every morning."
+        },
+        {
+            "word": "Bruxelles",
+            "translation": "Brussels",
+            "frenchExample": "Bruxelles est la capitale de la Belgique.",
+            "englishExample": "Brussels is the capital of Belgium."
+        },
+        {
+            "word": "Cayenne",
+            "translation": "Cayenne",
+            "frenchExample": "La Cayenne est une ville en Guyane française.",
+            "englishExample": "Cayenne is a city in French Guiana."
+        },
+        {
+            "word": "chercher",
+            "translation": "to look for",
+            "frenchExample": "Il cherche ses clés partout dans la maison.",
+            "englishExample": "He is looking for his keys everywhere in the house."
+        },
+        {
+            "word": "cinéma",
+            "translation": "cinema",
+            "frenchExample": "Nous allons au cinéma pour voir le dernier film d'action.",
+            "englishExample": "We are going to the cinema to see the latest action movie."
+        },
+        {
+            "word": "classique",
+            "translation": "classical",
+            "frenchExample": "La musique classique est très appréciée par les amateurs de musique.",
+            "englishExample": "Classical music is highly appreciated by music lovers."
+        },
+        {
+            "word": "correspondant",
+            "translation": "correspondent",
+            "frenchExample": "Le correspondant a envoyé un rapport de la scène du crime.",
+            "englishExample": "The correspondent sent a report from the crime scene."
+        },
+        {
+            "word": "correspondance",
+            "translation": "correspondence",
+            "frenchExample": "Il a reçu une correspondance importante hier.",
+            "englishExample": "He received important correspondence yesterday."
+        },
+        {
+            "word": "Dakar",
+            "translation": "Dakar",
+            "frenchExample": "Dakar est la capitale du Sénégal.",
+            "englishExample": "Dakar is the capital of Senegal."
+        },
+        {
+            "word": "danse",
+            "translation": "dance",
+            "frenchExample": "Elle adore danser la salsa avec ses amis.",
+            "englishExample": "She loves dancing salsa with her friends."
+        },
+        {
+            "word": "de",
+            "translation": "of",
+            "frenchExample": "Il est fier de ses réalisations.",
+            "englishExample": "He is proud of his achievements."
+        },
+        {
+            "word": "espagnol",
+            "translation": "Spanish",
+            "frenchExample": "Elle étudie l'espagnol depuis deux ans.",
+            "englishExample": "She has been studying Spanish for two years."
+        },
+        {
+            "word": "Europe",
+            "translation": "Europe",
+            "frenchExample": "L'Europe est un continent riche en histoire et en culture.",
+            "englishExample": "Europe is a continent rich in history and culture."
+        },
+        {
+            "word": "golf",
+            "translation": "golf",
+            "frenchExample": "Il joue au golf tous les week-ends avec ses amis.",
+            "englishExample": "He plays golf every weekend with his friends."
+        },
+        {
+            "word": "guyannais",
+            "translation": "Guyanese",
+            "frenchExample": "La cuisine guyannaise est très riche en épices.",
+            "englishExample": "Guyanese cuisine is very rich in spices."
+        },
+        {
+            "word": "Lausanne",
+            "translation": "Lausanne",
+            "frenchExample": "Lausanne est une ville suisse connue pour son université.",
+            "englishExample": "Lausanne is a Swiss city known for its university."
+        },
+        {
+            "word": "lecture",
+            "translation": "reading",
+            "frenchExample": "La lecture est une activité très enrichissante.",
+            "englishExample": "Reading is a very enriching activity."
+        },
+        {
+            "word": "moi",
+            "translation": "me",
+            "frenchExample": "Donne-moi un coup de main, s'il te plaît.",
+            "englishExample": "Give me a hand, please."
+        },
+        {
+            "word": "monde",
+            "translation": "world",
+            "frenchExample": "Le monde est plein de surprises.",
+            "englishExample": "The world is full of surprises."
+        },
+        {
+            "word": "musique",
+            "translation": "music",
+            "frenchExample": "La musique est un langage universel.",
+            "englishExample": "Music is a universal language."
+        },
+        {
+            "word": "nature",
+            "translation": "nature",
+            "frenchExample": "La nature est très belle en cette saison.",
+            "englishExample": "Nature is very beautiful this season."
+        },
+        {
+            "word": "photo",
+            "translation": "photo",
+            "frenchExample": "Elle a pris de nombreuses photos lors de son voyage.",
+            "englishExample": "She took many photos during her trip."
+        },
+        {
+            "word": "québécoise",
+            "translation": "Quebecois",
+            "frenchExample": "La culture québécoise est très riche et diversifiée.",
+            "englishExample": "Quebecois culture is very rich and diverse."
+        },
+        {
+            "word": "Sénégal",
+            "translation": "Senegal",
+            "frenchExample": "Le Sénégal est un pays en Afrique de l'Ouest.",
+            "englishExample": "Senegal is a country in West Africa."
+        },
+        {
+            "word": "sœur",
+            "translation": "sister",
+            "frenchExample": "Ma sœur est médecin et elle travaille dans un hôpital.",
+            "englishExample": "My sister is a doctor and she works in a hospital."
+        },
+        {
+            "word": "souvent",
+            "translation": "often",
+            "frenchExample": "Il va souvent au cinéma avec ses amis.",
+            "englishExample": "He often goes to the cinema with his friends."
+        },
+        {
+            "word": "sport",
+            "translation": "sport",
+            "frenchExample": "Le sport est une activité très importante pour la santé.",
+            "englishExample": "Sport is a very important activity for health."
+        },
+        {
+            "word": "un peu",
+            "translation": "a little",
+            "frenchExample": "Il parle un peu français, mais il n'est pas très fluide.",
+            "englishExample": "He speaks a little French, but he is not very fluent."
+        },
+        {
+            "word": "volley-ball",
+            "translation": "volleyball",
+            "frenchExample": "Elle joue au volley-ball tous les samedis avec son équipe.",
+            "englishExample": "She plays volleyball every Saturday with her team."
+        }
+    ],
+    "Lesson 5": [
+        {
+            "word": "affiche",
+            "translation": "poster",
+            "frenchExample": "Il y a une affiche très intéressante sur le mur.",
+            "englishExample": "There is a very interesting poster on the wall."
+        },
+        {
+            "word": "assiette",
+            "translation": "plate",
+            "frenchExample": "Elle a posé l'assiette sur la table.",
+            "englishExample": "She put the plate on the table."
+        },
+        {
+            "word": "au dessous",
+            "translation": "below",
+            "frenchExample": "Le livre est au dessous de la table.",
+            "englishExample": "The book is below the table."
+        },
+        {
+            "word": "au dessus",
+            "translation": "above",
+            "frenchExample": "Il y a une lumière au dessus de la porte.",
+            "englishExample": "There is a light above the door."
+        },
+        {
+            "word": "avec",
+            "translation": "with",
+            "frenchExample": "Elle est venue avec ses amis.",
+            "englishExample": "She came with her friends."
+        },
+        {
+            "word": "blouson",
+            "translation": "jacket",
+            "frenchExample": "Il porte un blouson pour se protéger du froid.",
+            "englishExample": "He is wearing a jacket to protect himself from the cold."
+        },
+        {
+            "word": "chaise",
+            "translation": "chair",
+            "frenchExample": "Il y a une chaise dans chaque salle de classe.",
+            "englishExample": "There is a chair in every classroom."
+        },
+        {
+            "word": "chapeau",
+            "translation": "hat",
+            "frenchExample": "Elle porte un chapeau pour se protéger du soleil.",
+            "englishExample": "She is wearing a hat to protect herself from the sun."
+        },
+        {
+            "word": "chat",
+            "translation": "cat",
+            "frenchExample": "Le chat dort sur le canapé.",
+            "englishExample": "The cat is sleeping on the couch."
+        },
+        {
+            "word": "contre",
+            "translation": "against",
+            "frenchExample": "Il s'est appuyé contre le mur.",
+            "englishExample": "He leaned against the wall."
+        },
+        {
+            "word": "côte",
+            "translation": "coast",
+            "frenchExample": "La côte est très belle en été.",
+            "englishExample": "The coast is very beautiful in the summer."
+        },
+        {
+            "word": "à côté de",
+            "translation": "next to",
+            "frenchExample": "Il habite à côté de moi.",
+            "englishExample": "He lives next to me."
+        },
+        {
+            "word": "de",
+            "translation": "of",
+            "frenchExample": "Il est fier de ses réalisations.",
+            "englishExample": "He is proud of his achievements."
+        },
+        {
+            "word": "devant",
+            "translation": "in front of",
+            "frenchExample": "Il est assis devant moi.",
+            "englishExample": "He is sitting in front of me."
+        },
+        {
+            "word": "droite",
+            "translation": "right",
+            "frenchExample": "Tourne à droite après le feu de circulation.",
+            "englishExample": "Turn right after the traffic light."
+        },
+        {
+            "word": "à droite de",
+            "translation": "to the right of",
+            "frenchExample": "Le livre est à droite de la lampe.",
+            "englishExample": "The book is to the right of the lamp."
+        },
+        {
+            "word": "étagère",
+            "translation": "shelf",
+            "frenchExample": "Les livres sont rangés sur l'étagère.",
+            "englishExample": "The books are arranged on the shelf."
+        },
+        {
+            "word": "fauteuil",
+            "translation": "armchair",
+            "frenchExample": "Il s'est assis dans le fauteuil confortable.",
+            "englishExample": "He sat in the comfortable armchair."
+        },
+        {
+            "word": "fenêtre",
+            "translation": "window",
+            "frenchExample": "Elle ouvre la fenêtre pour aérer la pièce.",
+            "englishExample": "She opens the window to ventilate the room."
+        },
+        {
+            "word": "gauche",
+            "translation": "left",
+            "frenchExample": "Tourne à gauche après le magasin.",
+            "englishExample": "Turn left after the store."
+        },
+        {
+            "word": "à gauche de",
+            "translation": "to the left of",
+            "frenchExample": "Le bureau est à gauche de la porte.",
+            "englishExample": "The desk is to the left of the door."
+        },
+        {
+            "word": "il y a",
+            "translation": "there is/there are",
+            "frenchExample": "Il y a beaucoup de gens dans la rue.",
+            "englishExample": "There are many people in the street."
+        },
+        {
+            "word": "la",
+            "translation": "the",
+            "frenchExample": "La maison est très grande.",
+            "englishExample": "The house is very big."
+        },
+        {
+            "word": "lit",
+            "translation": "bed",
+            "frenchExample": "Il est temps de faire le lit.",
+            "englishExample": "It's time to make the bed."
+        },
+        {
+            "word": "livre",
+            "translation": "book",
+            "frenchExample": "Elle lit un livre passionnant.",
+            "englishExample": "She is reading an exciting book."
+        },
+        {
+            "word": "mur",
+            "translation": "wall",
+            "frenchExample": "Le mur est peint en blanc.",
+            "englishExample": "The wall is painted white."
+        },
+        {
+            "word": "oh",
+            "translation": "oh",
+            "frenchExample": "Oh, j'ai oublié mon sac.",
+            "englishExample": "Oh, I forgot my bag."
+        },
+        {
+            "word": "objet",
+            "translation": "object",
+            "frenchExample": "Il a trouvé un objet étrange dans le jardin.",
+            "englishExample": "He found a strange object in the garden."
+        },
+        {
+            "word": "ordinateur",
+            "translation": "computer",
+            "frenchExample": "Il travaille sur son ordinateur portable.",
+            "englishExample": "He is working on his laptop."
+        },
+        {
+            "word": "que",
+            "translation": "that",
+            "frenchExample": "Je pense que c'est une bonne idée.",
+            "englishExample": "I think that it's a good idea."
+        },
+        {
+            "word": "sac",
+            "translation": "bag",
+            "frenchExample": "Elle a un sac à main pour ses courses.",
+            "englishExample": "She has a handbag for her shopping."
+        },
+        {
+            "word": "sous",
+            "translation": "under",
+            "frenchExample": "Le chat est sous la table.",
+            "englishExample": "The cat is under the table."
+        },
+        {
+            "word": "sur",
+            "translation": "on",
+            "frenchExample": "Le livre est sur la table.",
+            "englishExample": "The book is on the table."
+        },
+        {
+            "word": "table",
+            "translation": "table",
+            "frenchExample": "Elle a mis la nourriture sur la table.",
+            "englishExample": "She put the food on the table."
+        },
+        {
+            "word": "trouver",
+            "translation": "to find",
+            "frenchExample": "Il a trouvé une solution au problème.",
+            "englishExample": "He found a solution to the problem."
+        },
+        {
+            "word": "verre",
+            "translation": "glass",
+            "frenchExample": "Il a bu son verre d'eau.",
+            "englishExample": "He drank his glass of water."
+        },
+        {
+            "word": "voilà",
+            "translation": "here you are",
+            "frenchExample": "Voilà, c'est fini.",
+            "englishExample": "There you go, it's done."
+        }
+    ],
+    "Lesson 6": [
+        {
+            "word": "autre",
+            "translation": "other",
+            "frenchExample": "Il y a d'autres options que nous pouvons considérer.",
+            "englishExample": "There are other options that we can consider."
+        },
+        {
+            "word": "basket",
+            "translation": "sneakers",
+            "frenchExample": "Elle porte des baskets pour courir tous les matins.",
+            "englishExample": "She wears sneakers for running every morning."
+        },
+        {
+            "word": "blanc",
+            "translation": "white",
+            "frenchExample": "La neige est blanche et pure.",
+            "englishExample": "The snow is white and pure."
+        },
+        {
+            "word": "blond",
+            "translation": "blond",
+            "frenchExample": "Il a des cheveux blonds et des yeux bleus.",
+            "englishExample": "He has blond hair and blue eyes."
+        },
+        {
+            "word": "bleu",
+            "translation": "blue",
+            "frenchExample": "Le ciel est bleu et sans nuages.",
+            "englishExample": "The sky is blue and cloudless."
+        },
+        {
+            "word": "brun",
+            "translation": "brown",
+            "frenchExample": "Elle a les cheveux bruns et les yeux noisette.",
+            "englishExample": "She has brown hair and hazel eyes."
+        },
+        {
+            "word": "chaussure",
+            "translation": "shoe",
+            "frenchExample": "Elle a acheté de nouvelles chaussures pour la soirée.",
+            "englishExample": "She bought new shoes for the evening."
+        },
+        {
+            "word": "chemise",
+            "translation": "shirt",
+            "frenchExample": "Il porte une chemise bleue avec un pantalon noir.",
+            "englishExample": "He is wearing a blue shirt with black pants."
+        },
+        {
+            "word": "chose",
+            "translation": "thing",
+            "frenchExample": "Il y a beaucoup de choses à faire aujourd'hui.",
+            "englishExample": "There are many things to do today."
+        },
+        {
+            "word": "couleur",
+            "translation": "color",
+            "frenchExample": "Ma couleur préférée est le vert.",
+            "englishExample": "My favorite color is green."
+        },
+        {
+            "word": "d'accord",
+            "translation": "okay",
+            "frenchExample": "Est-ce que tu es d'accord avec moi ? - Oui, d'accord.",
+            "englishExample": "Do you agree with me? - Yes, okay."
+        },
+        {
+            "word": "grand",
+            "translation": "tall",
+            "frenchExample": "Il est grand et mince.",
+            "englishExample": "He is tall and thin."
+        },
+        {
+            "word": "homme",
+            "translation": "man",
+            "frenchExample": "L'homme porte un costume noir.",
+            "englishExample": "The man is wearing a black suit."
+        },
+        {
+            "word": "jean",
+            "translation": "jeans",
+            "frenchExample": "Elle porte un jean avec un t-shirt blanc.",
+            "englishExample": "She is wearing jeans with a white t-shirt."
+        },
+        {
+            "word": "leur",
+            "translation": "their",
+            "frenchExample": "Ils ont apporté leurs livres à la bibliothèque.",
+            "englishExample": "They brought their books to the library."
+        },
+        {
+            "word": "leurs",
+            "translation": "their",
+            "frenchExample": "Elle a lu leurs lettres avec attention.",
+            "englishExample": "She read their letters carefully."
+        },
+        {
+            "word": "lui",
+            "translation": "him/her",
+            "frenchExample": "Elle a donné le livre à son ami, mais lui ne l'a pas lu.",
+            "englishExample": "She gave the book to her friend, but he/she didn't read it."
+        },
+        {
+            "word": "lunettes",
+            "translation": "glasses",
+            "frenchExample": "Il porte des lunettes pour lire.",
+            "englishExample": "He wears glasses for reading."
+        },
+        {
+            "word": "ne...pas",
+            "translation": "not",
+            "frenchExample": "Il ne mange pas de viande.",
+            "englishExample": "He does not eat meat."
+        },
+        {
+            "word": "noir",
+            "translation": "black",
+            "frenchExample": "La nuit est très noire sans lune.",
+            "englishExample": "The night is very dark without the moon."
+        },
+        {
+            "word": "pantalon",
+            "translation": "pants",
+            "frenchExample": "Il porte un pantalon noir pour le travail.",
+            "englishExample": "He wears black pants for work."
+        },
+        {
+            "word": "petit",
+            "translation": "small",
+            "frenchExample": "Il habite dans une petite maison en bord de mer.",
+            "englishExample": "He lives in a small house by the sea."
+        },
+        {
+            "word": "porter",
+            "translation": "to wear",
+            "frenchExample": "Elle porte une robe bleue pour la soirée.",
+            "englishExample": "She is wearing a blue dress for the evening."
+        },
+        {
+            "word": "portrait-robot",
+            "translation": "composite sketch",
+            "frenchExample": "La police a utilisé un portrait-robot pour identifier le suspect.",
+            "englishExample": "The police used a composite sketch to identify the suspect."
+        },
+        {
+            "word": "rouge",
+            "translation": "red",
+            "frenchExample": "La feuille d'automne est rouge et jaune.",
+            "englishExample": "The autumn leaf is red and yellow."
+        },
+        {
+            "word": "tee-shirt",
+            "translation": "t-shirt",
+            "frenchExample": "Il porte un tee-shirt blanc avec un short.",
+            "englishExample": "He is wearing a white t-shirt with shorts."
+        },
+        {
+            "word": "vert",
+            "translation": "green",
+            "frenchExample": "L'herbe est verte après la pluie.",
+            "englishExample": "The grass is green after the rain."
+        },
+        {
+            "word": "vêtement",
+            "translation": "clothing",
+            "frenchExample": "Elle a acheté de nouveaux vêtements pour l'été.",
+            "englishExample": "She bought new clothes for the summer."
+        }
+    ],
+    "Lesson 7": [
+        {
+            "word": "bien",
+            "translation": "well",
+            "frenchExample": "Il parle français très bien et il est très poli.",
+            "englishExample": "He speaks French very well and he is very polite."
+        },
+        {
+            "word": "bon",
+            "translation": "good",
+            "frenchExample": "Le vin est bon et la nourriture est délicieuse.",
+            "englishExample": "The wine is good and the food is delicious."
+        },
+        {
+            "word": "cher",
+            "translation": "expensive",
+            "frenchExample": "Ce restaurant est très cher, mais la qualité est exceptionnelle.",
+            "englishExample": "This restaurant is very expensive, but the quality is exceptional."
+        },
+        {
+            "word": "combien",
+            "translation": "how much",
+            "frenchExample": "Combien coûte cette montre ? - Elle coûte cinquante euros.",
+            "englishExample": "How much does this watch cost? - It costs fifty euros."
+        },
+        {
+            "word": "coûter",
+            "translation": "to cost",
+            "frenchExample": "Le voyage coûte beaucoup d'argent, mais ça vaut le coup.",
+            "englishExample": "The trip costs a lot of money, but it's worth it."
+        },
+        {
+            "word": "et",
+            "translation": "and",
+            "frenchExample": "Il aime les pommes et les oranges, mais il n'aime pas les bananes.",
+            "englishExample": "He likes apples and oranges, but he doesn't like bananas."
+        },
+        {
+            "word": "euro",
+            "translation": "euro",
+            "frenchExample": "Le prix du billet est de vingt euros.",
+            "englishExample": "The price of the ticket is twenty euros."
+        },
+        {
+            "word": "faire",
+            "translation": "to do/make",
+            "frenchExample": "Il faut faire les courses avant de rentrer.",
+            "englishExample": "You need to do the shopping before going home."
+        },
+        {
+            "word": "gris",
+            "translation": "gray",
+            "frenchExample": "Le ciel est gris et il pleut.",
+            "englishExample": "The sky is gray and it is raining."
+        },
+        {
+            "word": "hum",
+            "translation": "hmm",
+            "frenchExample": "Hum, je ne suis pas sûr de vouloir aller à cette fête.",
+            "englishExample": "Hmm, I'm not sure I want to go to this party."
+        },
+        {
+            "word": "joli",
+            "translation": "pretty",
+            "frenchExample": "Elle porte une robe très jolie pour le mariage.",
+            "englishExample": "She is wearing a very pretty dress for the wedding."
+        },
+        {
+            "word": "pour",
+            "translation": "for",
+            "frenchExample": "Il a acheté un cadeau pour son ami.",
+            "englishExample": "He bought a gift for his friend."
+        },
+        {
+            "word": "pull",
+            "translation": "sweater",
+            "frenchExample": "Il porte un pull rouge pour se protéger du froid.",
+            "englishExample": "He is wearing a red sweater to protect himself from the cold."
+        },
+        {
+            "word": "robe",
+            "translation": "dress",
+            "frenchExample": "Elle a acheté une nouvelle robe pour la soirée.",
+            "englishExample": "She bought a new dress for the evening."
+        },
+        {
+            "word": "shopping",
+            "translation": "shopping",
+            "frenchExample": "Elle aime faire du shopping avec ses amies.",
+            "englishExample": "She likes shopping with her friends."
+        },
+        {
+            "word": "très",
+            "translation": "very",
+            "frenchExample": "Il est très content de ses résultats.",
+            "englishExample": "He is very happy with his results."
+        },
+        {
+            "word": "taille",
+            "translation": "size",
+            "frenchExample": "Quelle est ta taille pour les vêtements ? - Je porte du M.",
+            "englishExample": "What is your size for clothing? - I wear a medium."
+        },
+        {
+            "word": "trouver",
+            "translation": "to find",
+            "frenchExample": "Il a trouvé une solution au problème.",
+            "englishExample": "He found a solution to the problem."
+        },
+        {
+            "word": "type",
+            "translation": "type",
+            "frenchExample": "Quel type de musique préfères-tu ? - J'aime la musique classique.",
+            "englishExample": "What type of music do you prefer? - I like classical music."
+        }
+    ],
+    "Lesson 8": [
+        {
+            "word": "artiste",
+            "translation": "artist",
+            "frenchExample": "L'artiste a exposé ses œuvres dans une galerie renommée.",
+            "englishExample": "The artist exhibited his works in a renowned gallery."
+        },
+        {
+            "word": "coin",
+            "translation": "corner",
+            "frenchExample": "Il a trouvé une vieille pièce dans le coin de la pièce.",
+            "englishExample": "He found an old coin in the corner of the room."
+        },
+        {
+            "word": "des",
+            "translation": "some",
+            "frenchExample": "Il y a des livres sur la table.",
+            "englishExample": "There are some books on the table."
+        },
+        {
+            "word": "du",
+            "translation": "some",
+            "frenchExample": "Il a bu du café avec ses amis.",
+            "englishExample": "He drank some coffee with his friends."
+        },
+        {
+            "word": "écrivain",
+            "translation": "writer",
+            "frenchExample": "L'écrivain a publié un nouveau roman cette année.",
+            "englishExample": "The writer published a new novel this year."
+        },
+        {
+            "word": "entre",
+            "translation": "between",
+            "frenchExample": "Il est assis entre ses deux amis.",
+            "englishExample": "He is sitting between his two friends."
+        },
+        {
+            "word": "film",
+            "translation": "film",
+            "frenchExample": "Nous sommes allés voir un film au cinéma hier soir.",
+            "englishExample": "We went to see a film at the cinema last night."
+        },
+        {
+            "word": "môme",
+            "translation": "kid",
+            "frenchExample": "Le môme joue dans le jardin avec ses amis.",
+            "englishExample": "The kid is playing in the garden with his friends."
+        },
+        {
+            "word": "musicien",
+            "translation": "musician",
+            "frenchExample": "Le musicien joue du piano depuis son enfance.",
+            "englishExample": "The musician has been playing the piano since childhood."
+        },
+        {
+            "word": "orange",
+            "translation": "orange",
+            "frenchExample": "Elle a mangé une orange pour le dessert.",
+            "englishExample": "She ate an orange for dessert."
+        },
+        {
+            "word": "peinture",
+            "translation": "painting",
+            "frenchExample": "La peinture est accrochée au mur du salon.",
+            "englishExample": "The painting is hanging on the living room wall."
+        },
+        {
+            "word": "poème",
+            "translation": "poem",
+            "frenchExample": "Il a écrit un poème pour exprimer ses sentiments.",
+            "englishExample": "He wrote a poem to express his feelings."
+        },
+        {
+            "word": "poète",
+            "translation": "poet",
+            "frenchExample": "Le poète est connu pour ses vers romantiques.",
+            "englishExample": "The poet is known for his romantic verses."
+        },
+        {
+            "word": "sculpteur",
+            "translation": "sculptor",
+            "frenchExample": "Le sculpteur a créé une œuvre en marbre.",
+            "englishExample": "The sculptor created a work in marble."
+        },
+        {
+            "word": "tableau",
+            "translation": "painting",
+            "frenchExample": "Elle a acheté un tableau lors de son voyage en Italie.",
+            "englishExample": "She bought a painting during her trip to Italy."
+        },
+        {
+            "word": "tapis",
+            "translation": "rug",
+            "frenchExample": "Le tapis est très doux et confortable.",
+            "englishExample": "The rug is very soft and comfortable."
+        }
+    ],
+    "Lesson 9": [
+        {
+            "word": "agence",
+            "translation": "agency",
+            "frenchExample": "L'agence a organisé un voyage pour nous.",
+            "englishExample": "The agency organized a trip for us."
+        },
+        {
+            "word": "agence immobilière",
+            "translation": "real estate agency",
+            "frenchExample": "Nous avons contacté une agence immobilière pour louer un appartement.",
+            "englishExample": "We contacted a real estate agency to rent an apartment."
+        },
+        {
+            "word": "ancien",
+            "translation": "former",
+            "frenchExample": "Son ancien emploi était très différent de celui-ci.",
+            "englishExample": "His former job was very different from this one."
+        },
+        {
+            "word": "annonce",
+            "translation": "announcement",
+            "frenchExample": "Il y a une annonce importante dans le journal aujourd'hui.",
+            "englishExample": "There is an important announcement in the newspaper today."
+        },
+        {
+            "word": "petite annonce",
+            "translation": "classified ad",
+            "frenchExample": "Elle a trouvé un emploi grâce à une petite annonce.",
+            "englishExample": "She found a job through a classified ad."
+        },
+        {
+            "word": "appartement",
+            "translation": "apartment",
+            "frenchExample": "Ils ont emménagé dans un nouvel appartement.",
+            "englishExample": "They moved into a new apartment."
+        },
+        {
+            "word": "avenue",
+            "translation": "avenue",
+            "frenchExample": "L'avenue est très animée le soir.",
+            "englishExample": "The avenue is very lively in the evening."
+        },
+        {
+            "word": "bout",
+            "translation": "end",
+            "frenchExample": "Il est au bout de la rue.",
+            "englishExample": "He is at the end of the street."
+        },
+        {
+            "word": "bruyant",
+            "translation": "noisy",
+            "frenchExample": "Le quartier est très bruyant à cause des voitures.",
+            "englishExample": "The neighborhood is very noisy because of the cars."
+        },
+        {
+            "word": "bureau",
+            "translation": "office",
+            "frenchExample": "Il travaille dans un grand bureau avec une vue magnifique.",
+            "englishExample": "He works in a large office with a beautiful view."
+        },
+        {
+            "word": "chez",
+            "translation": "at (someone's place)",
+            "frenchExample": "Nous allons chez lui pour le dîner.",
+            "englishExample": "We are going to his place for dinner."
+        },
+        {
+            "word": "clair",
+            "translation": "clear",
+            "frenchExample": "Le ciel est clair et sans nuages.",
+            "englishExample": "The sky is clear and cloudless."
+        },
+        {
+            "word": "couloir",
+            "translation": "hallway",
+            "frenchExample": "Il marche dans le couloir pour aller à son bureau.",
+            "englishExample": "He walks down the hallway to go to his office."
+        },
+        {
+            "word": "cuisine",
+            "translation": "kitchen",
+            "frenchExample": "Elle cuisine un repas délicieux dans la cuisine.",
+            "englishExample": "She is cooking a delicious meal in the kitchen."
+        },
+        {
+            "word": "douche",
+            "translation": "shower",
+            "frenchExample": "Il prend une douche tous les matins.",
+            "englishExample": "He takes a shower every morning."
+        },
+        {
+            "word": "entrée",
+            "translation": "entrance",
+            "frenchExample": "La porte d'entrée est en bois.",
+            "englishExample": "The entrance door is made of wood."
+        },
+        {
+            "word": "étage",
+            "translation": "floor",
+            "frenchExample": "L'appartement est au deuxième étage.",
+            "englishExample": "The apartment is on the second floor."
+        },
+        {
+            "word": "face",
+            "translation": "face",
+            "frenchExample": "Il a un visage très expressif.",
+            "englishExample": "He has a very expressive face."
+        },
+        {
+            "word": "immeuble",
+            "translation": "apartment building",
+            "frenchExample": "L'immeuble a plusieurs étages et des appartements spacieux.",
+            "englishExample": "The apartment building has several floors and spacious apartments."
+        },
+        {
+            "word": "immobilière",
+            "translation": "real estate",
+            "frenchExample": "L'agence immobilière propose des maisons et des appartements à vendre.",
+            "englishExample": "The real estate agency offers houses and apartments for sale."
+        },
+        {
+            "word": "louer",
+            "translation": "to rent",
+            "frenchExample": "Ils ont décidé de louer un appartement plutôt que d'acheter une maison.",
+            "englishExample": "They decided to rent an apartment instead of buying a house."
+        },
+        {
+            "word": "mètre",
+            "translation": "meter",
+            "frenchExample": "La pièce mesure cinq mètres de long.",
+            "englishExample": "The room is five meters long."
+        },
+        {
+            "word": "mètre carré",
+            "translation": "square meter",
+            "frenchExample": "L'appartement a une surface de 80 mètres carrés.",
+            "englishExample": "The apartment has an area of 80 square meters."
+        },
+        {
+            "word": "mois",
+            "translation": "month",
+            "frenchExample": "Le bail est valable pour une période de douze mois.",
+            "englishExample": "The lease is valid for a period of twelve months."
+        },
+        {
+            "word": "ou",
+            "translation": "or",
+            "frenchExample": "Voulez-vous du thé ou du café ?",
+            "englishExample": "Do you want tea or coffee?"
+        },
+        {
+            "word": "parking",
+            "translation": "parking",
+            "frenchExample": "Il y a un parking souterrain pour les résidents.",
+            "englishExample": "There is an underground parking lot for residents."
+        },
+        {
+            "word": "placard",
+            "translation": "closet",
+            "frenchExample": "Elle a rangé ses vêtements dans le placard.",
+            "englishExample": "She put her clothes in the closet."
+        },
+        {
+            "word": "plan",
+            "translation": "plan",
+            "frenchExample": "Il a dessiné un plan de la maison.",
+            "englishExample": "He drew a plan of the house."
+        },
+        {
+            "word": "premier",
+            "translation": "first",
+            "frenchExample": "L'appartement est au premier étage.",
+            "englishExample": "The apartment is on the first floor."
+        },
+        {
+            "word": "récent",
+            "translation": "recent",
+            "frenchExample": "Il a acheté une maison récente avec de nombreuses commodités.",
+            "englishExample": "He bought a recent house with many amenities."
+        },
+        {
+            "word": "responsable",
+            "translation": "responsible",
+            "frenchExample": "Elle est responsable de la gestion des locations.",
+            "englishExample": "She is responsible for managing the rentals."
+        },
+        {
+            "word": "rez-de-chaussée",
+            "translation": "ground floor",
+            "frenchExample": "L'entrée de l'immeuble est au rez-de-chaussée.",
+            "englishExample": "The entrance to the building is on the ground floor."
+        },
+        {
+            "word": "salle",
+            "translation": "room",
+            "frenchExample": "La salle de réunion est réservée pour cet après-midi.",
+            "englishExample": "The conference room is booked for this afternoon."
+        },
+        {
+            "word": "salle de bains",
+            "translation": "bathroom",
+            "frenchExample": "La salle de bains a une douche et une baignoire.",
+            "englishExample": "The bathroom has a shower and a bathtub."
+        },
+        {
+            "word": "sombre",
+            "translation": "dark",
+            "frenchExample": "La pièce est sombre parce qu'il n'y a pas de fenêtres.",
+            "englishExample": "The room is dark because there are no windows."
+        },
+        {
+            "word": "toilettes",
+            "translation": "toilets",
+            "frenchExample": "Les toilettes sont situées au rez-de-chaussée.",
+            "englishExample": "The toilets are located on the ground floor."
+        },
+        {
+            "word": "troisième",
+            "translation": "third",
+            "frenchExample": "L'appartement est au troisième étage.",
+            "englishExample": "The apartment is on the third floor."
+        }
+    ],
+    "Lesson 10": [
+        {
+            "word": "après",
+            "translation": "after",
+            "frenchExample": "Après le travail, il va souvent au gym pour se détendre.",
+            "englishExample": "After work, he often goes to the gym to relax."
+        },
+        {
+            "word": "banque",
+            "translation": "bank",
+            "frenchExample": "Il est allé à la banque pour retirer de l'argent.",
+            "englishExample": "He went to the bank to withdraw money."
+        },
+        {
+            "word": "bien sûr",
+            "translation": "of course",
+            "frenchExample": "Veux-tu venir avec nous ? - Bien sûr, avec plaisir.",
+            "englishExample": "Do you want to come with us? - Of course, with pleasure."
+        },
+        {
+            "word": "bus",
+            "translation": "bus",
+            "frenchExample": "Elle prend le bus pour aller au travail tous les matins.",
+            "englishExample": "She takes the bus to work every morning."
+        },
+        {
+            "word": "continuer",
+            "translation": "to continue",
+            "frenchExample": "Il faut continuer à apprendre pour progresser.",
+            "englishExample": "You need to continue learning to make progress."
+        },
+        {
+            "word": "direct(e)",
+            "translation": "direct",
+            "frenchExample": "Elle a pris le train direct pour Paris.",
+            "englishExample": "She took the direct train to Paris."
+        },
+        {
+            "word": "droit",
+            "translation": "right",
+            "frenchExample": "Tourne à droite après le feu de circulation.",
+            "englishExample": "Turn right after the traffic light."
+        },
+        {
+            "word": "ensuite",
+            "translation": "then",
+            "frenchExample": "Il a fini son travail, ensuite il est allé manger.",
+            "englishExample": "He finished his work, then he went to eat."
+        },
+        {
+            "word": "entrer",
+            "translation": "to enter",
+            "frenchExample": "Il entre dans la pièce avec un grand sourire.",
+            "englishExample": "He enters the room with a big smile."
+        },
+        {
+            "word": "jardin",
+            "translation": "garden",
+            "frenchExample": "Le jardin est plein de fleurs et de légumes.",
+            "englishExample": "The garden is full of flowers and vegetables."
+        },
+        {
+            "word": "jusque",
+            "translation": "until",
+            "frenchExample": "Il travaille jusque tard dans la nuit.",
+            "englishExample": "He works until late at night."
+        },
+        {
+            "word": "la",
+            "translation": "the",
+            "frenchExample": "La maison est très grande et confortable.",
+            "englishExample": "The house is very large and comfortable."
+        },
+        {
+            "word": "ligne",
+            "translation": "line",
+            "frenchExample": "Il attend dans la ligne pour acheter des billets.",
+            "englishExample": "He is waiting in line to buy tickets."
+        },
+        {
+            "word": "loin",
+            "translation": "far",
+            "frenchExample": "La ville est loin d'ici, il faut prendre l'autoroute.",
+            "englishExample": "The city is far from here, you need to take the highway."
+        },
+        {
+            "word": "métro",
+            "translation": "subway",
+            "frenchExample": "Il prend le métro pour aller au centre-ville.",
+            "englishExample": "He takes the subway to go downtown."
+        },
+        {
+            "word": "moto",
+            "translation": "motorcycle",
+            "frenchExample": "Il conduit une moto pour se déplacer rapidement.",
+            "englishExample": "He rides a motorcycle to get around quickly."
+        },
+        {
+            "word": "musée",
+            "translation": "museum",
+            "frenchExample": "Nous avons visité le musée d'art moderne hier.",
+            "englishExample": "We visited the modern art museum yesterday."
+        },
+        {
+            "word": "opéra",
+            "translation": "opera",
+            "frenchExample": "L'opéra est une forme d'art très appréciée.",
+            "englishExample": "Opera is a highly appreciated form of art."
+        },
+        {
+            "word": "par",
+            "translation": "by",
+            "frenchExample": "Le livre a été écrit par un célèbre auteur.",
+            "englishExample": "The book was written by a famous author."
+        },
+        {
+            "word": "pardon",
+            "translation": "excuse me",
+            "frenchExample": "Pardon, pouvez-vous m'aider ?",
+            "englishExample": "Excuse me, can you help me?"
+        },
+        {
+            "word": "passer",
+            "translation": "to pass",
+            "frenchExample": "Il faut passer par ici pour aller au parc.",
+            "englishExample": "You need to pass through here to get to the park."
+        },
+        {
+            "word": "pied",
+            "translation": "foot",
+            "frenchExample": "Il s'est blessé au pied en jouant au football.",
+            "englishExample": "He hurt his foot while playing soccer."
+        },
+        {
+            "word": "place",
+            "translation": "place",
+            "frenchExample": "Il y a beaucoup de monde sur la place du marché.",
+            "englishExample": "There are many people on the market square."
+        },
+        {
+            "word": "pont",
+            "translation": "bridge",
+            "frenchExample": "Le pont est très ancien et très beau.",
+            "englishExample": "The bridge is very old and very beautiful."
+        },
+        {
+            "word": "poste",
+            "translation": "post",
+            "frenchExample": "Il travaille au poste de police depuis cinq ans.",
+            "englishExample": "He has been working at the police station for five years."
+        },
+        {
+            "word": "prendre",
+            "translation": "to take",
+            "frenchExample": "Il prend le bus pour aller au travail tous les matins.",
+            "englishExample": "He takes the bus to work every morning."
+        },
+        {
+            "word": "rollers",
+            "translation": "roller skates",
+            "frenchExample": "Les enfants adorent faire du rollers dans le parc.",
+            "englishExample": "The children love to roller skate in the park."
+        },
+        {
+            "word": "tout",
+            "translation": "everything",
+            "frenchExample": "Il a tout préparé pour le voyage.",
+            "englishExample": "He has prepared everything for the trip."
+        },
+        {
+            "word": "travail",
+            "translation": "work",
+            "frenchExample": "Il travaille dur pour atteindre ses objectifs.",
+            "englishExample": "He works hard to achieve his goals."
+        },
+        {
+            "word": "traverser",
+            "translation": "to cross",
+            "frenchExample": "Il faut traverser la rue avec prudence.",
+            "englishExample": "You need to cross the street carefully."
+        },
+        {
+            "word": "vélo",
+            "translation": "bicycle",
+            "frenchExample": "Il va au travail en vélo tous les jours.",
+            "englishExample": "He goes to work by bicycle every day."
+        },
+        {
+            "word": "voiture",
+            "translation": "car",
+            "frenchExample": "Elle conduit sa voiture pour aller faire les courses.",
+            "englishExample": "She drives her car to go shopping."
+        }
+    ],
+    "Lesson 11": [
+        {
+            "word": "air",
+            "translation": "air",
+            "frenchExample": "L'air est frais et pur après la pluie.",
+            "englishExample": "The air is fresh and pure after the rain."
+        },
+        {
+            "word": "air conditionné",
+            "translation": "air-conditioned",
+            "frenchExample": "La salle de conférence est air conditionnée.",
+            "englishExample": "The conference room is air-conditioned."
+        },
+        {
+            "word": "bar",
+            "translation": "bar",
+            "frenchExample": "Ils se sont rencontrés au bar pour discuter.",
+            "englishExample": "They met at the bar to talk."
+        },
+        {
+            "word": "bien sûr",
+            "translation": "of course",
+            "frenchExample": "Veux-tu venir avec nous ? - Bien sûr, avec plaisir.",
+            "englishExample": "Do you want to come with us? - Of course, with pleasure."
+        },
+        {
+            "word": "bon",
+            "translation": "good",
+            "frenchExample": "Le vin est bon et la nourriture est délicieuse.",
+            "englishExample": "The wine is good and the food is delicious."
+        },
+        {
+            "word": "bonne",
+            "translation": "good",
+            "frenchExample": "Elle est une bonne amie et toujours là pour moi.",
+            "englishExample": "She is a good friend and always there for me."
+        },
+        {
+            "word": "bord",
+            "translation": "edge",
+            "frenchExample": "Il marche au bord de la rivière.",
+            "englishExample": "He walks along the edge of the river."
+        },
+        {
+            "word": "carte",
+            "translation": "map",
+            "frenchExample": "Il regarde la carte pour trouver son chemin.",
+            "englishExample": "He looks at the map to find his way."
+        },
+        {
+            "word": "circuit",
+            "translation": "circuit",
+            "frenchExample": "Le circuit de Formule 1 est très populaire.",
+            "englishExample": "The Formula 1 circuit is very popular."
+        },
+        {
+            "word": "conditionné",
+            "translation": "conditioned",
+            "frenchExample": "L'air conditionné rend la pièce très confortable.",
+            "englishExample": "The air conditioning makes the room very comfortable."
+        },
+        {
+            "word": "conseil",
+            "translation": "advice",
+            "frenchExample": "Il a donné un bon conseil à son ami.",
+            "englishExample": "He gave good advice to his friend."
+        },
+        {
+            "word": "est",
+            "translation": "is",
+            "frenchExample": "Il est grand et mince.",
+            "englishExample": "He is tall and thin."
+        },
+        {
+            "word": "hélicoptère",
+            "translation": "helicopter",
+            "frenchExample": "L'hélicoptère atterrit sur le toit de l'hôpital.",
+            "englishExample": "The helicopter lands on the roof of the hospital."
+        },
+        {
+            "word": "île",
+            "translation": "island",
+            "frenchExample": "L'île est entourée par la mer.",
+            "englishExample": "The island is surrounded by the sea."
+        },
+        {
+            "word": "jour",
+            "translation": "day",
+            "frenchExample": "Aujourd'hui est un jour spécial.",
+            "englishExample": "Today is a special day."
+        },
+        {
+            "word": "juste",
+            "translation": "just",
+            "frenchExample": "Il est juste derrière toi.",
+            "englishExample": "He is just behind you."
+        },
+        {
+            "word": "mer",
+            "translation": "sea",
+            "frenchExample": "La mer est très calme aujourd'hui.",
+            "englishExample": "The sea is very calm today."
+        },
+        {
+            "word": "nord",
+            "translation": "north",
+            "frenchExample": "Nous allons vers le nord.",
+            "englishExample": "We are heading north."
+        },
+        {
+            "word": "on",
+            "translation": "we",
+            "frenchExample": "On va au cinéma ce soir.",
+            "englishExample": "We are going to the cinema tonight."
+        },
+        {
+            "word": "ouest",
+            "translation": "west",
+            "frenchExample": "Le soleil se couche à l'ouest.",
+            "englishExample": "The sun sets in the west."
+        },
+        {
+            "word": "parfait",
+            "translation": "perfect",
+            "frenchExample": "Le temps est parfait pour une promenade.",
+            "englishExample": "The weather is perfect for a walk."
+        },
+        {
+            "word": "partir",
+            "translation": "to leave",
+            "frenchExample": "Nous devons partir tôt pour éviter les embouteillages.",
+            "englishExample": "We need to leave early to avoid traffic."
+        },
+        {
+            "word": "piscine",
+            "translation": "swimming pool",
+            "frenchExample": "La piscine est ouverte tous les après-midis.",
+            "englishExample": "The swimming pool is open every afternoon."
+        },
+        {
+            "word": "plage",
+            "translation": "beach",
+            "frenchExample": "La plage est très belle en été.",
+            "englishExample": "The beach is very beautiful in the summer."
+        },
+        {
+            "word": "puis",
+            "translation": "then",
+            "frenchExample": "Il a fini son travail, puis il est allé manger.",
+            "englishExample": "He finished his work, then he went to eat."
+        },
+        {
+            "word": "réception",
+            "translation": "reception",
+            "frenchExample": "Il est allé à la réception pour demander des informations.",
+            "englishExample": "He went to the reception to ask for information."
+        },
+        {
+            "word": "restaurant",
+            "translation": "restaurant",
+            "frenchExample": "Nous allons au restaurant pour célébrer son anniversaire.",
+            "englishExample": "We are going to the restaurant to celebrate his birthday."
+        },
+        {
+            "word": "sud",
+            "translation": "south",
+            "frenchExample": "Nous allons vers le sud pour les vacances.",
+            "englishExample": "We are heading south for the holidays."
+        },
+        {
+            "word": "télévision",
+            "translation": "television",
+            "frenchExample": "Il regarde la télévision tous les soirs.",
+            "englishExample": "He watches television every evening."
+        },
+        {
+            "word": "terrasse",
+            "translation": "terrace",
+            "frenchExample": "La terrasse offre une vue magnifique sur la ville.",
+            "englishExample": "The terrace offers a beautiful view of the city."
+        },
+        {
+            "word": "ville",
+            "translation": "city",
+            "frenchExample": "La ville est très animée le soir.",
+            "englishExample": "The city is very lively in the evening."
+        },
+        {
+            "word": "visiter",
+            "translation": "to visit",
+            "frenchExample": "Nous devons visiter le musée d'art moderne.",
+            "englishExample": "We need to visit the modern art museum."
+        },
+        {
+            "word": "voyage",
+            "translation": "trip",
+            "frenchExample": "Le voyage a été très enrichissant.",
+            "englishExample": "The trip was very enriching."
+        },
+        {
+            "word": "agence de voyages",
+            "translation": "travel agency",
+            "frenchExample": "Nous avons réservé notre voyage à travers une agence de voyages.",
+            "englishExample": "We booked our trip through a travel agency."
+        },
+        {
+            "word": "weekend",
+            "translation": "weekend",
+            "frenchExample": "Nous allons passer le weekend à la campagne.",
+            "englishExample": "We are going to spend the weekend in the countryside."
+        }
+    ],
+    "Lesson 12": [
+        {
+            "word": "aéroport",
+            "translation": "airport",
+            "frenchExample": "L'aéroport est très loin du centre-ville.",
+            "englishExample": "The airport is very far from the city center."
+        },
+        {
+            "word": "aquarium",
+            "translation": "aquarium",
+            "frenchExample": "L'aquarium est un endroit fascinant pour observer les poissons.",
+            "englishExample": "The aquarium is a fascinating place to observe fish."
+        },
+        {
+            "word": "archéologie",
+            "translation": "archaeology",
+            "frenchExample": "L'archéologie est une science qui étudie les civilisations anciennes.",
+            "englishExample": "Archaeology is a science that studies ancient civilizations."
+        },
+        {
+            "word": "art",
+            "translation": "art",
+            "frenchExample": "L'art est une forme d'expression très diversifiée.",
+            "englishExample": "Art is a very diverse form of expression."
+        },
+        {
+            "word": "avion",
+            "translation": "airplane",
+            "frenchExample": "Il prend l'avion pour aller en vacances.",
+            "englishExample": "He takes the airplane to go on vacation."
+        },
+        {
+            "word": "autour de",
+            "translation": "around",
+            "frenchExample": "La réunion a tourné autour de la question du budget.",
+            "englishExample": "The meeting revolved around the question of the budget."
+        },
+        {
+            "word": "bateau",
+            "translation": "boat",
+            "frenchExample": "Ils sont partis en bateau pour une croisière.",
+            "englishExample": "They left by boat for a cruise."
+        },
+        {
+            "word": "billet",
+            "translation": "ticket",
+            "frenchExample": "Il a acheté un billet pour le concert.",
+            "englishExample": "He bought a ticket for the concert."
+        },
+        {
+            "word": "bise",
+            "translation": "kiss",
+            "frenchExample": "Elle a fait la bise à ses amis avant de partir.",
+            "englishExample": "She kissed her friends before leaving."
+        },
+        {
+            "word": "carte",
+            "translation": "map",
+            "frenchExample": "Il a consulté la carte pour trouver son chemin.",
+            "englishExample": "He consulted the map to find his way."
+        },
+        {
+            "word": "centre",
+            "translation": "center",
+            "frenchExample": "Le centre-ville est très animé le soir.",
+            "englishExample": "The city center is very lively in the evening."
+        },
+        {
+            "word": "château",
+            "translation": "castle",
+            "frenchExample": "Le château est entouré d'un parc magnifique.",
+            "englishExample": "The castle is surrounded by a beautiful park."
+        },
+        {
+            "word": "contemporain",
+            "translation": "contemporary",
+            "frenchExample": "L'art contemporain est très populaire aujourd'hui.",
+            "englishExample": "Contemporary art is very popular today."
+        },
+        {
+            "word": "destination",
+            "translation": "destination",
+            "frenchExample": "La destination de leurs vacances est la Grèce.",
+            "englishExample": "Their vacation destination is Greece."
+        },
+        {
+            "word": "gratuit",
+            "translation": "free",
+            "frenchExample": "L'entrée au musée est gratuite le dimanche.",
+            "englishExample": "The museum entrance is free on Sundays."
+        },
+        {
+            "word": "hôtel",
+            "translation": "hotel",
+            "frenchExample": "Ils ont réservé une chambre à l'hôtel pour leur voyage.",
+            "englishExample": "They booked a room at the hotel for their trip."
+        },
+        {
+            "word": "hôtel de ville",
+            "translation": "city hall",
+            "frenchExample": "L'hôtel de ville est au centre de la ville.",
+            "englishExample": "The city hall is in the center of the city."
+        },
+        {
+            "word": "intéressant",
+            "translation": "interesting",
+            "frenchExample": "Le film est très intéressant et captivant.",
+            "englishExample": "The movie is very interesting and captivating."
+        },
+        {
+            "word": "kilomètre",
+            "translation": "kilometer",
+            "frenchExample": "La distance entre les deux villes est de cent kilomètres.",
+            "englishExample": "The distance between the two cities is one hundred kilometers."
+        },
+        {
+            "word": "Marseille",
+            "translation": "Marseille",
+            "frenchExample": "Marseille est une grande ville portuaire en France.",
+            "englishExample": "Marseille is a large port city in France."
+        },
+        {
+            "word": "Méditerranée",
+            "translation": "Mediterranean",
+            "frenchExample": "La Méditerranée est une mer intérieure entourée par l'Europe, l'Afrique et l'Asie.",
+            "englishExample": "The Mediterranean is an inland sea surrounded by Europe, Africa, and Asia."
+        },
+        {
+            "word": "méditerranéen",
+            "translation": "Mediterranean",
+            "frenchExample": "La cuisine méditerranéenne est très saine et variée.",
+            "englishExample": "Mediterranean cuisine is very healthy and diverse."
+        },
+        {
+            "word": "offre",
+            "translation": "offer",
+            "frenchExample": "L'hôtel offre un service de piscine gratuit.",
+            "englishExample": "The hotel offers a free pool service."
+        },
+        {
+            "word": "palais",
+            "translation": "palace",
+            "frenchExample": "Le palais est un bâtiment historique très impressionnant.",
+            "englishExample": "The palace is a very impressive historical building."
+        },
+        {
+            "word": "port",
+            "translation": "port",
+            "frenchExample": "Le port est très actif avec de nombreux bateaux.",
+            "englishExample": "The port is very active with many boats."
+        },
+        {
+            "word": "postal",
+            "translation": "postal",
+            "frenchExample": "Le service postal est très efficace en France.",
+            "englishExample": "The postal service is very efficient in France."
+        },
+        {
+            "word": "carte postale",
+            "translation": "postcard",
+            "frenchExample": "Elle a envoyé une carte postale de ses vacances à ses amis.",
+            "englishExample": "She sent a postcard from her vacation to her friends."
+        },
+        {
+            "word": "prison",
+            "translation": "prison",
+            "frenchExample": "La prison est un lieu de détention pour les criminels.",
+            "englishExample": "The prison is a detention place for criminals."
+        },
+        {
+            "word": "quai",
+            "translation": "quay",
+            "frenchExample": "Le train est arrivé au quai à l'heure prévue.",
+            "englishExample": "The train arrived at the quay on schedule."
+        },
+        {
+            "word": "quartier",
+            "translation": "neighborhood",
+            "frenchExample": "Le quartier est très animé et plein de restaurants.",
+            "englishExample": "The neighborhood is very lively and full of restaurants."
+        },
+        {
+            "word": "tourisme",
+            "translation": "tourism",
+            "frenchExample": "Le tourisme est une industrie importante pour la région.",
+            "englishExample": "Tourism is an important industry for the region."
+        },
+        {
+            "word": "train",
+            "translation": "train",
+            "frenchExample": "Il prend le train tous les jours pour aller au travail.",
+            "englishExample": "He takes the train every day to go to work."
+        },
+        {
+            "word": "vieux",
+            "translation": "old",
+            "frenchExample": "Le vieux bâtiment a beaucoup de charme.",
+            "englishExample": "The old building has a lot of charm."
+        },
+        {
+            "word": "vieille",
+            "translation": "old",
+            "frenchExample": "Elle a une vieille voiture qui fonctionne toujours bien.",
+            "englishExample": "She has an old car that still works well."
+        },
+        {
+            "word": "vitesse",
+            "translation": "speed",
+            "frenchExample": "La vitesse limite sur cette route est de 50 kilomètres à l'heure.",
+            "englishExample": "The speed limit on this road is 50 kilometers per hour."
+        }
+    ],
+    "Lesson 13": [
+        {
+            "word": "aller",
+            "translation": "to go",
+            "frenchExample": "Il faut aller à la gare pour prendre le train.",
+            "englishExample": "You need to go to the train station to catch the train."
+        },
+        {
+            "word": "aller-retour",
+            "translation": "round trip",
+            "frenchExample": "Il a acheté un billet aller-retour pour Paris.",
+            "englishExample": "He bought a round-trip ticket to Paris."
+        },
+        {
+            "word": "après-midi",
+            "translation": "afternoon",
+            "frenchExample": "Nous avons un rendez-vous important cet après-midi.",
+            "englishExample": "We have an important appointment this afternoon."
+        },
+        {
+            "word": "classe",
+            "translation": "class",
+            "frenchExample": "La classe est très intéressante et les élèves sont attentifs.",
+            "englishExample": "The class is very interesting and the students are attentive."
+        },
+        {
+            "word": "complet",
+            "translation": "complete",
+            "frenchExample": "Le rapport est complet et bien documenté.",
+            "englishExample": "The report is complete and well-documented."
+        },
+        {
+            "word": "départ",
+            "translation": "departure",
+            "frenchExample": "Le départ du train est prévu à 15h30.",
+            "englishExample": "The train's departure is scheduled for 3:30 PM."
+        },
+        {
+            "word": "désolé",
+            "translation": "sorry",
+            "frenchExample": "Je suis désolé pour le retard.",
+            "englishExample": "I'm sorry for the delay."
+        },
+        {
+            "word": "deuxième",
+            "translation": "second",
+            "frenchExample": "C'est le deuxième jour de la semaine.",
+            "englishExample": "It's the second day of the week."
+        },
+        {
+            "word": "dimanche",
+            "translation": "Sunday",
+            "frenchExample": "Nous allons à l'église le dimanche.",
+            "englishExample": "We go to church on Sunday."
+        },
+        {
+            "word": "employé",
+            "translation": "employee",
+            "frenchExample": "L'employé a fini son travail à temps.",
+            "englishExample": "The employee finished his work on time."
+        },
+        {
+            "word": "gare",
+            "translation": "train station",
+            "frenchExample": "La gare est très animée le matin.",
+            "englishExample": "The train station is very busy in the morning."
+        },
+        {
+            "word": "heure",
+            "translation": "hour",
+            "frenchExample": "Il est déjà 8 heures du soir.",
+            "englishExample": "It's already 8 PM."
+        },
+        {
+            "word": "horaire",
+            "translation": "schedule",
+            "frenchExample": "Le train suit un horaire strict.",
+            "englishExample": "The train follows a strict schedule."
+        },
+        {
+            "word": "jeudi",
+            "translation": "Thursday",
+            "frenchExample": "Nous avons un rendez-vous important jeudi.",
+            "englishExample": "We have an important appointment on Thursday."
+        },
+        {
+            "word": "lundi",
+            "translation": "Monday",
+            "frenchExample": "Le travail reprend lundi.",
+            "englishExample": "Work resumes on Monday."
+        },
+        {
+            "word": "mardi",
+            "translation": "Tuesday",
+            "frenchExample": "Nous avons une réunion mardi.",
+            "englishExample": "We have a meeting on Tuesday."
+        },
+        {
+            "word": "matin",
+            "translation": "morning",
+            "frenchExample": "Il se lève tôt du matin.",
+            "englishExample": "He gets up early in the morning."
+        },
+        {
+            "word": "mercredi",
+            "translation": "Wednesday",
+            "frenchExample": "Mercredi est le jour du repos.",
+            "englishExample": "Wednesday is the day of rest."
+        },
+        {
+            "word": "pendule",
+            "translation": "clock",
+            "frenchExample": "La pendule indique 12 heures.",
+            "englishExample": "The clock shows 12 o'clock."
+        },
+        {
+            "word": "place",
+            "translation": "place",
+            "frenchExample": "Il y a beaucoup de monde sur la place du marché.",
+            "englishExample": "There are many people on the market square."
+        },
+        {
+            "word": "prochain",
+            "translation": "next",
+            "frenchExample": "Le prochain train arrive dans une heure.",
+            "englishExample": "The next train arrives in an hour."
+        },
+        {
+            "word": "quand",
+            "translation": "when",
+            "frenchExample": "Quand vas-tu arriver ? - Je serai là dans une heure.",
+            "englishExample": "When will you arrive? - I'll be there in an hour."
+        },
+        {
+            "word": "enseignement",
+            "translation": "teaching",
+            "frenchExample": "L'enseignement est une profession très importante.",
+            "englishExample": "Teaching is a very important profession."
+        },
+        {
+            "word": "samedi",
+            "translation": "Saturday",
+            "frenchExample": "Nous allons au marché samedi.",
+            "englishExample": "We go to the market on Saturday."
+        },
+        {
+            "word": "simple",
+            "translation": "simple",
+            "frenchExample": "La solution est très simple.",
+            "englishExample": "The solution is very simple."
+        },
+        {
+            "word": "tarif",
+            "translation": "fare",
+            "frenchExample": "Le tarif du bus est de deux euros.",
+            "englishExample": "The bus fare is two euros."
+        },
+        {
+            "word": "vendredi",
+            "translation": "Friday",
+            "frenchExample": "Vendredi est le dernier jour de la semaine de travail.",
+            "englishExample": "Friday is the last day of the work week."
+        },
+        {
+            "word": "voie",
+            "translation": "track",
+            "frenchExample": "Le train est sur la voie numéro un.",
+            "englishExample": "The train is on track number one."
+        }
+    ],
+    "Lesson 14": [
+        {
+            "word": "acteur(trice)",
+            "translation": "actor/actress",
+            "frenchExample": "L'acteur principal est très connu pour ses rôles dans les films.",
+            "englishExample": "The main actor is very well-known for his roles in movies."
+        },
+        {
+            "word": "agenda",
+            "translation": "agenda",
+            "frenchExample": "Il a un agenda très chargé cette semaine.",
+            "englishExample": "He has a very busy schedule this week."
+        },
+        {
+            "word": "cabinet",
+            "translation": "cabinet",
+            "frenchExample": "Le médecin a un cabinet en centre-ville.",
+            "englishExample": "The doctor has an office downtown."
+        },
+        {
+            "word": "ben",
+            "translation": "well",
+            "frenchExample": "Ben, je ne sais pas quoi faire.",
+            "englishExample": "Well, I don't know what to do."
+        },
+        {
+            "word": "coiffure",
+            "translation": "hairstyle",
+            "frenchExample": "Elle a une coiffure très moderne.",
+            "englishExample": "She has a very modern hairstyle."
+        },
+        {
+            "word": "commencer",
+            "translation": "to start",
+            "frenchExample": "Nous devons commencer la réunion maintenant.",
+            "englishExample": "We need to start the meeting now."
+        },
+        {
+            "word": "docteur",
+            "translation": "doctor",
+            "frenchExample": "Le docteur a prescrit un médicament pour la toux.",
+            "englishExample": "The doctor prescribed a medicine for the cough."
+        },
+        {
+            "word": "donc",
+            "translation": "so",
+            "frenchExample": "Il est en retard, donc nous devons attendre.",
+            "englishExample": "He is late, so we have to wait."
+        },
+        {
+            "word": "faire",
+            "translation": "to do/make",
+            "frenchExample": "Il faut faire les courses avant de rentrer.",
+            "englishExample": "You need to do the shopping before going home."
+        },
+        {
+            "word": "guitare",
+            "translation": "guitar",
+            "frenchExample": "Il joue de la guitare depuis son adolescence.",
+            "englishExample": "He has been playing the guitar since his teenage years."
+        },
+        {
+            "word": "informaticien(informatrice)",
+            "translation": "computer scientist",
+            "frenchExample": "L'informatrice a développé un nouveau logiciel.",
+            "englishExample": "The computer scientist developed a new software."
+        },
+        {
+            "word": "institut",
+            "translation": "institute",
+            "frenchExample": "L'institut est spécialisé dans la recherche scientifique.",
+            "englishExample": "The institute is specialized in scientific research."
+        },
+        {
+            "word": "journal",
+            "translation": "newspaper",
+            "frenchExample": "Il lit le journal tous les matins.",
+            "englishExample": "He reads the newspaper every morning."
+        },
+        {
+            "word": "là",
+            "translation": "there",
+            "frenchExample": "Le livre est là, sur la table.",
+            "englishExample": "The book is there, on the table."
+        },
+        {
+            "word": "Londres",
+            "translation": "London",
+            "frenchExample": "Londres est une grande ville européenne.",
+            "englishExample": "London is a large European city."
+        },
+        {
+            "word": "mais",
+            "translation": "but",
+            "frenchExample": "Il est fatigué, mais il continue à travailler.",
+            "englishExample": "He is tired, but he continues to work."
+        },
+        {
+            "word": "possible",
+            "translation": "possible",
+            "frenchExample": "Il est possible de finir le projet avant la deadline.",
+            "englishExample": "It is possible to finish the project before the deadline."
+        },
+        {
+            "word": "quel(le)",
+            "translation": "which/what",
+            "frenchExample": "Quel livre préfères-tu ?",
+            "englishExample": "Which book do you prefer?"
+        },
+        {
+            "word": "rentrer",
+            "translation": "to return",
+            "frenchExample": "Il est tard, il faut rentrer chez soi.",
+            "englishExample": "It's late, it's time to go home."
+        },
+        {
+            "word": "reste",
+            "translation": "remainder",
+            "frenchExample": "Il n'y a plus de reste de nourriture.",
+            "englishExample": "There is no food left."
+        },
+        {
+            "word": "réunion",
+            "translation": "meeting",
+            "frenchExample": "La réunion a duré plus de deux heures.",
+            "englishExample": "The meeting lasted more than two hours."
+        },
+        {
+            "word": "semaine",
+            "translation": "week",
+            "frenchExample": "Nous partons en vacances la semaine prochaine.",
+            "englishExample": "We are going on vacation next week."
+        },
+        {
+            "word": "seulement",
+            "translation": "only",
+            "frenchExample": "Il a seulement cinq ans.",
+            "englishExample": "He is only five years old."
+        },
+        {
+            "word": "société",
+            "translation": "society",
+            "frenchExample": "La société a beaucoup évolué ces dernières années.",
+            "englishExample": "Society has evolved a lot in recent years."
+        },
+        {
+            "word": "soir",
+            "translation": "evening",
+            "frenchExample": "Nous dînons en famille le soir.",
+            "englishExample": "We have dinner with the family in the evening."
+        },
+        {
+            "word": "surprise",
+            "translation": "surprise",
+            "frenchExample": "Elle a préparé une surprise pour son anniversaire.",
+            "englishExample": "She prepared a surprise for his birthday."
+        },
+        {
+            "word": "tard",
+            "translation": "late",
+            "frenchExample": "Il est arrivé très tard à la réunion.",
+            "englishExample": "He arrived very late to the meeting."
+        },
+        {
+            "word": "tôt",
+            "translation": "early",
+            "frenchExample": "Il se lève tôt pour aller travailler.",
+            "englishExample": "He gets up early to go to work."
+        },
+        {
+            "word": "tous, toutes",
+            "translation": "all",
+            "frenchExample": "Tous les étudiants ont passé l'examen.",
+            "englishExample": "All the students took the exam."
+        },
+        {
+            "word": "travailler",
+            "translation": "to work",
+            "frenchExample": "Il travaille dans une entreprise depuis cinq ans.",
+            "englishExample": "He has been working in a company for five years."
+        },
+        {
+            "word": "vacances",
+            "translation": "vacations",
+            "frenchExample": "Les vacances d'été sont très attendues.",
+            "englishExample": "Summer vacations are highly anticipated."
+        },
+        {
+            "word": "Vendôme",
+            "translation": "Vendôme",
+            "frenchExample": "La place Vendôme est un lieu historique à Paris.",
+            "englishExample": "Place Vendôme is a historic place in Paris."
+        },
+        {
+            "word": "vers",
+            "translation": "towards",
+            "frenchExample": "Il marche vers le nord.",
+            "englishExample": "He is walking towards the north."
+        },
+        {
+            "word": "vie",
+            "translation": "life",
+            "frenchExample": "La vie est pleine de surprises.",
+            "englishExample": "Life is full of surprises."
+        },
+        {
+            "word": "voir",
+            "translation": "to see",
+            "frenchExample": "Il faut voir ce film, c'est excellent.",
+            "englishExample": "You have to see this movie, it's excellent."
+        }
+    ],
+    "Lesson 15": [
+        {
+            "word": "athlétisme",
+            "translation": "athletics",
+            "frenchExample": "Il pratique l'athlétisme depuis son enfance.",
+            "englishExample": "He has been practicing athletics since his childhood."
+        },
+        {
+            "word": "boîte",
+            "translation": "box",
+            "frenchExample": "Elle a mis les clés dans une petite boîte.",
+            "englishExample": "She put the keys in a small box."
+        },
+        {
+            "word": "campagne",
+            "translation": "countryside / campaign",
+            "frenchExample": "Ils passent leurs vacances à la campagne.",
+            "englishExample": "They spend their holidays in the countryside."
+        },
+        {
+            "word": "course",
+            "translation": "race / shopping / run",
+            "frenchExample": "Il a gagné la course de 100 mètres.",
+            "englishExample": "He won the 100-meter race."
+        },
+        {
+            "word": "faire des courses",
+            "translation": "to go shopping",
+            "frenchExample": "Je dois faire des courses ce weekend.",
+            "englishExample": "I need to go shopping this weekend."
+        },
+        {
+            "word": "d'abord",
+            "translation": "first / at first",
+            "frenchExample": "D'abord, nous devons finir ce projet.",
+            "englishExample": "First, we need to finish this project."
+        },
+        {
+            "word": "déjeuner",
+            "translation": "lunch / to have lunch",
+            "frenchExample": "Nous déjeunons ensemble à midi.",
+            "englishExample": "We have lunch together at noon."
+        },
+        {
+            "word": "dormir",
+            "translation": "to sleep",
+            "frenchExample": "Il dort profondément après une longue journée.",
+            "englishExample": "He sleeps deeply after a long day."
+        },
+        {
+            "word": "écouter",
+            "translation": "to listen",
+            "frenchExample": "J'aime écouter de la musique en travaillant.",
+            "englishExample": "I like to listen to music while working."
+        },
+        {
+            "word": "écrire",
+            "translation": "to write",
+            "frenchExample": "Elle écrit une lettre à son ami.",
+            "englishExample": "She is writing a letter to her friend."
+        },
+        {
+            "word": "enfant",
+            "translation": "child",
+            "frenchExample": "Les enfants jouent dans le parc.",
+            "englishExample": "The children are playing in the park."
+        },
+        {
+            "word": "foot",
+            "translation": "soccer (short for football)",
+            "frenchExample": "Il regarde un match de foot à la télé.",
+            "englishExample": "He is watching a soccer match on TV."
+        },
+        {
+            "word": "footing",
+            "translation": "jogging",
+            "frenchExample": "Elle fait du footing tous les matins.",
+            "englishExample": "She goes jogging every morning."
+        },
+        {
+            "word": "général(e)",
+            "translation": "general",
+            "frenchExample": "Le général a donné des ordres clairs.",
+            "englishExample": "The general gave clear orders."
+        },
+        {
+            "word": "en général",
+            "translation": "in general",
+            "frenchExample": "En général, je préfère le thé au café.",
+            "englishExample": "In general, I prefer tea over coffee."
+        },
+        {
+            "word": "gymnastique",
+            "translation": "gymnastics",
+            "frenchExample": "Elle fait de la gymnastique trois fois par semaine.",
+            "englishExample": "She does gymnastics three times a week."
+        },
+        {
+            "word": "s'habiller",
+            "translation": "to get dressed",
+            "frenchExample": "Il faut s'habiller rapidement pour ne pas être en retard.",
+            "englishExample": "We need to get dressed quickly to avoid being late."
+        },
+        {
+            "word": "jouer",
+            "translation": "to play",
+            "frenchExample": "Les enfants jouent dans le jardin.",
+            "englishExample": "The children are playing in the garden."
+        },
+        {
+            "word": "se laver",
+            "translation": "to wash oneself",
+            "frenchExample": "Elle se lave les mains avant de manger.",
+            "englishExample": "She washes her hands before eating."
+        },
+        {
+            "word": "se lever",
+            "translation": "to get up",
+            "frenchExample": "Je me lève à 7 heures tous les matins.",
+            "englishExample": "I get up at 7 a.m. every morning."
+        },
+        {
+            "word": "lire",
+            "translation": "to read",
+            "frenchExample": "Il aime lire des romans policiers.",
+            "englishExample": "He likes to read detective novels."
+        },
+        {
+            "word": "marché",
+            "translation": "market",
+            "frenchExample": "Nous allons au marché pour acheter des légumes frais.",
+            "englishExample": "We go to the market to buy fresh vegetables."
+        },
+        {
+            "word": "ménage",
+            "translation": "housework / household",
+            "frenchExample": "Le ménage prend beaucoup de temps.",
+            "englishExample": "Housework takes a lot of time."
+        },
+        {
+            "word": "faire le ménage",
+            "translation": "to do the housework",
+            "frenchExample": "Elle fait le ménage le samedi matin.",
+            "englishExample": "She does the housework on Saturday morning."
+        },
+        {
+            "word": "natation",
+            "translation": "swimming",
+            "frenchExample": "La natation est un excellent sport pour la santé.",
+            "englishExample": "Swimming is an excellent sport for health."
+        },
+        {
+            "word": "petit-déjeuner",
+            "translation": "breakfast",
+            "frenchExample": "Je prends toujours un petit-déjeuner complet.",
+            "englishExample": "I always have a full breakfast."
+        },
+        {
+            "word": "prendre",
+            "translation": "to take / to have (food)",
+            "frenchExample": "Je prends un café tous les matins.",
+            "englishExample": "I have a coffee every morning."
+        },
+        {
+            "word": "préparer",
+            "translation": "to prepare",
+            "frenchExample": "Elle prépare le dîner pour toute la famille.",
+            "englishExample": "She prepares dinner for the whole family."
+        },
+        {
+            "word": "se reposer",
+            "translation": "to rest",
+            "frenchExample": "Après une longue journée, il a besoin de se reposer.",
+            "englishExample": "After a long day, he needs to rest."
+        },
+        {
+            "word": "ski",
+            "translation": "skiing",
+            "frenchExample": "Nous partons faire du ski en hiver.",
+            "englishExample": "We go skiing in the winter."
+        },
+        {
+            "word": "témoignage",
+            "translation": "testimony",
+            "frenchExample": "Son témoignage a aidé à résoudre l'affaire.",
+            "englishExample": "His testimony helped solve the case."
+        },
+        {
+            "word": "tennis",
+            "translation": "tennis",
+            "frenchExample": "Il joue au tennis tous les weekends.",
+            "englishExample": "He plays tennis every weekend."
+        }
+    ],
+    "Lesson 16": [
+        {
+            "word": "actuel(le)",
+            "translation": "current / present",
+            "frenchExample": "La situation actuelle est très complexe.",
+            "englishExample": "The current situation is very complex."
+        },
+        {
+            "word": "bravo",
+            "translation": "well done / congratulations",
+            "frenchExample": "Bravo pour ton excellent travail !",
+            "englishExample": "Well done on your excellent work!"
+        },
+        {
+            "word": "céréales",
+            "translation": "cereals / breakfast cereal",
+            "frenchExample": "Je mange des céréales avec du lait le matin.",
+            "englishExample": "I eat cereal with milk in the morning."
+        },
+        {
+            "word": "champion(ne)",
+            "translation": "champion",
+            "frenchExample": "Elle est devenue championne de natation.",
+            "englishExample": "She became a swimming champion."
+        },
+        {
+            "word": "se coucher",
+            "translation": "to go to bed",
+            "frenchExample": "Je me couche tôt pour être en forme demain.",
+            "englishExample": "I go to bed early to be in good shape tomorrow."
+        },
+        {
+            "word": "se détendre",
+            "translation": "to relax",
+            "frenchExample": "Après le travail, il aime se détendre en écoutant de la musique.",
+            "englishExample": "After work, he likes to relax by listening to music."
+        },
+        {
+            "word": "difficile",
+            "translation": "difficult / hard",
+            "frenchExample": "Cet exercice est vraiment difficile.",
+            "englishExample": "This exercise is really difficult."
+        },
+        {
+            "word": "s'endormir",
+            "translation": "to fall asleep",
+            "frenchExample": "Il met longtemps à s'endormir le soir.",
+            "englishExample": "It takes him a long time to fall asleep at night."
+        },
+        {
+            "word": "entraînement",
+            "translation": "training / practice",
+            "frenchExample": "L'entraînement est essentiel pour progresser.",
+            "englishExample": "Training is essential to improve."
+        },
+        {
+            "word": "s'entraîner",
+            "translation": "to train / to practice",
+            "frenchExample": "Elle s'entraîne tous les jours pour la compétition.",
+            "englishExample": "She trains every day for the competition."
+        },
+        {
+            "word": "éviter",
+            "translation": "to avoid",
+            "frenchExample": "Il faut éviter les erreurs dans ce rapport.",
+            "englishExample": "We must avoid mistakes in this report."
+        },
+        {
+            "word": "famille",
+            "translation": "family",
+            "frenchExample": "Nous passons les vacances en famille.",
+            "englishExample": "We spend the holidays with family."
+        },
+        {
+            "word": "fruit",
+            "translation": "fruit",
+            "frenchExample": "Les fruits sont riches en vitamines.",
+            "englishExample": "Fruits are rich in vitamins."
+        },
+        {
+            "word": "habituel(le)",
+            "translation": "usual / habitual",
+            "frenchExample": "C'est son café habituel le matin.",
+            "englishExample": "It's his usual coffee in the morning."
+        },
+        {
+            "word": "janvier",
+            "translation": "January",
+            "frenchExample": "Nous partons en vacances en janvier.",
+            "englishExample": "We go on vacation in January."
+        },
+        {
+            "word": "jus",
+            "translation": "juice",
+            "frenchExample": "Je bois un jus d'orange au petit-déjeuner.",
+            "englishExample": "I drink orange juice for breakfast."
+        },
+        {
+            "word": "libre",
+            "translation": "free / available",
+            "frenchExample": "Je suis libre demain après-midi.",
+            "englishExample": "I am free tomorrow afternoon."
+        },
+        {
+            "word": "long(ue)",
+            "translation": "long",
+            "frenchExample": "La réunion a été très longue.",
+            "englishExample": "The meeting was very long."
+        },
+        {
+            "word": "manger",
+            "translation": "to eat",
+            "frenchExample": "Nous mangeons au restaurant ce soir.",
+            "englishExample": "We are eating at the restaurant tonight."
+        },
+        {
+            "word": "match",
+            "translation": "game / match",
+            "frenchExample": "Ils regardent un match de football à la télé.",
+            "englishExample": "They are watching a football match on TV."
+        },
+        {
+            "word": "musculation",
+            "translation": "weightlifting / bodybuilding",
+            "frenchExample": "Il fait de la musculation trois fois par semaine.",
+            "englishExample": "He does weightlifting three times a week."
+        },
+        {
+            "word": "nager",
+            "translation": "to swim",
+            "frenchExample": "Elle adore nager dans la mer.",
+            "englishExample": "She loves swimming in the sea."
+        },
+        {
+            "word": "nouveau(nouvelle)",
+            "translation": "new",
+            "frenchExample": "J'ai acheté une nouvelle voiture.",
+            "englishExample": "I bought a new car."
+        },
+        {
+            "word": "peu",
+            "translation": "little / few",
+            "frenchExample": "Il reste peu de temps avant le départ.",
+            "englishExample": "There is little time left before departure."
+        },
+        {
+            "word": "se promener",
+            "translation": "to take a walk",
+            "frenchExample": "Nous nous promenons dans le parc le dimanche.",
+            "englishExample": "We take a walk in the park on Sundays."
+        },
+        {
+            "word": "recommencer",
+            "translation": "to start again / to do over",
+            "frenchExample": "Il faut recommencer l'exercice.",
+            "englishExample": "We need to start the exercise over."
+        },
+        {
+            "word": "regarder",
+            "translation": "to watch / to look at",
+            "frenchExample": "Elle regarde un film intéressant.",
+            "englishExample": "She is watching an interesting movie."
+        },
+        {
+            "word": "reprendre",
+            "translation": "to take again / to resume",
+            "frenchExample": "Je reprends le travail demain.",
+            "englishExample": "I am resuming work tomorrow."
+        },
+        {
+            "word": "retourner",
+            "translation": "to return / to go back",
+            "frenchExample": "Nous retournons à Paris la semaine prochaine.",
+            "englishExample": "We are returning to Paris next week."
+        },
+        {
+            "word": "sortir",
+            "translation": "to go out",
+            "frenchExample": "Ils sortent souvent le samedi soir.",
+            "englishExample": "They often go out on Saturday nights."
+        },
+        {
+            "word": "stress",
+            "translation": "stress",
+            "frenchExample": "Le travail provoque beaucoup de stress.",
+            "englishExample": "Work causes a lot of stress."
+        },
+        {
+            "word": "se terminer",
+            "translation": "to end / to finish",
+            "frenchExample": "Le film se termine à minuit.",
+            "englishExample": "The movie ends at midnight."
+        },
+        {
+            "word": "toilette",
+            "translation": "toilet / grooming",
+            "frenchExample": "Elle fait sa toilette avant de sortir.",
+            "englishExample": "She gets ready (grooms herself) before going out."
+        },
+        {
+            "word": "yaourt",
+            "translation": "yogurt",
+            "frenchExample": "Je mange un yaourt nature tous les matins.",
+            "englishExample": "I eat plain yogurt every morning."
+        }
+    ],
+    "Lesson 17": [
+        {
+            "word": "acheter",
+            "translation": "to buy",
+            "frenchExample": "Je vais acheter du pain à la boulangerie.",
+            "englishExample": "I'm going to buy some bread at the bakery."
+        },
+        {
+            "word": "assez",
+            "translation": "enough / rather",
+            "frenchExample": "J'ai assez mangé, merci.",
+            "englishExample": "I've eaten enough, thank you."
+        },
+        {
+            "word": "beurre",
+            "translation": "butter",
+            "frenchExample": "Il met du beurre sur ses tartines.",
+            "englishExample": "He puts butter on his toast."
+        },
+        {
+            "word": "boire",
+            "translation": "to drink",
+            "frenchExample": "Elle boit un verre d'eau.",
+            "englishExample": "She is drinking a glass of water."
+        },
+        {
+            "word": "bouteille",
+            "translation": "bottle",
+            "frenchExample": "Il ouvre une bouteille de vin.",
+            "englishExample": "He opens a bottle of wine."
+        },
+        {
+            "word": "Chandeleur",
+            "translation": "Candlemas (French crêpe day)",
+            "frenchExample": "On mange des crêpes à la Chandeleur.",
+            "englishExample": "We eat crêpes on Candlemas."
+        },
+        {
+            "word": "cidre",
+            "translation": "cider",
+            "frenchExample": "Nous buvons du cidre breton.",
+            "englishExample": "We drink Breton cider."
+        },
+        {
+            "word": "coca",
+            "translation": "Coke (cola)",
+            "frenchExample": "Les enfants préfèrent boire du coca.",
+            "englishExample": "Children prefer to drink Coke."
+        },
+        {
+            "word": "confiture",
+            "translation": "jam",
+            "frenchExample": "Elle étale de la confiture sur son pain.",
+            "englishExample": "She spreads jam on her bread."
+        },
+        {
+            "word": "crêpe",
+            "translation": "crêpe / pancake",
+            "frenchExample": "Nous préparons des crêpes pour le goûter.",
+            "englishExample": "We're making crêpes for snack time."
+        },
+        {
+            "word": "dîner",
+            "translation": "dinner / to have dinner",
+            "frenchExample": "Nous dînons à 20 heures.",
+            "englishExample": "We have dinner at 8 p.m."
+        },
+        {
+            "word": "eau",
+            "translation": "water",
+            "frenchExample": "Il boit un verre d'eau fraîche.",
+            "englishExample": "He drinks a glass of cold water."
+        },
+        {
+            "word": "il faut",
+            "translation": "it is necessary / one must",
+            "frenchExample": "Il faut finir ce travail aujourd'hui.",
+            "englishExample": "We must finish this work today."
+        },
+        {
+            "word": "farine",
+            "translation": "flour",
+            "frenchExample": "La farine est utilisée pour faire du pain.",
+            "englishExample": "Flour is used to make bread."
+        },
+        {
+            "word": "fromage",
+            "translation": "cheese",
+            "frenchExample": "Le fromage français est célèbre dans le monde entier.",
+            "englishExample": "French cheese is famous worldwide."
+        },
+        {
+            "word": "gramme",
+            "translation": "gram",
+            "frenchExample": "Il faut 200 grammes de sucre pour cette recette.",
+            "englishExample": "You need 200 grams of sugar for this recipe."
+        },
+        {
+            "word": "inviter",
+            "translation": "to invite",
+            "frenchExample": "Elle invite ses amis à dîner.",
+            "englishExample": "She invites her friends to dinner."
+        },
+        {
+            "word": "kilo",
+            "translation": "kilogram",
+            "frenchExample": "J'ai acheté un kilo de pommes.",
+            "englishExample": "I bought a kilogram of apples."
+        },
+        {
+            "word": "lait",
+            "translation": "milk",
+            "frenchExample": "Elle boit du lait chaud avant de dormir.",
+            "englishExample": "She drinks warm milk before sleeping."
+        },
+        {
+            "word": "légumes",
+            "translation": "vegetables",
+            "frenchExample": "Je mange des légumes tous les jours pour rester en bonne santé.",
+            "englishExample": "I eat vegetables every day to stay healthy."
+        },
+        {
+            "word": "liste",
+            "translation": "list",
+            "frenchExample": "J'ai fait une liste des courses à acheter.",
+            "englishExample": "I made a shopping list of things to buy."
+        },
+        {
+            "word": "livre",
+            "translation": "book / pound (unit)",
+            "frenchExample": "Elle lit un livre intéressant. / J'ai acheté une livre de beurre.",
+            "englishExample": "She is reading an interesting book. / I bought a pound of butter."
+        },
+        {
+            "word": "litre",
+            "translation": "liter",
+            "frenchExample": "Il boit un litre d'eau par jour.",
+            "englishExample": "He drinks one liter of water per day."
+        },
+        {
+            "word": "minéral(e)",
+            "translation": "mineral",
+            "frenchExample": "L'eau minérale est bonne pour la santé.",
+            "englishExample": "Mineral water is good for health."
+        },
+        {
+            "word": "eau minérale",
+            "translation": "mineral water",
+            "frenchExample": "Je préfère boire de l'eau minérale gazeuse.",
+            "englishExample": "I prefer to drink sparkling mineral water."
+        },
+        {
+            "word": "œuf (œufs)",
+            "translation": "egg (eggs)",
+            "frenchExample": "Je mange deux œufs au petit-déjeuner.",
+            "englishExample": "I eat two eggs for breakfast."
+        },
+        {
+            "word": "pain",
+            "translation": "bread",
+            "frenchExample": "Le boulanger vend du pain frais tous les matins.",
+            "englishExample": "The baker sells fresh bread every morning."
+        },
+        {
+            "word": "poisson",
+            "translation": "fish",
+            "frenchExample": "Nous mangeons du poisson le vendredi.",
+            "englishExample": "We eat fish on Fridays."
+        },
+        {
+            "word": "pomme",
+            "translation": "apple",
+            "frenchExample": "Elle croque dans une pomme verte.",
+            "englishExample": "She bites into a green apple."
+        },
+        {
+            "word": "pomme de terre",
+            "translation": "potato",
+            "frenchExample": "Les pommes de terre sont cuites à l'eau.",
+            "englishExample": "The potatoes are boiled."
+        },
+        {
+            "word": "repas",
+            "translation": "meal",
+            "frenchExample": "Le dîner est mon repas préféré.",
+            "englishExample": "Dinner is my favorite meal."
+        },
+        {
+            "word": "riz",
+            "translation": "rice",
+            "frenchExample": "Elle cuisine du riz avec du poulet.",
+            "englishExample": "She cooks rice with chicken."
+        },
+        {
+            "word": "salade",
+            "translation": "salad / lettuce",
+            "frenchExample": "Je prépare une salade verte pour l'entrée.",
+            "englishExample": "I'm making a green salad for the starter."
+        },
+        {
+            "word": "sucre",
+            "translation": "sugar",
+            "frenchExample": "Il met deux cuillères de sucre dans son café.",
+            "englishExample": "He puts two spoons of sugar in his coffee."
+        },
+        {
+            "word": "supermarché",
+            "translation": "supermarket",
+            "frenchExample": "Nous faisons les courses au supermarché.",
+            "englishExample": "We do our grocery shopping at the supermarket."
+        },
+        {
+            "word": "téléphoner",
+            "translation": "to call (on the phone)",
+            "frenchExample": "Je dois téléphoner à ma mère ce soir.",
+            "englishExample": "I need to call my mother tonight."
+        },
+        {
+            "word": "téléphoner à qn",
+            "translation": "to call someone",
+            "frenchExample": "Il téléphone à son ami pour lui souhaiter un bon anniversaire.",
+            "englishExample": "He calls his friend to wish him a happy birthday."
+        },
+        {
+            "word": "tout",
+            "translation": "everything / all",
+            "frenchExample": "Elle a tout préparé pour la fête.",
+            "englishExample": "She prepared everything for the party."
+        },
+        {
+            "word": "viande",
+            "translation": "meat",
+            "frenchExample": "Il ne mange pas de viande, il est végétarien.",
+            "englishExample": "He doesn't eat meat; he's vegetarian."
+        },
+        {
+            "word": "vin",
+            "translation": "wine",
+            "frenchExample": "Nous buvons du vin rouge avec le fromage.",
+            "englishExample": "We drink red wine with cheese."
+        }
+    ],
+    "Lesson 18": [
+        {
+            "word": "beau",
+            "translation": "beautiful, handsome",
+            "frenchExample": "C'est un beau paysage.",
+            "englishExample": "It's a beautiful landscape."
+        },
+        {
+            "word": "cadeau (pl. cadeaux)",
+            "translation": "gift",
+            "frenchExample": "J'ai reçu un cadeau pour mon anniversaire.",
+            "englishExample": "I received a gift for my birthday."
+        },
+        {
+            "word": "chaud(e)",
+            "translation": "hot, warm",
+            "frenchExample": "Le café est trop chaud.",
+            "englishExample": "The coffee is too hot."
+        },
+        {
+            "word": "dessert",
+            "translation": "dessert",
+            "frenchExample": "Nous mangeons une tarte au dessert.",
+            "englishExample": "We're eating a pie for dessert."
+        },
+        {
+            "word": "excellent(e)",
+            "translation": "excellent",
+            "frenchExample": "Ce restaurant sert une cuisine excellente.",
+            "englishExample": "This restaurant serves excellent food."
+        },
+        {
+            "word": "hier",
+            "translation": "yesterday",
+            "frenchExample": "Je l'ai vu hier au parc.",
+            "englishExample": "I saw him yesterday at the park."
+        },
+        {
+            "word": "inspecteur(trice)",
+            "translation": "inspector",
+            "frenchExample": "L'inspectrice est venue vérifier les documents.",
+            "englishExample": "The inspector came to check the documents."
+        },
+        {
+            "word": "inspecteur de police",
+            "translation": "plainclothes police officer",
+            "frenchExample": "L'inspecteur de police a résolu l'affaire.",
+            "englishExample": "The plainclothes police officer solved the case."
+        },
+        {
+            "word": "magasin",
+            "translation": "store, shop",
+            "frenchExample": "J'achète du pain dans ce magasin.",
+            "englishExample": "I buy bread at this store."
+        },
+        {
+            "word": "maison",
+            "translation": "house, home",
+            "frenchExample": "Nous rentrons à la maison.",
+            "englishExample": "We're going back home."
+        },
+        {
+            "word": "ouais",
+            "translation": "yeah (informal)",
+            "frenchExample": "Ouais, c'est vrai !",
+            "englishExample": "Yeah, that's true!"
+        },
+        {
+            "word": "pâtes",
+            "translation": "pasta",
+            "frenchExample": "Je cuisine des pâtes carbonara ce soir.",
+            "englishExample": "I'm making carbonara pasta tonight."
+        },
+        {
+            "word": "pizza",
+            "translation": "pizza",
+            "frenchExample": "Nous commandons une pizza pour dîner.",
+            "englishExample": "We're ordering a pizza for dinner."
+        },
+        {
+            "word": "seul(e)",
+            "translation": "alone, lonely",
+            "frenchExample": "Elle reste seule à la maison.",
+            "englishExample": "She stays alone at home."
+        },
+        {
+            "word": "tout(e)",
+            "translation": "all, whole",
+            "frenchExample": "Il a mangé tout le gâteau.",
+            "englishExample": "He ate the whole cake."
+        },
+        {
+            "word": "tout",
+            "translation": "everything",
+            "frenchExample": "Tout va bien.",
+            "englishExample": "Everything is fine."
+        },
+        {
+            "word": "waouh",
+            "translation": "wow (expression of amazement)",
+            "frenchExample": "Waouh ! C'est incroyable !",
+            "englishExample": "Wow! That's amazing!"
+        }
+    ]
+}

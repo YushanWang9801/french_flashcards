@@ -1,218 +1,185 @@
 <template>
   <div class="container">
-    <!-- 移动端菜单按钮 -->
-    <button class="menu-toggle" @click="sidebarOpen = !sidebarOpen">
-      ☰ Courses
-    </button>
+    <button class="menu-toggle" @click="toggleSidebar" v-show="isMobile && !sidebarOpen">☰ Courses</button>
 
-    <!-- 左侧课程菜单 -->
-    <div class="sidebar" :class="{ open: sidebarOpen }">
+    <div class="sidebar course-list" :class="{ open: sidebarOpen }">
       <h2 class="title">Courses</h2>
-      <ul class="course-list">
+      <ul>
         <li
-          v-for="course in courses"
-          :key="course"
-          :class="['course-item', { active: course === selectedCourse }]"
-          @click="selectCourse(course)"
+          v-for="key in courseKeys"
+          :key="key"
+          :class="{ active: key === selectedCourse }"
+          @click="selectCourse(key)"
         >
-          {{ course }}
+          {{ courseMap[key] }}
         </li>
       </ul>
     </div>
 
-    <!-- 右侧课节内容 -->
-    <div class="content">
-      <h2 class="title">{{ selectedCourse || '...' }}</h2>
-      <ul class="lesson-list" v-if="lessons.length">
-        <li
-          v-for="lesson in lessons"
-          :key="lesson"
-          class="lesson-item"
-          @click="openFlashCard(selectedCourse, lesson)"
-        >
+    <div class="content lesson-list" :class="{ open: !sidebarOpen }">
+      <button class="back-button" v-if="isMobile" @click="toggleSidebar">← Back to Courses</button>
+      <h2 class="title">{{ selectedCourse ? courseMap[selectedCourse] : '请选择课程' }}</h2>
+
+      <ul v-if="lessons.length">
+        <li v-for="lesson in lessons" :key="lesson" @click="selectLesson(lesson)">
           {{ lesson }}
         </li>
       </ul>
-      <div v-else class="empty">Select a course to view its lessons.</div>
 
-      <!-- 新增：FlashCardViewer 区域 -->
-      <div class="flashcard-container" v-if="flashcards.length > 0">
-        <h3 class="title">Flashcards for {{ selectedLesson }}</h3>
-        <FlashCardViewer :cards="flashcards" />
-      </div>
+      <div v-else>请选择课程以查看课时。</div>
     </div>
   </div>
 </template>
-
 <script>
-import { ref } from 'vue'
-import FlashCardViewer from '../components/FlashCardViewer.vue'
-import Footer from '../components/Footer.vue'
+import { ref, onMounted, computed } from 'vue'
 import { useRouter } from 'vue-router'
-
-const router = useRouter()
-
-function goToLesson(id) {
-  router.push(`/lesson/${id}`)
-}
 
 export default {
   name: 'CourseLesson',
-  components: {
-    FlashCardViewer,
-    Footer,
-  },
-  data() {
+  setup() {
+    const router = useRouter()
+    const courseMap = ref({})
+    const courseKeys = ref([])
+    const selectedCourse = ref(null)
+    const lessons = ref([])
+    const sidebarOpen = ref(true)
+
+    const COURSE_FOLDER_PATH = './data'
+
+    async function loadCourseFiles() {
+      try {
+        const res = await fetch(`${COURSE_FOLDER_PATH}/index.json`)
+        const data = await res.json()
+        courseMap.value = data
+        courseKeys.value = Object.keys(data)
+      } catch (error) {
+        console.error('加载课程失败:', error)
+      }
+    }
+
+    async function selectCourse(course) {
+      selectedCourse.value = course
+      lessons.value = []
+      sidebarOpen.value = false  // 选课后，移动端切换显示课时列表
+
+      try {
+        const res = await fetch(`${COURSE_FOLDER_PATH}/${course}.json`)
+        const data = await res.json()
+        lessons.value = Object.keys(data)
+      } catch (error) {
+        console.error(`加载课程 ${course} 的课时失败:`, error)
+      }
+    }
+
+    function selectLesson(lesson) {
+      router.push(`/lesson/${selectedCourse.value}-${lesson}`)
+    }
+
+    function toggleSidebar() {
+      sidebarOpen.value = !sidebarOpen.value
+    }
+
+    // 判断是否移动端 (简单写法，真实项目推荐用window.matchMedia)
+    const isMobile = computed(() => window.innerWidth <= 768)
+
+    onMounted(() => {
+      loadCourseFiles()
+    })
+
     return {
-      courses: ['800 hundred Words With Lea', 'Taxi A1', 'Taxi A2'],
-      selectedCourse: null,
-      lessons: [],
-      sidebarOpen: false,
-      selectedLesson: null, // 当前选中课节
-      flashcards: [],      // 对应 flashcard 数据
-    };
-  },
-  methods: {
-    selectCourse(course) {
-      this.selectedCourse = course;
-      this.sidebarOpen = false;
-      this.selectedLesson = null;
-      this.flashcards = [];
-      this.fetchLessons(course);
-    },
-    fetchLessons(course) {
-      const mockLessonData = {
-        '800 hundred Words With Lea': ['l1', 'l2', 'l3'],
-        'Taxi A1': ['a1_l1', 'a1_l2'],
-        'Taxi A2': ['a2_l1', 'a2_l2', 'a2_l3'],
-      };
-      this.lessons = mockLessonData[course] || [];
-    },
-    openFlashCard(course, lesson) {
-        this.$router.push({ name: 'FlashCardViewer', params: { id: lesson } });
+      courseMap,
+      courseKeys,
+      selectedCourse,
+      lessons,
+      sidebarOpen,
+      selectCourse,
+      selectLesson,
+      toggleSidebar,
+      isMobile,
     }
   },
-};
+}
 </script>
 
-<style scoped>
-/* 全局容器 */
+<style>
+
 .container {
   display: flex;
+  max-width: 900px;
+  margin: 0 auto;
   height: 100vh;
-  font-family: 'Arial', sans-serif;
-  background-color: #0b1c2c;  /* 🎨 页面背景色，可自定义 */
-  color: white;
 }
 
-/* 左侧菜单按钮（移动端显示） */
-.menu-toggle {
-  display: none;
-  position: fixed;
-  top: 10px;
-  left: 10px;
-  background-color: #1e3a5f;  /* 🎨 按钮背景色 */
-  color: white;
-  border: none;
-  padding: 10px 15px;
-  font-size: 16px;
-  z-index: 1001;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-/* 左侧栏 */
-.sidebar {
+/* 课程列表 固定宽度 */
+.sidebar.course-list {
   width: 250px;
-  background-color: #132c4c;  /* 🎨 左侧栏背景 */
-  padding: 20px;
-  border-right: 1px solid #1e3a5f;  /* 🎨 边框颜色 */
-  transition: transform 0.3s ease;
-}
-
-.course-list {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
-.course-item {
-  padding: 10px;
-  margin-bottom: 8px;
-  border-radius: 5px;
-  cursor: pointer;
-  color: white;
-  transition: background 0.2s;
-}
-
-.course-item:hover {
-  background-color: #1f4d7a;  /* 🎨 悬停背景色 */
-}
-
-.course-item.active {
-  background-color: #357edd;  /* 🎨 激活背景色 */
-}
-
-/* 右侧内容区域 */
-.content {
-  flex: 1;
-  padding: 20px;
+  border-right: 1px solid #ccc;
   overflow-y: auto;
 }
 
-.lesson-list {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
+/* 课时列表 占剩余空间 */
+.content.lesson-list {
+  flex: 1;
+  overflow-y: auto;
+  padding: 10px;
 }
 
-.lesson-item {
-  padding: 12px;
-  margin-bottom: 10px;
-  background-color: #1a2d48;  /* 🎨 lesson 默认背景 */
-  border-radius: 5px;
+/* 激活课程高亮 */
+.course-list li.active {
+  font-weight: bold;
+  background-color: #eee;
   cursor: pointer;
-  transition: background 0.2s;
 }
 
-.lesson-item:hover {
-  background-color: #284a75;  /* 🎨 lesson 悬停背景 */
+/* 课程和课时列表项都加个悬停指针 */
+.course-list li,
+.lesson-list li {
+  cursor: pointer;
+  padding: 5px 10px;
 }
 
-.empty {
-  color: #ccc;
-  margin-top: 20px;
-  font-style: italic;
-}
-
-/* Flashcard Viewer 区域 */
-.flashcard-container {
-  margin-top: 30px;
-}
-
-/* 小屏幕适配 */
+/* 移动端隐藏侧边栏（课程列表），只显示一个切换按钮 */
 @media (max-width: 768px) {
-  .sidebar {
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    width: 250px;
-    transform: translateX(-100%);
-    z-index: 1000;
+  .container {
+    flex-direction: column;
   }
 
-  .sidebar.open {
+  .sidebar.course-list {
+    width: 100%;
+    height: calc(100vh - 40px);
+    border-right: none;
+    position: fixed;
+    top: 40px;
+    left: 0;
+    background: white;
+    z-index: 1000;
+    overflow-y: auto;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+  }
+
+  .sidebar.course-list.open {
     transform: translateX(0);
   }
 
-  .menu-toggle {
+  .content.lesson-list {
+    padding: 10px;
+    margin-top: 40px;
+    display: none;
+  }
+
+  .content.lesson-list.open {
     display: block;
   }
 
-  .content {
-    padding: 80px 20px 20px;
+  .menu-toggle {
     width: 100%;
+    height: 40px;
+    font-size: 20px;
+  }
+
+  .back-button {
+    margin-bottom: 10px;
   }
 }
 </style>

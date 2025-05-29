@@ -4,7 +4,7 @@ import FlashCardViewer from '../components/FlashCardViewer.vue'
 
 const routes = [
   { path: '/', name: 'CourseLesson', component: CourseLesson },
-  { path: '/lesson/:id', name: 'FlashCardViewer', component: FlashCardViewer }
+  { path: '/lesson/:slug', name: 'FlashCardViewer', component: FlashCardViewer }
 ]
 
 const router = createRouter({
