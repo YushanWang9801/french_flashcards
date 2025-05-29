@@ -1,0 +1,122 @@
+[
+  {
+    "word": "Bonjour",
+    "translation": "Hello",
+    "frenchExample": "Bonjour, comment ça va?",
+    "englishExample": "Hello, how are you?"
+  },
+  {
+    "word": "Merci",
+    "translation": "Thank you",
+    "frenchExample": "Merci beaucoup pour votre aide.",
+    "englishExample": "Thank you very much for your help."
+  },
+  {
+    "word": "Pomme",
+    "translation": "Apple",
+    "frenchExample": "Je mange une pomme.",
+    "englishExample": "I am eating an apple."
+  },
+  {
+    "word": "Chat",
+    "translation": "Cat",
+   "frenchExample": "Le chat dort sur le canapé.",
+   "englishExample": "The cat is sleeping on the couch."
+  },
+  {
+    "word": "Chien",
+   "translation": "Dog",
+   "frenchExample": "Le chien aboie fort.",
+   "englishExample": "The dog barks loudly."
+  },
+  {
+    "word": "Maison",
+   "translation": "House",
+   "frenchExample": "La maison est grande.",
+   "englishExample": "The house is big."
+  },
+  {
+    "word": "Livre",
+   "translation": "Book",
+   "frenchExample": "J\"ai lu un livre intéressant.",
+   "englishExample": "I read an interesting book."
+  },
+  {
+    "word": "Ecole",
+   "translation": "School",
+   "frenchExample": "L\"école commence à huit heures.",
+   "englishExample": "School starts at eight o’clock."
+  },
+  {
+    "word": "Voiture",
+   "translation": "Car",
+   "frenchExample": "La voiture est rapide.",
+   "englishExample": "The car is fast."
+  },
+  {
+    "word": "Bateau",
+   "translation": "Boat",
+   "frenchExample": "Nous prenons le bateau pour aller sur l\"île.",
+   "englishExample": "We take the boat to go to the island."
+  },
+  {
+    "word": "Fleur",
+   "translation": "Flower",
+   "frenchExample": "La fleur est belle.",
+   "englishExample": "The flower is beautiful."
+  },
+  {
+    "word": "Arbre",
+   "translation": "Tree",
+   "frenchExample": "L\"arbre est très vieux.",
+   "englishExample": "The tree is very old."
+  },
+  {
+    "word": "Café",
+   "translation": "Coffee",
+   "frenchExample": "Je bois du café le matin.",
+   "englishExample": "I drink coffee in the morning."
+  },
+  {
+    "word": "Thé",
+   "translation": "Tea",
+   "frenchExample": "Le thé est chaud aujourd\"hui.",
+   "englishExample": "The tea is hot today."
+  },
+  {
+    "word": "Pain",
+   "translation": "Bread",
+   "frenchExample": "Le pain est frais.",
+   "englishExample": "The bread is fresh."
+  },
+  {
+    "word": "Fromage",
+   "translation": "Cheese",
+   "frenchExample": "J\"adore le fromage français.",
+   "englishExample": "I love French cheese."
+  },
+  {
+    "word": "Vin",
+   "translation": "Wine",
+   "frenchExample": "Le vin rouge est délicieux.",
+   "englishExample": "Red wine is delicious."
+  },
+  {
+    "word": "Bière",
+   "translation": "Beer",
+   "frenchExample": "La bière est servie fraîche.",
+   "englishExample": "The beer is served cold."
+  },
+  {
+    "word": "Rue",
+   "translation": "Street",
+   "frenchExample": "Cette rue est très animée.",
+   "englishExample": "This street is very lively."
+  },
+  {
+    "word": "Parc",
+   "translation": "Park",
+   "frenchExample": "Les enfants jouent dans le parc.",
+   "englishExample": "The children are playing in the park."
+  }
+]
