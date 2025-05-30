@@ -58,7 +58,6 @@
       </ul>
     </section>
 
-    <Footer />
   </div>
 </template>
 
@@ -154,7 +153,6 @@ function goBack() {
 </script>
 
 <style scoped>
-/* header 样式 */
 .app-header {
   display: flex;
   justify-content: space-between;
@@ -173,21 +171,6 @@ function goBack() {
   color: #00A19C;
 }
 
-
-
-.toggle-knob {
-  width: 18px;
-  height: 18px;
-  background: white;
-  border-radius: 50%;
-  position: absolute;
-  top: 2px;
-  left: 2px;
-  transition: left 0.3s;
-}
-
-
-/* 主题变量 */
 :root {
   --header-bg: #f0f0f0;
   --header-color: #222;
@@ -195,11 +178,16 @@ function goBack() {
   --text-color: black;
 }
 
-body.dark-mode {
-  --header-bg: #222;
-  --header-color: #ddd;
-  --bg-color: #121212;
-  --text-color: #eee;
+body {
+  display: flex;
+  justify-content: center; /* 水平居中 */
+  min-height: 100vh;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
 }
 
 /* 应用主题颜色 */
@@ -211,6 +199,8 @@ body.dark-mode {
 .app-container {
   padding: 20px;
   font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto; 
 }
 
 /* 面包屑 */

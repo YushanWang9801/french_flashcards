@@ -4,6 +4,7 @@
       YushanWang9801
     </a>
   </header>
+
   <div class="container">
     <button class="menu-toggle" @click="toggleSidebar" v-show="isMobile && !sidebarOpen">☰ Courses</button>
 
@@ -103,17 +104,22 @@ export default {
 
 <style>
 .app-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
   border-bottom: 1px solid #ccc;
-  margin-bottom: 20px;
-  font-weight: bold;
-  font-size: 1.2rem;
   background-color: var(--header-bg);
   color: var(--header-color);
+  font-weight: bold;
+  font-size: 1.2rem;
 }
+
 
 .username {
   user-select: none;
@@ -126,10 +132,20 @@ export default {
 }
 
 .container {
-  display: flex;
+  padding-top: 60px;
+  height: calc(100vh - 60px);
   max-width: 900px;
   margin: 0 auto;
-  height: 100vh;
+  display: flex;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.title {
+  padding-left: 20px;
 }
 
 /* 课程列表 固定宽度 */
@@ -137,6 +153,7 @@ export default {
   width: 250px;
   border-right: 1px solid #ccc;
   overflow-y: auto;
+  padding-left: 20px;
 }
 
 /* 课时列表 占剩余空间 */
@@ -144,6 +161,7 @@ export default {
   flex: 1;
   overflow-y: auto;
   padding: 10px;
+  padding-left: 20px;
 }
 
 /* 激活课程高亮 */
@@ -163,6 +181,8 @@ export default {
 /* 移动端隐藏侧边栏（课程列表），只显示一个切换按钮 */
 @media (max-width: 768px) {
   .container {
+    padding-top: 50px;
+    height: calc(100vh - 50px);
     flex-direction: column;
   }
 
@@ -171,7 +191,7 @@ export default {
     height: calc(100vh - 40px);
     border-right: none;
     position: fixed;
-    top: 40px;
+    top: 50px;
     left: 0;
     background: white;
     z-index: 1000;
@@ -198,6 +218,7 @@ export default {
     width: 100%;
     height: 40px;
     font-size: 20px;
+    padding-left: 20px;
   }
 
   .back-button {
