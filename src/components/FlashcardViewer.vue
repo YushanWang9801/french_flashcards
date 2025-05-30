@@ -88,16 +88,17 @@ watch(
       const [rawCourse, rawLesson] = slug.split('-')
       course.value = rawCourse
       lesson.value = rawLesson
+      console.log(rawCourse, rawLesson)
 
       // 获取课程数据
-      const response = await fetch(`/data/${rawCourse}.json`)
+      const response = await fetch(`/french_flashcards/data/${rawCourse}.json`)
       const courseData = await response.json()
       lessonCards.value = courseData[rawLesson] || []
       currentIndex.value = 0
       isFlipped.value = false
 
       // 获取 index.json 以获取 course 显示名
-      const indexRes = await fetch('/data/index.json')
+      const indexRes = await fetch('/french_flashcards/data/index.json')
       const indexData = await indexRes.json()
       courseName.value = indexData[rawCourse]
     } catch (e) {
