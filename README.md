@@ -1,5 +1,78 @@
-# Vue 3 + Vite
+# French Flashcards App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A modern flashcard application for learning French vocabulary, built with Vue 3, TypeScript, and Vite.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Features
+
+- Interactive flashcard system
+- Clean, responsive UI
+- Efficient vocabulary memorization
+- Customizable card sets
+- Progress tracking
+
+## Technologies Used
+
+- Vue 3 (Composition API)
+- TypeScript
+- Vite (Build tool)
+- Pinia (State management - if used)
+- Tailwind CSS (If used for styling)
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Type-Check, Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Run Unit Tests with [Vitest](https://vitest.dev/)
+
+```sh
+npm run test:unit
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
+
+## Project Structure
+
+```
+french_flashcards/
+├── public/              # Static files
+├── src/
+│   ├── assets/          # Assets like images
+│   ├── components/      # Vue components
+│   ├── stores/          # State management (if using Pinia)
+│   ├── styles/          # Global styles
+│   ├── utils/           # Utility functions
+│   ├── views/           # Page components
+│   ├── App.vue          # Main app component
+│   └── main.ts          # App entry point
+├── .gitignore
+├── index.html
+├── package.json
+├── tsconfig.json        # TypeScript config
+└── vite.config.ts       # Vite config
+```
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
