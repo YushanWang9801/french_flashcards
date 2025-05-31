@@ -4,7 +4,7 @@
       <router-link to="/" class="username">French Flashcards</router-link>
     </header>
 
-    <div style="display: flex; gap: 20px;">
+    <div style="display: flex; gap: 20px; margin-top: 20px;">
       <nav class="breadcrumb">
         <span class="course">{{ courseName }}</span>
         <span class="separator"> &gt; </span>
@@ -58,6 +58,15 @@
       </ul>
     </section>
 
+    <div class="lesson-navigation">
+      <button v-if="previousLesson" @click="goToLesson(previousLesson)" class="nav-button prev-button">
+        ← {{ previousLesson }}
+      </button>
+
+      <button v-if="nextLesson" @click="goToLesson(nextLesson)" class="nav-button next-button">
+        {{ nextLesson }} →
+      </button>
+    </div>
   </div>
 </template>
 
@@ -77,6 +86,11 @@ const currentIndex = ref(0)
 const isFlipped = ref(false)
 
 const currentCard = computed(() => lessonCards.value[currentIndex.value] || {})
+
+const allLessons = ref([])
+const previousLesson = ref(null)
+const nextLesson = ref(null)
+const currentLesson = ref('')
 
 watch(
   () => route.params.slug,
@@ -100,6 +114,18 @@ watch(
       const indexRes = await fetch('/french_flashcards/data/index.json')
       const indexData = await indexRes.json()
       courseName.value = indexData[rawCourse]
+
+      allLessons.value = Object.keys(courseData)
+      const courseIndex = allLessons.value.indexOf(rawLesson)
+
+
+      if (courseIndex > 0) {
+        previousLesson.value = allLessons.value[courseIndex - 1]
+      }
+      if (courseIndex < allLessons.value.length - 1) {
+        nextLesson.value = allLessons.value[courseIndex + 1]
+      }
+      console.log(previousLesson.value, nextLesson.value)
     } catch (e) {
       console.error('加载数据失败:', e)
       lessonCards.value = []
@@ -150,25 +176,35 @@ const handleTouchEnd = (event) => {
 function goBack() {
   router.push('/')
 }
+
+const goToLesson = (lessonName) => {
+  console.log(`/lesson/${course.value}-${lessonName}`)
+  if (lessonName) {
+    router.push(`/lesson/${course.value}-${lessonName}`)
+  }
+}
+
 </script>
 
 <style scoped>
 .app-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px 20px;
-  border-bottom: 1px solid #ccc;
-  margin-bottom: 20px;
-  font-weight: bold;
-  font-size: 1.2rem;
-  background-color: var(--header-bg);
-  color: var(--header-color);
+  color: var(--primary-color);
+  padding: 1rem 2rem;
+  box-shadow: var(--shadow);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
 }
 
 .username {
-  user-select: none;
-  color: #00A19C;
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: var(--transition);
 }
 
 :root {
@@ -180,7 +216,8 @@ function goBack() {
 
 body {
   display: flex;
-  justify-content: center; /* 水平居中 */
+  justify-content: center;
+  /* 水平居中 */
   min-height: 100vh;
   margin: 0;
 }
@@ -200,7 +237,7 @@ ul {
   padding: 20px;
   font-family: Arial, sans-serif;
   max-width: 800px;
-  margin: 0 auto; 
+  margin: 0 auto;
 }
 
 /* 面包屑 */

@@ -1,7 +1,8 @@
 <template>
   <header class="app-header">
     <a class="username" href="https://yushanwang9801.github.io" target="_blank" rel="noopener noreferrer">
-      YushanWang9801
+      <span class="username-text">YushanWang9801</span>
+      <span class="username-icon">→</span>
     </a>
   </header>
 
@@ -19,7 +20,7 @@
 
     <div class="content lesson-list" :class="{ open: !sidebarOpen }">
       <button class="back-button" v-if="isMobile" @click="toggleSidebar">← Back to Courses</button>
-      <h2 class="title">{{ selectedCourse ? courseMap[selectedCourse] : '请选择课程' }}</h2>
+      <h2 class="title">{{ selectedCourse ? courseMap[selectedCourse] : 'Select A Course' }}</h2>
 
       <ul v-if="lessons.length">
         <li v-for="lesson in lessons" :key="lesson" @click="selectLesson(lesson)">
@@ -27,10 +28,15 @@
         </li>
       </ul>
 
-      <div v-else>请选择课程以查看课时。</div>
+      <div class="empty-state" v-else>
+        <div class="empty-icon">📚</div>
+        <h3>No Course Selected</h3>
+        <p>Please select a course from the sidebar to view lessons</p>
+      </div>
     </div>
   </div>
 </template>
+
 <script>
 import { ref, onMounted, computed } from 'vue'
 import { useRouter } from 'vue-router'
@@ -103,32 +109,52 @@ export default {
 </script>
 
 <style>
-.app-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 1000;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px 20px;
-  border-bottom: 1px solid #ccc;
-  background-color: var(--header-bg);
-  color: var(--header-color);
-  font-weight: bold;
-  font-size: 1.2rem;
+:root {
+  --primary-color: #00a19c;
+  --primary-light: #040505;
+  --secondary-color: #3f37c9;
+  --text-color: #2b2d42;
+  --text-light: #8d99ae;
+  --background: #ffffff;
+  --border-radius: 12px;
+  --shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  --shadow-hover: 0 8px 15px rgba(0, 0, 0, 0.1);
+  --transition: all 0.3s ease;
 }
 
+/* Header Styles */
+.app-header {
+  color: var(--primary-color);
+  padding: 1rem 2rem;
+  box-shadow: var(--shadow);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
 
 .username {
-  user-select: none;
-  color: #00A19C;
+  color: var(--primary-color);
   text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: var(--transition);
 }
 
 .username:hover {
-  text-decoration: none;
+  opacity: 0.9;
+}
+
+.username-icon {
+  font-size: 0.9rem;
+  opacity: 0.7;
+  transition: var(--transition);
+}
+
+.username:hover .username-icon {
+  transform: translateX(3px);
 }
 
 .container {
@@ -146,6 +172,10 @@ ul {
 
 .title {
   padding-left: 20px;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-color);
+  margin: 0 0 1rem 0;
 }
 
 /* 课程列表 固定宽度 */
@@ -176,6 +206,63 @@ ul {
 .lesson-list li {
   cursor: pointer;
   padding: 5px 10px;
+}
+
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  text-align: center;
+  color: var(--text-light);
+}
+
+.empty-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  opacity: 0.5;
+}
+
+.empty-state h3 {
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  color: var(--text-color);
+}
+
+.empty-state p {
+  max-width: 300px;
+  line-height: 1.5;
+}
+
+.lesson-navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  gap: 1rem;
+}
+
+.nav-button {
+  padding: 0.5rem 1rem;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.nav-button:hover {
+  background-color: #e0e0e0;
+}
+
+.prev-button {
+  margin-right: auto;
+}
+
+.next-button {
+  margin-left: auto;
 }
 
 /* 移动端隐藏侧边栏（课程列表），只显示一个切换按钮 */
@@ -223,6 +310,15 @@ ul {
 
   .back-button {
     margin-bottom: 10px;
+  }
+
+  .lesson-navigation {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .nav-button {
+    width: 100%;
   }
 }
 </style>
