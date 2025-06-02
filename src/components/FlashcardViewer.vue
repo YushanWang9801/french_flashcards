@@ -19,6 +19,9 @@
         <div class="card-content" :class="{ flipped: isFlipped }">
           <div class="face front" v-if="!isFlipped">
             {{ currentCard.word }}
+            <button @click.stop="speakWord(currentCard.word)" class="speak-button">
+              🔊
+            </button>
           </div>
           <div class="face back" v-else>
             {{ currentCard.translation }}
@@ -43,7 +46,8 @@
       <ul>
         <li v-for="(card, index) in lessonCards" :key="index" class="card-row">
           <div class="word-pair">
-            <span class="french-word">{{ card.word }}</span>
+            <span class="french-word">{{ card.word }}
+            </span>
             <span class="english-word">{{ card.translation }}</span>
           </div>
           <div class="examples">
@@ -91,6 +95,23 @@ const allLessons = ref([])
 const previousLesson = ref(null)
 const nextLesson = ref(null)
 const currentLesson = ref('')
+
+function speakWord(text, lang = 'fr-FR') {
+  // Check if browser supports speech synthesis
+  if ('speechSynthesis' in window) {
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = lang; // Set language
+    utterance.rate = 0.9; // Slightly slower than normal
+
+    // Cancel any ongoing speech
+    window.speechSynthesis.cancel();
+
+    // Speak the text
+    window.speechSynthesis.speak(utterance);
+  } else {
+    console.warn('Speech synthesis not supported in this browser');
+  }
+}
 
 watch(
   () => route.params.slug,
@@ -399,5 +420,17 @@ ul {
 .navigation-buttons button:hover {
   background: #ddd;
   color: black;
+}
+
+.speak-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1em;
+  margin-left: 10px;
+}
+
+.speak-button:hover {
+  color: #42b983;
 }
 </style>
