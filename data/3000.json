@@ -1,0 +1,1342 @@
+{
+    "Jour 1 Boire et manger 1.1": [
+        {
+            "french": "la carte",
+            "translation": "menu",
+            "example": "Avant de commander, il faut regarder attentivement la carte pour découvrir les spécialités du chef.",
+            "example_translation": "Before ordering, you need to carefully check the menu to discover the chef's specialties."
+        },
+        {
+            "french": "le dessert",
+            "translation": "dessert",
+            "example": "Le dessert préféré des Parisiens est le fondant au chocolat, servi avec une boule de glace vanille.",
+            "example_translation": "Parisians' favorite dessert is chocolate fondant, served with a scoop of vanilla ice cream."
+        },
+        {
+            "french": "le poisson",
+            "translation": "fish",
+            "example": "Le poisson du jour, grillé avec des herbes de Provence, est un choix léger et savoureux.",
+            "example_translation": "The fish of the day, grilled with herbs de Provence, is a light and flavorful choice."
+        },
+        {
+            "french": "la viande",
+            "translation": "meat",
+            "example": "La viande bien cuite, accompagnée d'une sauce au vin rouge, est un classique des bistrots parisiens.",
+            "example_translation": "Well-cooked meat, served with a red wine sauce, is a classic in Parisian bistros."
+        },
+        {
+            "french": "le plat principal",
+            "translation": "main course",
+            "example": "Pour le plat principal, hésitez entre le boeuf bourguignon et le canard à l'orange.",
+            "example_translation": "For the main course, hesitate between beef bourguignon and duck à l'orange."
+        },
+        {
+            "french": "le menu",
+            "translation": "set menu",
+            "example": "Le menu à 25 euros comprend une entrée, un plat principal et un dessert.",
+            "example_translation": "The 25-euro set menu includes a starter, a main course, and a dessert."
+        },
+        {
+            "french": "l'apéritif",
+            "translation": "aperitif",
+            "example": "L'apéritif traditionnel, comme un kir ou des olives, ouvre l'appétit avant le repas.",
+            "example_translation": "A traditional aperitif, like a kir or some olives, whets the appetite before the meal."
+        },
+        {
+            "french": "le vin",
+            "translation": "wine",
+            "example": "Le vin rouge de Bordeaux se marie parfaitement avec les fromages et les plats en sauce.",
+            "example_translation": "Bordeaux red wine pairs perfectly with cheeses and dishes with sauce."
+        },
+        {
+            "french": "l'entrée",
+            "translation": "starter",
+            "example": "En entrée, essayez la soupe à l'oignon gratinée ou une salade de chèvre chaud.",
+            "example_translation": "For the starter, try the onion soup or a warm goat cheese salad."
+        },
+        {
+            "french": "le repas",
+            "translation": "meal",
+            "example": "Le repas en France est un moment sacré, souvent partagé en famille ou entre amis.",
+            "example_translation": "The meal in France is a sacred moment, often shared with family or friends."
+        },
+        {
+            "french": "froid",
+            "translation": "cold",
+            "example": "Par une journée chaude, un gaspacho froid est très rafraîchissant.",
+            "example_translation": "On a hot day, a cold gazpacho is very refreshing."
+        },
+        {
+            "french": "chaud",
+            "translation": "hot",
+            "example": "En hiver, rien ne vaut une soupe chaude pour se réchauffer.",
+            "example_translation": "In winter, nothing beats a hot soup to warm up."
+        },
+        {
+            "french": "manger",
+            "translation": "to eat",
+            "example": "Manger dans un petit café typique est l'une des joies simples de la vie parisienne.",
+            "example_translation": "Eating in a small typical café is one of the simple joys of Parisian life."
+        },
+        {
+            "french": "le verre",
+            "translation": "glass",
+            "example": "Un verre de vin blanc bien frais accompagne parfaitement les fruits de mer.",
+            "example_translation": "A glass of well-chilled white wine pairs perfectly with seafood."
+        },
+        {
+            "french": "la cuillère",
+            "translation": "spoon",
+            "example": "Une cuillère en bois est idéale pour remuer la sauce sans abîmer la poêle.",
+            "example_translation": "A wooden spoon is ideal for stirring the sauce without damaging the pan."
+        },
+        {
+            "french": "la fourchette",
+            "translation": "fork",
+            "example": "La fourchette à gauche de l'assiette est destinée à l'entrée.",
+            "example_translation": "The fork on the left side of the plate is for the starter."
+        },
+        {
+            "french": "l'assiette",
+            "translation": "plate",
+            "example": "L'assiette en porcelaine blanche met en valeur les couleurs des aliments.",
+            "example_translation": "The white porcelain plate highlights the colors of the food."
+        },
+        {
+            "french": "la serviette",
+            "translation": "napkin",
+            "example": "La serviette en tissu, pliée avec soin, ajoute une touche d'élégance à la table.",
+            "example_translation": "The cloth napkin, carefully folded, adds a touch of elegance to the table."
+        },
+        {
+            "french": "le couteau",
+            "translation": "knife",
+            "example": "Le couteau bien aiguisé est essentiel pour découper la viande avec précision.",
+            "example_translation": "A sharp knife is essential for cutting meat precisely."
+        }
+    ],
+    "Jour 1 Boire et manger 1.2": [
+        {
+            "french": "les raviolis",
+            "translation": "ravioli",
+            "example": "Les raviolis maison, farcis aux épinards et ricotta, nagent dans un bouillon parfumé au thym.",
+            "example_translation": "Homemade ravioli, stuffed with spinach and ricotta, float in a thyme-infused broth."
+        },
+        {
+            "french": "sauter",
+            "translation": "to sauté",
+            "example": "Sauter les légumes à feu vif avec de l'ail et du gingembre pour garder leur croquant.",
+            "example_translation": "Sauté the vegetables on high heat with garlic and ginger to keep them crunchy."
+        },
+        {
+            "french": "bouillir",
+            "translation": "to boil",
+            "example": "Bouillir les pâtes dans une grande quantité d'eau salée pour qu'elles ne collent pas.",
+            "example_translation": "Boil the pasta in plenty of salted water to prevent sticking."
+        },
+        {
+            "french": "cuire",
+            "translation": "to cook",
+            "example": "Cuire la viande à point demande de surveiller la température avec attention.",
+            "example_translation": "Cooking meat to perfection requires careful temperature monitoring."
+        },
+        {
+            "french": "cuire à la vapeur",
+            "translation": "to steam",
+            "example": "Cuire à la vapeur le brocoli préserve ses nutriments et sa couleur vibrante.",
+            "example_translation": "Steaming broccoli preserves its nutrients and vibrant color."
+        },
+        {
+            "french": "la farine",
+            "translation": "flour",
+            "example": "La farine de blé T55 est idéale pour préparer des pâtes à tarte légères et croustillantes.",
+            "example_translation": "T55 wheat flour is perfect for making light and crispy pie dough."
+        },
+        {
+            "french": "les pâtes",
+            "translation": "pasta",
+            "example": "Les pâtes fraîches, faites avec des œufs et de la semoule, ont une texture incomparable.",
+            "example_translation": "Fresh pasta, made with eggs and semolina, has an unmatched texture."
+        },
+        {
+            "french": "le poivre",
+            "translation": "pepper",
+            "example": "Le poivre noir fraîchement moulu relève délicatement le goût des plats.",
+            "example_translation": "Freshly ground black pepper delicately enhances the flavor of dishes."
+        },
+        {
+            "french": "le sel",
+            "translation": "salt",
+            "example": "Le sel de Guérande, récolté à la main, donne une touche marine aux préparations.",
+            "example_translation": "Hand-harvested Guérande salt adds a marine touch to dishes."
+        },
+        {
+            "french": "la sauce béchamel",
+            "translation": "béchamel sauce",
+            "example": "La sauce béchamel, préparée avec du beurre, de la farine et du lait, est la base des gratins.",
+            "example_translation": "Béchamel sauce, made with butter, flour, and milk, is the base of gratins."
+        },
+        {
+            "french": "les spaghettis",
+            "translation": "spaghetti",
+            "example": "Les spaghettis al dente, accompagnés d'une sauce tomate maison, sont un réconfort simple.",
+            "example_translation": "Al dente spaghetti with homemade tomato sauce is simple comfort food."
+        },
+        {
+            "french": "la tomate",
+            "translation": "tomato",
+            "example": "La tomate cerise, douce et juteuse, éclate de fraîcheur dans les salades estivales.",
+            "example_translation": "Sweet and juicy cherry tomatoes burst with freshness in summer salads."
+        },
+        {
+            "french": "la sauce tomate",
+            "translation": "tomato sauce",
+            "example": "La sauce tomate mijotée avec des herbes de Provence embaume toute la cuisine.",
+            "example_translation": "Tomato sauce simmered with herbes de Provence fills the kitchen with fragrance."
+        },
+        {
+            "french": "le pain",
+            "translation": "bread",
+            "example": "Le pain frais du boulanger, encore chaud, embaume toute la rue le matin.",
+            "example_translation": "The baker's fresh bread, still warm, fills the whole street with its aroma in the morning."
+        },
+        {
+            "french": "le pain de campagne",
+            "translation": "country bread",
+            "example": "Le pain de campagne, avec sa croûte épaisse et sa mie dense, est parfait pour les tartines beurrées.",
+            "example_translation": "Country bread, with its thick crust and dense crumb, is perfect for buttered toast."
+        },
+        {
+            "french": "le four",
+            "translation": "oven",
+            "example": "Le four à bois traditionnel donne au pain un goût fumé inimitable.",
+            "example_translation": "The traditional wood-fired oven gives the bread an unmistakable smoky flavor."
+        },
+        {
+            "french": "la baguette",
+            "translation": "baguette",
+            "example": "La baguette croustillante, cassée à la main au repas, est un symbole de la vie française.",
+            "example_translation": "The crispy baguette, broken by hand at mealtime, is a symbol of French life."
+        },
+        {
+            "french": "les moufles",
+            "translation": "oven mitts",
+            "example": "Les moufles en silicone sont indispensables pour sortir les gâteaux brûlants du four.",
+            "example_translation": "Silicone oven mitts are essential for taking hot cakes out of the oven."
+        },
+        {
+            "french": "la pâte",
+            "translation": "dough",
+            "example": "La pâte à pain doit reposer deux heures avant de pouvoir être façonnée.",
+            "example_translation": "The bread dough needs to rest for two hours before being shaped."
+        },
+        {
+            "french": "le plateau",
+            "translation": "tray",
+            "example": "Le plateau en métal permet de faire cuire plusieurs baguettes en même temps.",
+            "example_translation": "The metal tray allows several baguettes to bake at the same time."
+        }
+    ],
+    "Jour 1 Boire et manger 1.3": [
+        {
+            "french": "les gâteaux",
+            "translation": "cakes",
+            "example": "Les gâteaux artisanaux, décorés avec des fruits frais, sont presque trop beaux pour être mangés.",
+            "example_translation": "The artisanal cakes, decorated with fresh fruit, are almost too beautiful to eat."
+        },
+        {
+            "french": "croquant",
+            "translation": "crunchy",
+            "example": "Les amandes croquantes sur le dessus du gâteau apportent une texture délicieuse.",
+            "example_translation": "The crunchy almonds on top of the cake add a delicious texture."
+        },
+        {
+            "french": "le chocolat",
+            "translation": "chocolate",
+            "example": "Le chocolat fondu, coulé sur les fraises, se solidifie en une fine couche brillante.",
+            "example_translation": "The melted chocolate, poured over strawberries, solidifies into a thin shiny layer."
+        },
+        {
+            "french": "l'amande",
+            "translation": "almond",
+            "example": "L'amande torréfiée, finement hachée, rehausse la saveur des pâtisseries orientales.",
+            "example_translation": "The roasted almond, finely chopped, enhances the flavor of oriental pastries."
+        },
+        {
+            "french": "le biscuit",
+            "translation": "cookie",
+            "example": "Le biscuit sablé, friable et doré, se marie parfaitement avec le thé à la bergamote.",
+            "example_translation": "The shortbread cookie, crumbly and golden, pairs perfectly with bergamot tea."
+        },
+        {
+            "french": "le pain de mie",
+            "translation": "sandwich bread",
+            "example": "Le pain de mie, moelleux et sans croûte, est idéal pour préparer des canapés ou des toasts.",
+            "example_translation": "Sandwich bread, soft and crustless, is perfect for making canapés or toast."
+        },
+        {
+            "french": "la tartine",
+            "translation": "slice of bread with topping",
+            "example": "Une tartine de confiture sur du pain grillé, c'est le petit-déjeuner préféré des enfants.",
+            "example_translation": "A slice of toast with jam is children's favorite breakfast."
+        },
+        {
+            "french": "la tranche",
+            "translation": "slice",
+            "example": "Une tranche épaisse de pain de campagne peut supporter une généreuse portion de fromage fondu.",
+            "example_translation": "A thick slice of country bread can hold a generous portion of melted cheese."
+        },
+        {
+            "french": "griller",
+            "translation": "to toast",
+            "example": "Griller légèrement le pain lui donne un arôme de noisette et une texture plus croustillante.",
+            "example_translation": "Lightly toasting bread gives it a nutty aroma and crispier texture."
+        },
+        {
+            "french": "la pâtisserie",
+            "translation": "pastry shop",
+            "example": "La pâtisserie du coin sent bon le beurre et la vanille dès l'ouverture des portes le matin.",
+            "example_translation": "The local pastry shop smells of butter and vanilla as soon as its doors open in the morning."
+        },
+        {
+            "french": "le pain au chocolat",
+            "translation": "chocolate bread",
+            "example": "Le pain au chocolat, encore tiède, laisse couler des filets de chocolat noir à la première bouchée.",
+            "example_translation": "The still-warm chocolate bread lets streams of dark chocolate flow at the first bite."
+        },
+        {
+            "french": "le pain aux raisins",
+            "translation": "raisin bread",
+            "example": "Le pain aux raisins, avec sa spirale de crème pâtissière, est un classique du goûter.",
+            "example_translation": "Raisin bread with its spiral of pastry cream is an afternoon snack classic."
+        },
+        {
+            "french": "la brioche",
+            "translation": "brioche",
+            "example": "La brioche dorée, légère comme un nuage, fond littéralement dans la bouche.",
+            "example_translation": "The golden brioche, light as a cloud, literally melts in your mouth."
+        },
+        {
+            "french": "le hot-dog",
+            "translation": "hot dog",
+            "example": "Le hot-dog français se distingue par sa baguette croustillante et sa moutarde à l'ancienne.",
+            "example_translation": "The French hot dog stands out with its crispy baguette and whole-grain mustard."
+        },
+        {
+            "french": "le ketchup",
+            "translation": "ketchup",
+            "example": "Le ketchup, trop souvent versé généreusement par les enfants, finit par noyer les frites.",
+            "example_translation": "Ketchup, too often generously poured by children, ends up drowning the fries."
+        },
+        {
+            "french": "la moutarde",
+            "translation": "mustard",
+            "example": "La moutarde de Dijon, avec son piquant caractéristique, relève les sauces et les sandwichs.",
+            "example_translation": "Dijon mustard, with its characteristic sharpness, enhances sauces and sandwiches."
+        },
+        {
+            "french": "la saucisse",
+            "translation": "sausage",
+            "example": "La saucisse de Toulouse, grillée au feu de bois, est la star des barbecues d'été.",
+            "example_translation": "The Toulouse sausage, wood-fire grilled, is the star of summer barbecues."
+        },
+        {
+            "french": "la soupe",
+            "translation": "soup",
+            "example": "La soupe à l'oignon, gratinée avec du fromage qui file, réchauffe les soirées d'hiver.",
+            "example_translation": "Onion soup, topped with stringy melted cheese, warms up winter evenings."
+        },
+        {
+            "french": "la bouillabaisse",
+            "translation": "fish stew",
+            "example": "La bouillabaisse marseillaise, accompagnée de sa rouille et de croûtons, est un plat complet.",
+            "example_translation": "Marseille's fish stew, served with rouille sauce and croutons, is a complete meal."
+        },
+        {
+            "french": "le bouillon",
+            "translation": "broth",
+            "example": "Le bouillon de poulet maison, filtré et dégraissé, est la base de nombreuses recettes.",
+            "example_translation": "Homemade chicken broth, strained and skimmed, is the base for many recipes."
+        },
+        {
+            "french": "le bol",
+            "translation": "bowl",
+            "example": "Un bol profond en céramique garde la soupe chaude plus longtemps qu'une assiette creuse.",
+            "example_translation": "A deep ceramic bowl keeps soup hot longer than a soup plate."
+        },
+        {
+            "french": "la cuillère",
+            "translation": "spoon",
+            "example": "La cuillère en bois, usée par des années de remuage, a pris la forme du chaudron familial.",
+            "example_translation": "The wooden spoon, worn by years of stirring, has taken the shape of the family pot."
+        },
+        {
+            "french": "la casserole",
+            "translation": "saucepan",
+            "example": "La casserole en cuivre, avec son fond épais, permet une répartition uniforme de la chaleur.",
+            "example_translation": "The copper saucepan, with its thick base, allows even heat distribution."
+        }
+    ],
+    "Jour 1 Boire et manger 1.4": [
+        {
+            "french": "le hamburger",
+            "translation": "hamburger",
+            "example": "Le hamburger français revisité par les chefs étoilés combine un brioche moelleux et un steak de boeuf charolais.",
+            "example_translation": "The French gourmet hamburger combines a soft brioche bun and Charolais beef steak."
+        },
+        {
+            "french": "le sésame",
+            "translation": "sesame",
+            "example": "Les graines de sésame dorées sur le petit pain ajoutent du croquant et une saveur de noisette.",
+            "example_translation": "Golden sesame seeds on the bun add crunch and a nutty flavor."
+        },
+        {
+            "french": "le petit pain pour hamburger",
+            "translation": "hamburger bun",
+            "example": "Un bon petit pain pour hamburger doit être légèrement sucré et résister au jus du steak sans se détremper.",
+            "example_translation": "A good hamburger bun should be slightly sweet and hold up to steak juices without getting soggy."
+        },
+        {
+            "french": "la mayonnaise",
+            "translation": "mayonnaise",
+            "example": "La mayonnaise maison au citron et à la moutarde ancienne fait toute la différence dans un burger.",
+            "example_translation": "Homemade lemon and whole-grain mustard mayonnaise makes all the difference in a burger."
+        },
+        {
+            "french": "la salade",
+            "translation": "lettuce",
+            "example": "La salade iceberg bien croquante apporte fraîcheur et texture dans l'équilibre du hamburger.",
+            "example_translation": "Crisp iceberg lettuce adds freshness and texture to balance the hamburger."
+        },
+        {
+            "french": "le boeuf",
+            "translation": "beef",
+            "example": "Le boeuf haché à 20% de matière grasse donne des steaks juteux sans être trop gras.",
+            "example_translation": "Ground beef with 20% fat makes juicy patties without being too greasy."
+        },
+        {
+            "french": "le steak",
+            "translation": "patty",
+            "example": "Le steak de 150g, saisi à feu vif pour garder son jus, doit être rosé à coeur selon les puristes.",
+            "example_translation": "The 150g patty, seared on high heat to retain juices, should be pink inside according to purists."
+        },
+        {
+            "french": "le fromage",
+            "translation": "cheese",
+            "example": "Le fromage français, avec ses 1200 variétés, est un véritable patrimoine gastronomique.",
+            "example_translation": "French cheese, with its 1200 varieties, is a true culinary heritage."
+        },
+        {
+            "french": "le fromage blanc",
+            "translation": "white cheese (similar to quark)",
+            "example": "Le fromage blanc onctueux, accompagné de miel et de noix, fait un dessert léger et savoureux.",
+            "example_translation": "Creamy white cheese with honey and walnuts makes a light and tasty dessert."
+        },
+        {
+            "french": "la part de fromage",
+            "translation": "portion/slice of cheese",
+            "example": "Une part de fromage bien affiné peut transformer un simple repas en expérience gastronomique.",
+            "example_translation": "A well-aged portion of cheese can turn a simple meal into a gourmet experience."
+        },
+        {
+            "french": "les trous",
+            "translation": "holes (in cheese)",
+            "example": "Les trous caractéristiques du gruyère se forment pendant l'affinage grâce à des bactéries spécifiques.",
+            "example_translation": "The characteristic holes in Gruyère form during aging thanks to specific bacteria."
+        },
+        {
+            "french": "le roquefort",
+            "translation": "Roquefort cheese",
+            "example": "Le roquefort, avec ses veinures bleues et son goût prononcé, se marie parfaitement avec les poires.",
+            "example_translation": "Roquefort, with its blue veins and strong flavor, pairs perfectly with pears."
+        },
+        {
+            "french": "le camembert",
+            "translation": "Camembert cheese",
+            "example": "Un camembert bien coulant, servi dans sa boîte en bois, est l'un des plaisirs de l'automne.",
+            "example_translation": "A perfectly runny Camembert served in its wooden box is one of autumn's pleasures."
+        },
+        {
+            "french": "les frites",
+            "translation": "french fries",
+            "example": "Les frites croustillantes à l'extérieur et moelleuses à l'intérieur sont une véritable technique française.",
+            "example_translation": "Fries crispy outside and fluffy inside are a true French technique."
+        },
+        {
+            "french": "la pomme de terre",
+            "translation": "potato",
+            "example": "La pomme de terre ratte, petite et savoureuse, est prisée des grands chefs pour sa texture fondante.",
+            "example_translation": "The ratte potato, small and flavorful, is prized by chefs for its melting texture."
+        },
+        {
+            "french": "le cornet",
+            "translation": "cone (for fries)",
+            "example": "Un cornet de frites bien chaudes, saupoudrées de sel gros, est le meilleur compagnon des promenades hivernales.",
+            "example_translation": "A cone of hot fries sprinkled with coarse salt is winter strolls' best companion."
+        },
+        {
+            "french": "gras/grasse",
+            "translation": "fatty",
+            "example": "Les fromages les plus gras comme le brie sont aussi les plus riches en saveurs complexes.",
+            "example_translation": "The fattiest cheeses like brie are also the richest in complex flavors."
+        }
+    ],
+    "Jour 1 Boire et manger 1.5": [
+        {
+            "french": "la boisson",
+            "translation": "drink",
+            "example": "La boisson chaude par excellence en France est le café noir serré, souvent pris debout au comptoir.",
+            "example_translation": "The quintessential hot drink in France is a strong black coffee, often taken standing at the counter."
+        },
+        {
+            "french": "plier",
+            "translation": "to fold",
+            "example": "Plier délicatement le sachet de thé sur le bord de la tasse pour éviter qu'il ne tombe dans la boisson.",
+            "example_translation": "Gently fold the tea bag over the edge of the cup to prevent it from falling into the drink."
+        },
+        {
+            "french": "la paille",
+            "translation": "straw",
+            "example": "Les pailles en amidon de maïs, biodégradables, remplacent progressivement les pailles en plastique dans les cafés parisiens.",
+            "example_translation": "Cornstarch biodegradable straws are gradually replacing plastic straws in Parisian cafés."
+        },
+        {
+            "french": "le gobelet",
+            "translation": "cup/beaker",
+            "example": "Le gobelet en carton à motifs est l'emblème des coffee shops modernes où l'on emporte son café à emporter.",
+            "example_translation": "The patterned cardboard cup is the emblem of modern coffee shops where you take your coffee to go."
+        },
+        {
+            "french": "le soda",
+            "translation": "soda",
+            "example": "Un soda bien frais avec des glaçons qui crépitent est la meilleure façon de se rafraîchir en été.",
+            "example_translation": "An ice-cold soda with crackling ice cubes is the best way to cool down in summer."
+        },
+        {
+            "french": "le coca",
+            "translation": "Coca-Cola",
+            "example": "Le coca servi avec une rondelle de citron et des glaçons est devenu un classique des terrasses de bistrot.",
+            "example_translation": "Coca-Cola served with a lemon slice and ice cubes has become a bistro terrace classic."
+        },
+        {
+            "french": "les bulles",
+            "translation": "bubbles",
+            "example": "Les bulles fines et persistantes sont la marque des meilleurs champagnes et eaux pétillantes.",
+            "example_translation": "Fine, persistent bubbles are the hallmark of the best champagnes and sparkling waters."
+        },
+        {
+            "french": "le café",
+            "translation": "coffee",
+            "example": "Le café noisette, ce petit expresso avec juste un nuage de lait, est l'équilibre parfait pour les amateurs.",
+            "example_translation": "The café noisette, a small espresso with just a cloud of milk, is the perfect balance for connoisseurs."
+        },
+        {
+            "french": "le sucre",
+            "translation": "sugar",
+            "example": "Les morceaux de sucre blanc qu'on laisse fondre lentement dans le thé révèlent différentes nuances de saveur.",
+            "example_translation": "White sugar cubes left to melt slowly in tea reveal different flavor nuances."
+        },
+        {
+            "french": "la cannelle",
+            "translation": "cinnamon",
+            "example": "La cannelle en poudre saupoudrée sur un cappuccino forme de délicats motifs éphémères avant de se dissoudre.",
+            "example_translation": "Powdered cinnamon sprinkled on a cappuccino forms delicate ephemeral patterns before dissolving."
+        },
+        {
+            "french": "la tasse",
+            "translation": "cup",
+            "example": "La tasse à thé en porcelaine fine, avec son anse élégante, conserve la chaleur sans brûler les doigts.",
+            "example_translation": "The fine porcelain teacup with its elegant handle retains heat without burning fingers."
+        },
+        {
+            "french": "la soucoupe",
+            "translation": "saucer",
+            "example": "La soucoupe n'est pas qu'un accessoire décoratif - elle recueille les gouttes de café et supporte la petite cuillère.",
+            "example_translation": "The saucer isn't just decorative - it catches coffee drips and holds the teaspoon."
+        },
+        {
+            "french": "au café",
+            "translation": "at the café",
+            "example": "Au café du commerce, les habitués ont leur table attitrée et commandent toujours la même chose sans consulter la carte.",
+            "example_translation": "At the local café, regulars have their usual table and always order the same thing without looking at the menu."
+        },
+        {
+            "french": "le lait",
+            "translation": "milk",
+            "example": "Le lait mousseux à la texture de velours est la clé d'un latte macchiato parfaitement stratifié.",
+            "example_translation": "Velvety foamy milk is the key to a perfectly layered latte macchiato."
+        },
+        {
+            "french": "la crème",
+            "translation": "cream",
+            "example": "La crème fleurette fraîche, légèrement montée, flotte délicatement à la surface du café viennois.",
+            "example_translation": "Fresh slightly whipped cream floats delicately on the surface of Viennese coffee."
+        },
+        {
+            "french": "le thé",
+            "translation": "tea",
+            "example": "Le thé Earl Grey, avec son parfum de bergamote, se boit de préférence sans lait pour apprécier ses arômes floraux.",
+            "example_translation": "Earl Grey tea with its bergamot scent is best drunk without milk to appreciate its floral notes."
+        },
+        {
+            "french": "la menthe",
+            "translation": "mint",
+            "example": "La menthe fraîche du Maroc, généreusement disposée dans la théière, donne au thé vert sa fraîcheur caractéristique.",
+            "example_translation": "Fresh Moroccan mint generously placed in the teapot gives green tea its characteristic freshness."
+        },
+        {
+            "french": "le thé vert",
+            "translation": "green tea",
+            "example": "Le thé vert japonais matcha, en poudre fine, se fouette dans l'eau chaude pour créer une boisson vibrante.",
+            "example_translation": "Japanese matcha green tea, in fine powder form, is whisked in hot water to create a vibrant drink."
+        },
+        {
+            "french": "le citron",
+            "translation": "lemon",
+            "example": "Un quartier de citron jaune qui repose au fond de la tasse atténue l'amertume du thé noir.",
+            "example_translation": "A wedge of yellow lemon at the bottom of the cup softens black tea's bitterness."
+        },
+        {
+            "french": "le thé au lait",
+            "translation": "tea with milk",
+            "example": "Le thé au lait à l'anglaise, où le lait est versé en premier, préserve la délicatesse des porcelaines anciennes.",
+            "example_translation": "English-style tea with milk, where milk is poured first, preserves antique porcelain's delicacy."
+        },
+        {
+            "french": "verser",
+            "translation": "to pour",
+            "example": "Verser l'eau frémissante (pas bouillante) sur les feuilles de thé permet d'éviter de brûler leurs arômes délicats.",
+            "example_translation": "Pouring hot (not boiling) water over tea leaves prevents burning their delicate flavors."
+        },
+        {
+            "french": "la théière",
+            "translation": "teapot",
+            "example": "La théière en fonte japonaise, avec son filtre intégré, est idéale pour les thés qui nécessitent une infusion longue.",
+            "example_translation": "The Japanese cast iron teapot with built-in filter is ideal for teas requiring long steeping."
+        },
+        {
+            "french": "la coupe",
+            "translation": "glass (for champagne)",
+            "example": "La coupe à champagne large et peu profonde, bien que moins pratique que la flûte, a un charme rétro indéniable.",
+            "example_translation": "The wide, shallow champagne coupe, though less practical than the flute, has undeniable retro charm."
+        }
+    ],
+    "Jour 1 Boire et manger 1.6": [
+        {
+            "french": "le cocktail",
+            "translation": "cocktail",
+            "example": "Le cocktail préféré des Parisiens en été est le mojito, avec sa menthe fraîche et son pétillement rafraîchissant.",
+            "example_translation": "Parisians' favorite summer cocktail is the mojito, with its fresh mint and refreshing fizz."
+        },
+        {
+            "french": "frais/fraîche",
+            "translation": "fresh/chilled",
+            "example": "Un jus de fruit bien frais servi dans un verre givré est la meilleure façon de commencer la journée.",
+            "example_translation": "A well-chilled fruit juice served in a frosted glass is the best way to start the day."
+        },
+        {
+            "french": "le verre",
+            "translation": "glass",
+            "example": "Le verre à cocktail en forme de cône, avec sa base fine, concentre les arômes directement vers le nez.",
+            "example_translation": "The cone-shaped cocktail glass with its narrow base directs aromas straight to the nose."
+        },
+        {
+            "french": "le jus d'orange",
+            "translation": "orange juice",
+            "example": "Le jus d'orange pressé à la minute, avec sa pulpe et son voile de mousse, est bien plus qu'un simple accompagnement du petit-déjeuner.",
+            "example_translation": "Freshly squeezed orange juice with its pulp and light foam is much more than just a breakfast side."
+        },
+        {
+            "french": "la rondelle",
+            "translation": "slice (of fruit)",
+            "example": "Une rondelle de citron jaune accrochée au bord du verre ajoute une touche estivale aux boissons glacées.",
+            "example_translation": "A yellow lemon slice on the rim of the glass adds a summery touch to iced drinks."
+        },
+        {
+            "french": "le soda citron",
+            "translation": "lemon soda",
+            "example": "Le soda citron maison, moins sucré que les versions industrielles, révèle des notes acidulées et rafraîchissantes.",
+            "example_translation": "Homemade lemon soda, less sweet than commercial versions, reveals tangy and refreshing notes."
+        },
+        {
+            "french": "le riz",
+            "translation": "rice",
+            "example": "Le riz basmati parfumé, avec ses grains longs et distincts, est la base de nombreux plats asiatiques revisités à la française.",
+            "example_translation": "Fragrant basmati rice with its long separate grains is the base for many Asian dishes with a French twist."
+        },
+        {
+            "french": "le riz simple",
+            "translation": "plain rice",
+            "example": "Le riz simple cuit à la vapeur est le compagnon idéal des plats en sauce, car il absorbe les saveurs sans les masquer.",
+            "example_translation": "Plain steamed rice is the ideal companion for saucy dishes as it absorbs flavors without overpowering them."
+        },
+        {
+            "french": "le riz cantonais",
+            "translation": "fried rice",
+            "example": "Le riz cantonais authentique doit avoir des grains bien séparés, légèrement dorés, avec des morceaux de jambon et de petits pois croquants.",
+            "example_translation": "Authentic fried rice should have separate, slightly golden grains with pieces of ham and crunchy peas."
+        },
+        {
+            "french": "le grain de riz",
+            "translation": "grain of rice",
+            "example": "Un grain de riz parfaitement cuit doit être tendre à cœur tout en gardant une légère fermeté sous la dent.",
+            "example_translation": "A perfectly cooked grain of rice should be tender inside while retaining slight firmness when bitten."
+        },
+        {
+            "french": "les nouilles",
+            "translation": "noodles",
+            "example": "Les nouilles fraîches, faites à la main et étirées devant les clients, sont une attraction dans les restaurants asiatiques authentiques.",
+            "example_translation": "Fresh noodles handmade and stretched in front of customers are an attraction in authentic Asian restaurants."
+        },
+        {
+            "french": "les nouilles sautées",
+            "translation": "stir-fried noodles",
+            "example": "Les nouilles sautées au wok, avec leur légère saveur fumée et leurs légumes croquants, sont un plat complet équilibré.",
+            "example_translation": "Wok-fried noodles with their slight smoky flavor and crunchy vegetables make a balanced complete meal."
+        },
+        {
+            "french": "la soupe de nouilles au bœuf",
+            "translation": "beef noodle soup",
+            "example": "La soupe de nouilles au bœuf vietnamienne, avec son bouillon parfumé à la cannelle et à l'anis, est un remède réconfortant contre le froid hivernal.",
+            "example_translation": "Vietnamese beef noodle soup with its broth flavored with cinnamon and star anise is a comforting remedy against winter chill."
+        },
+        {
+            "french": "les baguettes",
+            "translation": "chopsticks",
+            "example": "Les baguettes en bambou, légères et résistantes, demandent un peu de pratique mais permettent de mieux apprécier la texture des aliments asiatiques.",
+            "example_translation": "Bamboo chopsticks, light and sturdy, require some practice but allow better appreciation of Asian food textures."
+        },
+        {
+            "french": "la soupe de nouilles",
+            "translation": "noodle soup",
+            "example": "La soupe de nouilles instantanée, bien que pratique, ne peut rivaliser avec la version maison au bouillon mijoté pendant des heures.",
+            "example_translation": "Instant noodle soup, though convenient, can't compare to homemade versions with broth simmered for hours."
+        },
+        {
+            "french": "l'œuf",
+            "translation": "egg",
+            "example": "Un œuf frais de poule élevée en plein air a un jaune bien orangé et un goût plus prononcé.",
+            "example_translation": "A fresh free-range egg has a deep orange yolk and a more pronounced flavor."
+        },
+        {
+            "french": "casser",
+            "translation": "to crack",
+            "example": "Casser l'œuf d'un coup sec sur le bord d'un bol évite de mettre des éclats de coquille dans la préparation.",
+            "example_translation": "Cracking the egg sharply on the edge of a bowl prevents shell fragments from getting into the mixture."
+        },
+        {
+            "french": "la coquille",
+            "translation": "shell",
+            "example": "Les coquilles d'œufs broyées peuvent être utilisées comme engrais naturel pour le jardin.",
+            "example_translation": "Crushed eggshells can be used as natural fertilizer for the garden."
+        },
+        {
+            "french": "le blanc d'œuf",
+            "translation": "egg white",
+            "example": "Monter les blancs d'œuf en neige ferme demande un bol parfaitement propre et sans trace de jaune.",
+            "example_translation": "Whipping egg whites to stiff peaks requires a perfectly clean bowl with no trace of yolk."
+        },
+        {
+            "french": "le jaune d'œuf",
+            "translation": "egg yolk",
+            "example": "Un jaune d'œuf crémeux est la base des sauces émulsionnées comme la mayonnaise ou la hollandaise.",
+            "example_translation": "A creamy egg yolk is the base for emulsified sauces like mayonnaise or hollandaise."
+        },
+        {
+            "french": "l'œuf au plat",
+            "translation": "fried egg",
+            "example": "Un œuf au plat parfait a le blanc bien cuit mais le jaune encore coulant, prêt à être percé par une tartine.",
+            "example_translation": "A perfect fried egg has fully cooked whites but a still-runny yolk, ready to be pierced by toast."
+        }
+    ],
+    "Jour 1 Boire et manger 1.7": [
+        {
+            "french": "la crêpe",
+            "translation": "crepe",
+            "example": "La crêpe bretonne traditionnelle doit être fine comme de la dentelle et légèrement croustillante sur les bords.",
+            "example_translation": "A traditional Breton crepe should be thin as lace and slightly crispy at the edges."
+        },
+        {
+            "french": "salé",
+            "translation": "savory",
+            "example": "Les crêpes salées garnies de jambon et de fromage fondu sont un repas complet et réconfortant.",
+            "example_translation": "Savory crepes filled with ham and melted cheese make a complete and comforting meal."
+        },
+        {
+            "french": "sucré",
+            "translation": "sweet",
+            "example": "Les crêpes sucrées saupoudrées de sucre et arrosées de jus de citron sont un classique intemporel.",
+            "example_translation": "Sweet crepes sprinkled with sugar and lemon juice are a timeless classic."
+        },
+        {
+            "french": "le jambon",
+            "translation": "ham",
+            "example": "Le jambon de Paris coupé en fines tranches se marie parfaitement avec le fromage gruyère dans une galette complète.",
+            "example_translation": "Thinly sliced Paris ham pairs perfectly with Gruyère cheese in a hearty buckwheat crepe."
+        },
+        {
+            "french": "le fromage râpé",
+            "translation": "grated cheese",
+            "example": "Le fromage râpé qui fond lentement sur la crêpe chaude forme des filaments dorés et parfumés.",
+            "example_translation": "Grated cheese melting slowly on a hot crepe forms golden, fragrant strands."
+        },
+        {
+            "french": "le beurre",
+            "translation": "butter",
+            "example": "Un noisette de beurre qui fond sur la crêpe encore chaude est un pur moment de gourmandise.",
+            "example_translation": "A knob of butter melting on a still-warm crepe is pure indulgence."
+        },
+        {
+            "french": "le Nutella",
+            "translation": "Nutella",
+            "example": "Le Nutella légèrement tiédi qui s'étale comme de la soie sur la crêpe fait le bonheur des enfants.",
+            "example_translation": "Slightly warmed Nutella spreading like silk on a crepe delights children."
+        },
+        {
+            "french": "la confiture",
+            "translation": "jam",
+            "example": "La confiture de fraise maison, avec ses morceaux de fruits, apporte une touche acidulée aux crêpes du dimanche matin.",
+            "example_translation": "Homemade strawberry jam with fruit pieces adds a tangy touch to Sunday morning crepes."
+        },
+        {
+            "french": "le flan",
+            "translation": "custard tart",
+            "example": "Le flan pâtissier, avec sa garniture crémeuse et sa croûte dorée, est un incontournable des boulangeries françaises.",
+            "example_translation": "Custard tart with its creamy filling and golden crust is a staple of French bakeries."
+        },
+        {
+            "french": "délicieux",
+            "translation": "delicious",
+            "example": "Le parfum délicieux des crêpes qui cuisent fait toujours accourir toute la famille dans la cuisine.",
+            "example_translation": "The delicious aroma of cooking crepes always brings the whole family running to the kitchen."
+        },
+        {
+            "french": "la crème brûlée",
+            "translation": "crème brûlée",
+            "example": "La crème brûlée parfaite doit avoir une couche de caramel croustillant qui craque sous la cuillère pour révéler la crème vanillée onctueuse.",
+            "example_translation": "A perfect crème brûlée should have a crisp caramel layer that cracks under the spoon to reveal smooth vanilla custard."
+        },
+        {
+            "french": "le nappage",
+            "translation": "glaze",
+            "example": "Le nappage brillant sur les éclairs au chocolat est obtenu avec un mélange de chocolat fondu et d'huile neutre.",
+            "example_translation": "The shiny glaze on chocolate eclairs is made with melted chocolate and neutral oil."
+        },
+        {
+            "french": "l'éclair",
+            "translation": "eclair",
+            "example": "Un éclair au café bien fait doit être léger comme une plume, avec une crème pâtissière généreuse et un glaçage lisse.",
+            "example_translation": "A well-made coffee eclair should be light as a feather, with generous pastry cream and smooth icing."
+        },
+        {
+            "french": "le beignet",
+            "translation": "donut",
+            "example": "Les beignets encore tièdes saupoudrés de sucre glace sont particulièrement appréciés lors des fêtes carnavalesques.",
+            "example_translation": "Still-warm donuts dusted with powdered sugar are especially popular during carnival celebrations."
+        },
+        {
+            "french": "le macaron",
+            "translation": "macaron",
+            "example": "Un macaron réussi doit avoir une coque légèrement croquante, une intérieur moelleux et une garniture généreuse.",
+            "example_translation": "A perfect macaron should have a slightly crisp shell, a chewy interior, and generous filling."
+        },
+        {
+            "french": "la madeleine",
+            "translation": "madeleine",
+            "example": "La madeleine de Commercy, avec sa forme de coquillage et son petit renflement caractéristique, est indissociable de la littérature proustienne.",
+            "example_translation": "The Commercy madeleine, with its shell shape and characteristic bump, is inseparable from Proustian literature."
+        },
+        {
+            "french": "les bonbons",
+            "translation": "candies",
+            "example": "Les bonbons artisanaux aux saveurs vintage (violette, réglisse, bergamote) connaissent un regain de popularité.",
+            "example_translation": "Artisanal candies with vintage flavors (violet, licorice, bergamot) are enjoying renewed popularity."
+        },
+        {
+            "french": "la sucette",
+            "translation": "lollipop",
+            "example": "La sucette en verre soufflé, avec ses spirales colorées, est autant un objet de décoration qu'une confiserie.",
+            "example_translation": "The blown glass lollipop with its colorful spirals is as much a decorative object as a candy."
+        },
+        {
+            "french": "le caramel",
+            "translation": "caramel",
+            "example": "Le caramel au beurre salé, avec son équilibre parfait entre sucré et salé, est une spécialité bretonne devenue nationale.",
+            "example_translation": "Salted butter caramel, with its perfect sweet-salty balance, is a Breton specialty that has become nationally popular."
+        }
+    ],
+    "Jour 1 Boire et manger 1.8": [
+        {
+            "french": "le chocolat",
+            "translation": "chocolate",
+            "example": "Le chocolat de couverture, riche en beurre de cacao, est essentiel pour les pâtissiers professionnels.",
+            "example_translation": "Couverture chocolate, high in cocoa butter, is essential for professional pastry chefs."
+        },
+        {
+            "french": "amer",
+            "translation": "bitter",
+            "example": "Le chocolat noir à 70% offre un équilibre parfait entre douceur et notes amères de cacao.",
+            "example_translation": "70% dark chocolate offers a perfect balance between sweetness and bitter cocoa notes."
+        },
+        {
+            "french": "la truffe",
+            "translation": "truffle",
+            "example": "Les truffes en chocolat roulées dans du cacao amer sont un classique des confiseries artisanales.",
+            "example_translation": "Chocolate truffles rolled in bitter cocoa are a classic of artisanal confectionery."
+        },
+        {
+            "french": "le carré de chocolat",
+            "translation": "chocolate square",
+            "example": "Un simple carré de chocolat noir fondu lentement sur la langue peut être une expérience sensorielle intense.",
+            "example_translation": "A simple square of dark chocolate melting slowly on the tongue can be an intense sensory experience."
+        },
+        {
+            "french": "le chocolat noir",
+            "translation": "dark chocolate",
+            "example": "Le chocolat noir à croquer, avec ses notes fruitées et boisées, se déguste comme un grand vin.",
+            "example_translation": "Dark eating chocolate, with its fruity and woody notes, is savored like a fine wine."
+        },
+        {
+            "french": "la glace",
+            "translation": "ice cream",
+            "example": "La glace artisanale, battue à la main pour incorporer moins d'air, a une texture plus dense et des saveurs plus intenses.",
+            "example_translation": "Artisanal ice cream, churned by hand to incorporate less air, has a denser texture and more intense flavors."
+        },
+        {
+            "french": "la glace à la fraise",
+            "translation": "strawberry ice cream",
+            "example": "La glace à la fraise préparée avec des fruits frais écrasés prend une belle couleur rose naturellement.",
+            "example_translation": "Strawberry ice cream made with crushed fresh fruits naturally turns a beautiful pink color."
+        },
+        {
+            "french": "une boule de glace",
+            "translation": "a scoop of ice cream",
+            "example": "Deux boules de glace nichées dans un cornet croustillant : le dessert préféré des enfants lors des chaudes journées d'été.",
+            "example_translation": "Two scoops of ice cream nestled in a crispy cone: children's favorite dessert on hot summer days."
+        },
+        {
+            "french": "la glace à la vanille",
+            "translation": "vanilla ice cream",
+            "example": "La glace à la vanille de Madagascar, avec ses petites gousses noires visibles, est la reine des parfums classiques.",
+            "example_translation": "Madagascar vanilla ice cream, with its visible black specks, is the queen of classic flavors."
+        },
+        {
+            "french": "fondre",
+            "translation": "to melt",
+            "example": "Laisser fondre légèrement la glace avant de servir permet de mieux apprécier ses arômes subtils.",
+            "example_translation": "Letting ice cream soften slightly before serving enhances appreciation of its subtle flavors."
+        },
+        {
+            "french": "le parfum",
+            "translation": "flavor",
+            "example": "Le parfum pistache, avec sa teinte vert pâle et ses notes salées, est un must des glaciers traditionnels.",
+            "example_translation": "Pistachio flavor, with its pale green hue and salty notes, is a must for traditional ice cream makers."
+        },
+        {
+            "french": "le sorbet",
+            "translation": "sorbet",
+            "example": "Le sorbet citron vert, plus acidulé que la glace, est idéal pour rafraîchir le palais entre les plats.",
+            "example_translation": "Lime sorbet, tangier than ice cream, is perfect for refreshing the palate between courses."
+        },
+        {
+            "french": "le pop-corn",
+            "translation": "popcorn",
+            "example": "Le pop-corn sucré caramélisé est aussi populaire dans les cinémas français que le salé.",
+            "example_translation": "Caramelized sweet popcorn is as popular in French cinemas as the savory version."
+        },
+        {
+            "french": "le grain de maïs",
+            "translation": "corn kernel",
+            "example": "Quelques grains de maïs éclatés au dernier moment donnent du croquant aux mélanges de pop-corn.",
+            "example_translation": "A few kernels popped at the last minute add crunch to popcorn mixes."
+        },
+        {
+            "french": "le maïs",
+            "translation": "corn",
+            "example": "Le maïs à pop-corn, une variété spéciale à coque épaisse, se cultive surtout dans le sud-ouest de la France.",
+            "example_translation": "Popcorn corn, a special thick-hulled variety, is mainly grown in southwestern France."
+        },
+        {
+            "french": "la machine à pop-corn",
+            "translation": "popcorn machine",
+            "example": "La machine à pop-corn professionnelle des cinémas projette les grains éclatés dans un réservoir vitré, créant un spectacle appétissant.",
+            "example_translation": "Professional cinema popcorn machines project popped kernels into a glass enclosure, creating an appetizing show."
+        },
+        {
+            "french": "le cornet de pop-corn",
+            "translation": "popcorn bucket",
+            "example": "Le cornet de pop-corn géant, indissociable des séances de cinéma, contient souvent assez pour trois personnes.",
+            "example_translation": "The giant popcorn bucket, inseparable from movie screenings, often contains enough for three people."
+        },
+        {
+            "french": "la croûte",
+            "translation": "crust",
+            "example": "La croûte de la tarte doit être bien dorée et croustillante pour contraster avec la douceur de la garniture.",
+            "example_translation": "The pie crust should be golden and crispy to contrast with the filling's sweetness."
+        },
+        {
+            "french": "la tarte",
+            "translation": "pie",
+            "example": "La tarte normande, avec sa fine couche de compote de pommes et son appareil à base d'œufs, est un classique des bistrots.",
+            "example_translation": "Normandy apple pie, with its thin layer of applesauce and egg-based custard, is a bistro classic."
+        },
+        {
+            "french": "la tarte aux pommes",
+            "translation": "apple pie",
+            "example": "La tarte aux pommes façon grand-mère, avec ses quartiers de fruits disposés en rosace, est aussi belle que bonne.",
+            "example_translation": "Grandmother-style apple pie, with its fruit quarters arranged in a rosette, is as beautiful as it is tasty."
+        },
+        {
+            "french": "la pelle",
+            "translation": "peel (pizza/bread shovel)",
+            "example": "La pelle à tarte en métal permet de glisser délicatement les tartes fragiles dans le four sans les abîmer.",
+            "example_translation": "A metal pizza peel allows delicate pies to slide into the oven without damage."
+        },
+        {
+            "french": "la tarte aux cerises",
+            "translation": "cherry pie",
+            "example": "La tarte aux cerises aigres-douces, avec son jus rouge qui perle à la coupe, est encore meilleure servie tiède.",
+            "example_translation": "Sweet-sour cherry pie, with its red juice beading when sliced, is even better served warm."
+        }
+    ],
+    "Jour 1 Boire et manger 1.9": [
+        {
+            "french": "le gâteau d'anniversaire",
+            "translation": "birthday cake",
+            "example": "Le gâteau d'anniversaire à étages, décoré de paillettes comestibles, fait toujours son effet pour les fêtes.",
+            "example_translation": "The tiered birthday cake decorated with edible glitter always makes an impression at parties."
+        },
+        {
+            "french": "l'anniversaire",
+            "translation": "birthday",
+            "example": "Préparer une surprise pour l'anniversaire de quelqu'un demande beaucoup d'organisation mais crée des souvenirs mémorables.",
+            "example_translation": "Preparing a birthday surprise for someone requires lots of planning but creates unforgettable memories."
+        },
+        {
+            "french": "joyeux anniversaire",
+            "translation": "happy birthday",
+            "example": "Joyeux anniversaire chanté à l'unisson par tous les invités reste le moment le plus émouvant de la fête.",
+            "example_translation": "'Happy birthday' sung in unison by all the guests remains the most touching moment of the celebration."
+        },
+        {
+            "french": "la bougie",
+            "translation": "candle",
+            "example": "Souffler les bougies d'un seul coup porte-bonheur selon la tradition populaire française.",
+            "example_translation": "Blowing out all the candles in one breath brings good luck according to French tradition."
+        },
+        {
+            "french": "la fraise",
+            "translation": "strawberry",
+            "example": "Les fraises gariguette, avec leur forme allongée et leur goût sucré-acide, sont parfaites pour les pâtisseries printanières.",
+            "example_translation": "Gariguette strawberries, with their elongated shape and sweet-tart flavor, are perfect for spring desserts."
+        },
+        {
+            "french": "la crème chantilly",
+            "translation": "whipped cream",
+            "example": "La vraie crème chantilly doit être montée avec du sucre glace et de la vanille, sans stabilisants artificiels.",
+            "example_translation": "Authentic whipped cream should be made with powdered sugar and vanilla, without artificial stabilizers."
+        },
+        {
+            "french": "la mousse au chocolat",
+            "translation": "chocolate mousse",
+            "example": "Une mousse au chocolat réussie doit être aérienne tout en ayant une texture onctueuse en bouche.",
+            "example_translation": "A perfect chocolate mousse should be airy while maintaining a velvety texture on the palate."
+        },
+        {
+            "french": "le charlotte aux fraises",
+            "translation": "strawberry charlotte",
+            "example": "La charlotte aux fraises, avec ses biscuits à la cuillère imbibés et sa garniture fruitée, est un dessert aussi élégant que rafraîchissant.",
+            "example_translation": "Strawberry charlotte, with its ladyfinger biscuits and fruity filling, is as elegant as it is refreshing."
+        },
+        {
+            "french": "la pizza",
+            "translation": "pizza",
+            "example": "La pizza à pâte fine cuite au feu de bois atteint des températures idéales dans un four à pizza professionnel.",
+            "example_translation": "Thin-crust wood-fired pizza reaches ideal temperatures in a professional pizza oven."
+        },
+        {
+            "french": "la pâte à pizza",
+            "translation": "pizza dough",
+            "example": "La pâte à pizza maison doit reposer au moins 24 heures au réfrigérateur pour développer ses arômes.",
+            "example_translation": "Homemade pizza dough should rest for at least 24 hours in the refrigerator to develop flavor."
+        },
+        {
+            "french": "le salami",
+            "translation": "salami",
+            "example": "Le salami piquant, coupé en fines rondelles, devient croustillant à la cuisson et relève les pizzas classiques.",
+            "example_translation": "Spicy salami, thinly sliced, becomes crispy when baked and enhances classic pizzas."
+        },
+        {
+            "french": "le lard",
+            "translation": "bacon",
+            "example": "Le lard fumé coupé en lardons donne du caractère aux quiches et aux tartes salées.",
+            "example_translation": "Diced smoked bacon adds character to quiches and savory pies."
+        },
+        {
+            "french": "la garniture",
+            "translation": "topping",
+            "example": "Une garniture équilibrée ne doit pas surcharger la pizza pour ne pas rendre la pâte détrempée.",
+            "example_translation": "Balanced toppings shouldn't overload the pizza to prevent a soggy crust."
+        },
+        {
+            "french": "le sandwich",
+            "translation": "sandwich",
+            "example": "Le sandwich baguette jambon-beurre, avec son beurre salé et ses cornichons, est l'emblème du repas rapide à la française.",
+            "example_translation": "The ham-and-butter baguette sandwich, with its salted butter and pickles, is the emblem of quick French meals."
+        },
+        {
+            "french": "l'olive",
+            "translation": "olive",
+            "example": "Les olives noires de Nyons, légèrement ridées et pleines de saveur, sont parfaites pour les apéritifs.",
+            "example_translation": "Nyons black olives, slightly wrinkled and full of flavor, are perfect for appetizers."
+        },
+        {
+            "french": "l'huile d'olive",
+            "translation": "olive oil",
+            "example": "Un filet d'huile d'olive vierge extra sur une pizza sortie du four relève tous les arômes.",
+            "example_translation": "A drizzle of extra virgin olive oil on freshly baked pizza enhances all the flavors."
+        },
+        {
+            "french": "la sauce",
+            "translation": "sauce",
+            "example": "La sauce tomate maison, réduite lentement avec des herbes, fait toute la différence pour les pâtes.",
+            "example_translation": "Homemade tomato sauce, slowly reduced with herbs, makes all the difference for pasta."
+        },
+        {
+            "french": "la portion",
+            "translation": "portion",
+            "example": "Une portion raisonnable de gâteau permet de se faire plaisir sans excès pendant un régime.",
+            "example_translation": "A reasonable portion of cake allows indulgence without excess during a diet."
+        },
+        {
+            "french": "l'œuf dur",
+            "translation": "hard-boiled egg",
+            "example": "L'œuf dur coupé en rondelles décore joliment les salades composées et les sandwichs clubs.",
+            "example_translation": "Sliced hard-boiled eggs make pretty decorations for composed salads and club sandwiches."
+        },
+        {
+            "french": "le saladier",
+            "translation": "mixing bowl",
+            "example": "Un grand saladier en verre permet de bien voir les ingrédients tout en mélangeant une pâte à gâteau.",
+            "example_translation": "A large glass mixing bowl lets you see ingredients clearly while mixing cake batter."
+        }
+    ],
+    "Jour 1 Boire et manger 1.10": [
+        {
+            "french": "le grain de sel",
+            "translation": "grain of salt",
+            "example": "Quelques grains de sel rose de l'Himalaya sur une tablette de chocolat noir créent un contraste savoureux.",
+            "example_translation": "A few grains of Himalayan pink salt on a dark chocolate bar create a tasty contrast."
+        },
+        {
+            "french": "le sel de mer",
+            "translation": "sea salt",
+            "example": "Le sel de mer gris de Guérande, légèrement humide et riche en minéraux, est le préféré des chefs.",
+            "example_translation": "Grey Guérande sea salt, slightly moist and mineral-rich, is chefs' favorite."
+        },
+        {
+            "french": "le morceau de sucre",
+            "translation": "sugar cube",
+            "example": "Un morceau de sucre imbibé de café et flambé au rhum est la base du célèbre dessert canaille.",
+            "example_translation": "A sugar cube soaked in coffee and flambéed with rum is the base of the famous 'dessert canaille'."
+        },
+        {
+            "french": "le chaudron",
+            "translation": "cauldron",
+            "example": "Le chaudron en fonte suspendu au-dessus du feu est parfait pour préparer des confitures maison.",
+            "example_translation": "The cast iron cauldron hanging over the fire is perfect for making homemade jam."
+        },
+        {
+            "french": "la flamme",
+            "translation": "flame",
+            "example": "Régler la flamme du gaz à intensité moyenne permet une cuisson douce des compotes.",
+            "example_translation": "Adjusting the gas flame to medium allows for gentle cooking of fruit compotes."
+        },
+        {
+            "french": "le feu",
+            "translation": "fire",
+            "example": "Cuire les fruits à feu doux préserve leurs arômes et leurs vitamines.",
+            "example_translation": "Cooking fruits over low heat preserves their flavors and vitamins."
+        },
+        {
+            "french": "le four à gaz",
+            "translation": "gas oven",
+            "example": "Le four à gaz traditionnel donne un croustillant incomparable aux tartes aux fruits.",
+            "example_translation": "Traditional gas ovens give fruit pies an incomparable crispness."
+        },
+        {
+            "french": "le raisin",
+            "translation": "grape",
+            "example": "Le raisin sans pépins est idéal pour les collations des enfants.",
+            "example_translation": "Seedless grapes are perfect for children's snacks."
+        },
+        {
+            "french": "la grappe de raisin",
+            "translation": "bunch of grapes",
+            "example": "Une grappe de raisin bien mûre peut décorer et aromatiser un plateau de fromages.",
+            "example_translation": "A ripe bunch of grapes can decorate and flavor a cheese platter."
+        },
+        {
+            "french": "rond",
+            "translation": "round",
+            "example": "Les pommes bien rondes sont plus faciles à peler pour la compote.",
+            "example_translation": "Perfectly round apples are easier to peel for applesauce."
+        },
+        {
+            "french": "violet",
+            "translation": "purple",
+            "example": "Les prunes violettes sont les plus sucrées pour les desserts.",
+            "example_translation": "Purple plums are the sweetest for desserts."
+        },
+        {
+            "french": "la tige",
+            "translation": "stem",
+            "example": "Retirer délicatement la tige des fraises avant de les laver.",
+            "example_translation": "Gently remove strawberry stems before washing them."
+        },
+        {
+            "french": "la banane",
+            "translation": "banana",
+            "example": "La banane bien jaune avec quelques taches brunes est à son pic de saveur.",
+            "example_translation": "A yellow banana with a few brown spots is at its flavor peak."
+        },
+        {
+            "french": "la peau",
+            "translation": "peel/skin",
+            "example": "La peau des pommes bio peut être conservée pour ses nutriments.",
+            "example_translation": "Organic apple skins can be kept for their nutrients."
+        },
+        {
+            "french": "jaune",
+            "translation": "yellow",
+            "example": "Les poires jaunes sont généralement plus juteuses que les vertes.",
+            "example_translation": "Yellow pears are typically juicier than green ones."
+        },
+        {
+            "french": "peler",
+            "translation": "to peel",
+            "example": "Peler les fruits délicatement pour ne pas perdre trop de pulpe.",
+            "example_translation": "Peel fruits gently to avoid losing too much flesh."
+        },
+        {
+            "french": "le régime de bananes",
+            "translation": "bunch of bananas",
+            "example": "Un régime de bananes suspendu mûrit plus uniformément.",
+            "example_translation": "A hanging bunch of bananas ripens more evenly."
+        }
+    ],
+    "Jour 1 Boire et manger 1.11": [
+        {
+            "french": "la pomme",
+            "translation": "apple",
+            "example": "La pomme croquante est le goûter santé par excellence.",
+            "example_translation": "A crunchy apple is the ultimate healthy snack."
+        },
+        {
+            "french": "sain",
+            "translation": "healthy",
+            "example": "Manger des fruits frais est une habitude saine.",
+            "example_translation": "Eating fresh fruit is a healthy habit."
+        },
+        {
+            "french": "la pomme verte",
+            "translation": "green apple",
+            "example": "La pomme verte acidulée équilibre parfaitement les desserts trop sucrés.",
+            "example_translation": "Tangy green apples perfectly balance overly sweet desserts."
+        },
+        {
+            "french": "la compote de pommes",
+            "translation": "applesauce",
+            "example": "La compote de pommes maison sans sucre ajouté est idéale pour les bébés.",
+            "example_translation": "Homemade unsweetened applesauce is ideal for babies."
+        },
+        {
+            "french": "le pommier",
+            "translation": "apple tree",
+            "example": "Le pommier en fleurs au printemps est un spectacle magnifique.",
+            "example_translation": "Apple trees in bloom during spring are a beautiful sight."
+        },
+        {
+            "french": "le trognon",
+            "translation": "core",
+            "example": "Retirer le trognon des pommes avant de les mettre à cuire.",
+            "example_translation": "Remove apple cores before cooking them."
+        },
+        {
+            "french": "la poire",
+            "translation": "pear",
+            "example": "La poire bien mûre doit céder légèrement sous la pression du doigt.",
+            "example_translation": "A ripe pear should yield slightly to finger pressure."
+        },
+        {
+            "french": "la tarte aux poires",
+            "translation": "pear pie",
+            "example": "La tarte aux poires fondantes avec une pâte sablée est un classique de la pâtisserie française.",
+            "example_translation": "A pear pie with melting pears and shortcrust pastry is a French baking classic."
+        },
+        {
+            "french": "la feuille",
+            "translation": "leaf",
+            "example": "Les feuilles du papayer sont larges et palmées, souvent utilisées en médecine traditionnelle.",
+            "example_translation": "Papaya leaves are broad and palmate, often used in traditional medicine."
+        },
+        {
+            "french": "l'alcool de poire",
+            "translation": "pear alcohol",
+            "example": "L'alcool de poire Williams, distillé à partir de poires fraîches, a un parfum fruité intense.",
+            "example_translation": "Williams pear alcohol, distilled from fresh pears, has an intense fruity aroma."
+        },
+        {
+            "french": "la papaye",
+            "translation": "papaya",
+            "example": "La papaye bien mûre a une chair orange vif et des graines noires comestibles.",
+            "example_translation": "A ripe papaya has bright orange flesh and edible black seeds."
+        },
+        {
+            "french": "le papayer",
+            "translation": "papaya tree",
+            "example": "Le papayer pousse rapidement sous les climats tropicaux et produit des fruits toute l'année.",
+            "example_translation": "The papaya tree grows quickly in tropical climates and produces fruit year-round."
+        },
+        {
+            "french": "mûr",
+            "translation": "ripe",
+            "example": "Un fruit tropical mûr dégage un parfum doux à la base de la tige.",
+            "example_translation": "A ripe tropical fruit emits a sweet fragrance at the stem end."
+        },
+        {
+            "french": "le fruit tropical",
+            "translation": "tropical fruit",
+            "example": "La mangue et l'ananas sont parmi les fruits tropicaux les plus appréciés en Europe.",
+            "example_translation": "Mango and pineapple are among the most popular tropical fruits in Europe."
+        },
+        {
+            "french": "la pastèque",
+            "translation": "watermelon",
+            "example": "Une pastèque bien fraîche doit produire un son creux quand on la tape.",
+            "example_translation": "A fresh watermelon should produce a hollow sound when tapped."
+        },
+        {
+            "french": "couper",
+            "translation": "to cut",
+            "example": "Couper la pastèque en tranches égales facilite le service lors des pique-niques.",
+            "example_translation": "Cutting watermelon into even slices makes serving easier at picnics."
+        },
+        {
+            "french": "les pépins",
+            "translation": "seeds",
+            "example": "Les pépins de pastèque grillés et salés sont une collation nutritive dans certains pays.",
+            "example_translation": "Roasted and salted watermelon seeds are a nutritious snack in some countries."
+        },
+        {
+            "french": "juteux",
+            "translation": "juicy",
+            "example": "Les fruits bien juteux comme l'orange ou le pamplemousse sont rafraîchissants en été.",
+            "example_translation": "Very juicy fruits like oranges or grapefruits are refreshing in summer."
+        }
+    ],
+    "Jour 1 Boire et manger 1.12": [],
+    "Jour 2 activités de loisirs 2.1": [],
+    "Jour 2 activités de loisirs 2.2": []
+
+}
