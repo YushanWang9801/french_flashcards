@@ -2,6 +2,8 @@
 
 A modern flashcard application for learning French vocabulary, built with Vue 3, TypeScript, and Vite.
 
+Website Address: https://yushanwang9801.github.io/french_flashcards/
+
 ## Features
 
 - Interactive flashcard system
